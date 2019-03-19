@@ -258,11 +258,15 @@ Piken Square prior to the Searing was an abandoned area located in The Northland
 
 The Gaban estate is the former estate of Duke Gaban. It resides on the northern edge of Ascalon, and was barely missed by the scorching aspects of the Searing. Due to its far placement to the north, it was one of the first places assaulted by the Charr and its ruins were converted into an arena. It is connected to a series of catacombs which is said that no one, except for Gwen, escaped from.
 
+--------------
+
 # Blazeridge Mountains
 
 The Blazeridge Mountains is the mountain range east of Ascalon that curves down from north of Drascir to where it merges with the Southern Shiverpeaks north of the Crystal Desert. As such, it acts as a natural boundary between Ascalon and the Crystal Desert as well as the charr controlled lands to the east. The currently abandoned mining village of Ebonhawke resides where the mountain range merges with the Shiverpeak Mountains. 
 
 Currently, ogres reside in the Blazeridge Mountains.
+
+--------------------
 
 # Charr Homelands
 
@@ -335,6 +339,8 @@ It is one of last remaining bastions of the Shaman-ruled Charr society. It is al
 ### Rragar’s Menagerie
 
 *Greater dangers awaited deep within the earth, where a Charr named Rragar Maneater bred a race of murderous creatures. These creatures, known as fleshreavers, were horrible, voracious monsters with an unusual evolutionary method. Young fleshreavers, it seems, are born as barely more than tiny skeletons. To survive and evolve, the emaciated young rely on their parents to harvest muscle, organ, and fat from their prey, and then layer it over their skeletons of the newborns. Rragar had taken advantage of this disgusting, yet easily-manipulated evolution, to perform ghastly experiments on the fleshreavers, turning them into powerful weapons to be used against humanity. By searching carefully, we found unexpected allies among Rragar's failed creations. Rragar was still difficult to defeat, for he was armed with powerful magic and could teleport freely around his twisted workshop.*
+
+----------------
 
 # Crystal Desert
 
@@ -484,6 +490,8 @@ The Throne of Pellentia is a throne in the Temple of Ascension. It was built by 
 
 This graveyard is a series of Forgotten structures surrounding a pit of gargantuan bones within northwestern Vulture Drifts. Some smaller skulls of the same kind of creature are placed above and around the Forgotten structures as well.
 
+-------------
+
 # Depths of Tyria
 
 *The Dwarves have provided limited information about the mysteries they have uncovered beneath the earth. Initial reports describe an immense, interconnected underground complex they call the "Depths of Tyria." These natural caves and excavated areas house structures left behind by civilizations dating back to a time before the arrival of humans in Tyria. The Depths are connected by a series of magical gateways that allow swift travel through miles of earth and stone.* 
@@ -524,9 +532,13 @@ This is the transition area that brings players from Guild Wars Nightfall into G
 
 This is the transition area that brings players from Factions to Eye of the North.
 
+------------------
+
 # Janthir
 
 Janthir is the desolate-looking island north of Kryta where Saul D'Alessio claimed the Eye of Janthir for the White Mantle to perform the Test of the Chosen. The inhabitants of the island are said to have the gift of True Sight, the ability to see someone for who they really are.
+
+--------------
 
 # Krytan Kingdom
 
@@ -776,6 +788,8 @@ The name of this area is derived from its two lakes—one in the north, the othe
 
 Watchtower Coast is a relatively peaceful area in northern Kryta, named for the ancient watchtowers that dot the landscape. The towers, legend has it, were built to fend off some unknown threat from across Giant's Basin, but their true purpose remains unknown.
 
+-----------
+
 # Maguuma Jungle
 
 *Years ago, many tribes of human druids lived among the Maguuma's lush greenery and wildlife. But it has been a long time since anyone has heard word from them, and many believe that they were eaten by hostile jungle creatures or simply swallowed whole by the man-eating plants now rampant in the jungle.* 
@@ -892,6 +906,8 @@ The Temple of Balthazar is located in the southwest area of The Falls. It is an 
 
 *The Maguuma Jungle is perhaps the most dangerous place on the continent of Tyria. The Krytans don't often venture inside its borders, and those who do are seldom heard from again. Stories of man-eating plants and gigantic insects are commonly told around the campfires and inside the huts of the local villages; most of the time to scare little children from wandering into its clinging vines.*
 
+--------------
+
 # Orr
 
 *Situated on a peninsula south of Ascalon and west of the Crystal Desert, Orr was a vibrant, proud, and prosperous nation. Its citizens were the favored of the gods, living in the shadows of Arah, the deserted city once inhabited by the likes of Melandru, Dwayna, and Balthazar. Deeply spiritual, the Orrians looked after the buildings and structures left behind when the gods left Tyria, caring for them in the hopes that one day, the divine beings who created magic and bestowed it upon the world would return.* 
@@ -911,6 +927,8 @@ The Temple of Balthazar is located in the southwest area of The Falls. It is an 
 The Kingdom of Orr was the first human kingdom established on the continent of Tyria, created by both god and man.[1] From 100 BE, the kingdom was ruled alongside Ascalon by King Doric until his death in 1BE. Orr gained its independence in the year 2 AE. At the time of the Second Great Corsair War and King Zoran's reign, Orrian territory is known to have extended into the Tarnished Coast, and included the caverns now known as the Shards of Orr. Orr was once the most vibrant, proud, and prosperous human nation in the known world. Its citizens believed themselves to be the favored of the Six Human Gods, living in the shadows of Arah which was once inhabited by the gods themselves. Orr was known nexus of arcane activity and research; in the Orrian History Scrolls, an unknown Ascalonian author expresses shock at the casual way with which magic was viewed by the citizens of Orr, which is now known to be a place of extremely high magic concentration. Since its sinking in the Cataclysm in 1071 AE, it has been inhabited by both wandering undead and corsairs seeking refuge and to pillage. 
 
 The Elder Dragon Zhaitan resides underneath Orr.
+
+--------------
 
 # Ring of Fire Islands
 
@@ -946,6 +964,8 @@ Ember Light Camp is the only non-mission outpost in the Ring of Fire Island Chai
 
 *The large volcano at the center of this ring is where the gods reportedly dropped the legendary Bloodstones before leaving Tyria for good. Of the volcanic island that surround this one, many are still active. Ships that pass by the Ring report hearing the tell-tale hiss of scalding hot lava hitting the ocean, instantly vaporizing the saltwater into steam.*
 
+---------------
+
 # Shiverpeak Mountains
 
 *For hundreds of years, all the dwarves in this mountain range were united under one flag: the nation of the Deldrimor dwarves. Most of the architecture in the Shiverpeaks was built during this time, and it reflects a time of peace and prosperity—but that time is over now. Today, the mountains ring with the sounds of civil war, and new architecture has sprung up: slabs of stone lashed together with huge iron chains mark the areas where a new guild—those who have broken from the old ways—have made new settlements.* 
@@ -967,6 +987,8 @@ Regions: While geographically the same, game mechanics divided the Shiverpeak Mo
 ·        The Southern Shiverpeaks encompasses the part of the mountain range to the south of Beacon's Perch and houses the capital of Deldrimor and the primary base of the Stone Summit. The northern and southern regions are connected by Lornar's Pass that contains long winding valleys.
 
 ·        The Far Shiverpeaks lie to the far north to the Northern Shiverpeaks and is outside of the Dwarves' rule, instead they are inhabited by Jotun, Norn, and Modniir Centaurs and are littered with ruins of an unknown ancient civilization
+
+-----------
 
 # Northern Shiverpeaks
 
@@ -1042,6 +1064,8 @@ Traveler's Vale is most frequently traversed path in the Northern Shiverpeaks as
 
 Yak's Bend is a village in the Northern Shiverpeaks.
 
+-----------------
+
 # Southern Shiverpeaks
 
 The Southern Shiverpeaks is, as the name implies, southern portion of the Shiverpeak Mountains and home to the capital of the Dwarves. In contrast to the Northern Shiverpeaks, this segment of the mountain range is considerably harsher. All kinds of wildlife, such as Tundra Giants, Frost Wurms, Ice Imps, Blessed Griffons, and Mountain Trolls, roam the snowy tundra, and, in addition to Deldrimor and the Stone Summit, it is currently occupied by other warring factions: the Avicara Tengu, White Mantle, Shining Blade, and Mursaat. The northern and southern areas are connected by several long, winding, and treacherous valleys, heavily populated with dangerous indigenous creatures.
@@ -1095,9 +1119,9 @@ Marhan's Grotto is an outpost to the south of Ice Floe. Its a small grotto where
 *Once, Dwarves from all over the Shiverpeaks made the trek here to barter with Marhan the Mighty, a weaponsmith who was reputed for making the best axes in all the land. After he passed into the Great Forge, this grotto was named in his honor.*
 
 
- 
 
- 
+
+
 
 ## Iron Mines of MOladune
 
@@ -1198,6 +1222,8 @@ Witman's Folly is a relatively small area that is made up snowy terrain and ice 
 *This bustling port supplies the Dwarves with much of their goods and supplies. The dockworkers are kept busy with a constant flow of ships coming and going, and the market is always filled with exotic and practical wares. The cold temperatures, heavy snowfall, and frozen waters make no difference to the hearty Dwarves, but travelers are wise to bring heavy coats and plenty of warm blankets.*
 
 Port Sledge is a small, tranquil outpost to the southeast of Droknar's Forge, the two are separated by Witman's Folly. It's a small snowy outpost that serves as a port. Its most prominent feature is the long bridge leading to Witman's Folly.
+
+---------------
 
 # Far Shiverpeaks
 
@@ -1389,6 +1415,8 @@ In the southwest corner of the Far Shiverpeaks, Varajar Fells connects Norn land
 
 A stone circle is located on the east-central side of Varajar Fells has a small enclosed section that is darkened by shadows. This location is tied closely to the Mists and during Wintersday, the boundary between Tyria and the Underworld is weakest here. The spirits of the dead also seem drawn here.
 
+------------
+
 # Tarnished Coast
 
 Previously uninhabited, the Tarnished Coast is the coast of the Maguuma Jungle. It is where the Asura now reside, forced from the Depths of Tyria by the Destroyers. It currently acts as their staging ground for their stand against the Great Destroyer. It is full of ruins that have been renovated by the Asura, and is home to ground that is brimming with magical energies, and in turn levitates. Some of this magic is harnessed for the Golems. 
@@ -1503,6 +1531,8 @@ Gadd's Encampment is an outpost situated west of the Shiverpeaks on the eastern 
 
 *Sorrow's Furnace was not the only place where the evil Stone Summit had pressed the Dredge into forced labor. Deep within the Vloxen Excavations, Dredge toiled away under the watchful eye of their Stone Summit taskmasters. On the surface, this dig appeared as yet another ore mining operation, but clues hinted that the Stone Summit had uncovered unspeakable horrors. They were using slaves to excavate this ancient evil. With the help of some escapees, we confronted this horrific presence and stopped the Stone Summit's wicked plans.*
 
+-------------
+
 # Woodland Cascades
 
 Woodland Cascades is a forested area that lies north of Kryta.
@@ -1526,9 +1556,10 @@ Slavers' Exile is Guild Wars' sole elite dungeon. The entrance is located in the
 ### Umbral Grotto
 
 *Tucked between the dark granite of the mountain fastness, the Umbral Grotto is a lurking place for those who wish to keep their activities shrouded in shadow. The caverns beneath are overrun with Stone Summit Dwarves from the southern Shiverpeaks, making the grotto a dangerous place to wander.*
- 
 
-Cantha
+------
+
+# Cantha
 
 Cantha is a continent in the world of Tyria that was first introduced in Guild Wars Factions. It is located to the southwest of the continents of Tyria and Elona. The northern coastline of Cantha is the earliest known location of human settlements, dating back to the late pre-imperial era, 276 years before the beginning of the Canthan calendar, and predating the earliest known human presence in Tyria and Elona by 581 years.
 
@@ -2265,7 +2296,7 @@ The Harvest Temple, also known as Kuan Jun Temple, was the holy place where the 
 ### Unwaking Waters (Outpost)
 
 *Previously the site of a floating temple known as Kuan Jun, the Harvest Temple, the Unwaking Waters is an immense, frozen whirlpool. When the Jade Winds passed over Cantha and Kuan Jun sunk beneath the ocean's surface, the whirlpool was formed, and like everything else in the path of the winds, became solid jade. Legends say a powerful dragon was trapped within the temple and lives there still.*
- 
+
 
 
  

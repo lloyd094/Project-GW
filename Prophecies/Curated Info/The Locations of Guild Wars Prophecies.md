@@ -72,7 +72,7 @@ Once a land of lush green rolling hills, the Eastern Frontier is now like the re
 
 #### Pockmark Flats
 
-At the southern end of the Eastern Frontier lies the Pockmark Flats. In the north lies the Pockmark Crystal - an exceedingly large crystal leftover from the Searing, embedded in the earth and surrounded by a moat of tar. The south holds testament to the destruction during the Searing, demonstrating an extensive stretch of ruins and broken architecture with uneven trials winding through the landscape. 
+At the southern end of the Eastern Frontier lies the Pockmark Flats. In the north lies the Pockmark Crystal - an exceedingly large crystal leftover from the Searing, embedded in the earth, and surrounded by a moat of tar. The south holds testament to the destruction during the Searing, demonstrating an extensive stretch of ruins and broken architecture with uneven trials winding through the landscape. 
 
 One such ruin was the Serenity Temple, known to once be the largest in Ascalon, dedicated to all five Tyrian gods. The priests and priestesses of the temple try their best to continue their worship and rituals, though the temple is now nearly indistinguishable from the surrounding rubble.
 
@@ -138,13 +138,66 @@ The first capital of Ascalon until it was taken by the Charr.
 
 ## The Crystal Desert
 
+### Northern Crystal Desert
 
+- Amnoon Oasis and Arena
+- Salt Flats
+- Elona Reach
+- Diviner's Ascent
+- (Far North) Tomb of the Primeval Kings
+- (Far North) The Dragons Lair
+
+### Southern Crystal Desert
+
+> Is this second section worth having? Is the desert large enough to be split?
+
+- Prophet's Path
+  - Hero's Audience
+- Skyward Reach
+  - Augury Rock
+- The Scar
+- Thirsty River
+- Vulture Drifts
+  - Dunes of Despair
+  - Temple of Ascension
+- The Arid Sea
+  - Lonely Vigil
 
 ------------
 
 ## The Krytan Kingdom
 
+### North Krytan Province
 
+- Griffon's Mouth
+- Scoundrel's Rise
+- North Krytan Province
+- Nebo Terrace
+- D'Alessio Seaboard
+- Lions Arch
+  - Lion's Gate
+  - Gates of Kryta
+
+### Divinity Coast
+
+- Divinity Coast
+- Watchtower Coast
+- Cursed Lands
+- Beetletun
+- The Black Curtain
+- Talmark Wilderness
+
+**Kessex Hills**
+
+- Tears of the Fallen
+- Kessex Peak
+- Stingray Strand
+- Swin Serpent Lakes
+
+### Riverside Province
+
+- Riverside Province
+- Sanctum Cay
 
 ----------
 
