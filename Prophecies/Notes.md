@@ -17,6 +17,7 @@ This list is to keep track of those who have helped out in some form or another 
 ### Team Members and Regular Contributors
 
 - Christopher Harlan (lloyd094)
+- /r/Sirjisu
 
 ### Outside Contributors
 

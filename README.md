@@ -11,7 +11,7 @@ This project intends to bring the world of Guild Wars to the Tabletop Community 
 3. **We are a semi-public group.** While I do not mind sharing some of our work, I'd rather not others influence *directly* on the project unless they are members <u>or</u> go through the proper channels to contribute (pull requests or issue opening). Pretty simple. It's not like we are a secret agency - feel free to discuss and share whatever you'd like.
 4. **Be courteous.** This falls in line with the first guideline, but don't expect everything will get done right away. We are all our own people, and with that in mind, please respect that. This goes for anything that also *may or may not* branch into the realm of political or religious discussions. This is not a ban, as I do not support censorship - simply, don't be assholes to other people.
 5. **Content.** I would like to keep the lore and things as close to the actual thing while making it worthwhile and appropriate for the TTRPG universe. And while GW2 *does exist* and is awesome, we will be sticking with primarily GW1 lore for adhesiveness. Still, if you have an idea, let's hear it!
-6. **Questions or Concerns.** If you have any, feel free to make comments here, open a ticket, chat in a TBA chat area, or email me directly at lloyd094@gmail.com.
+6. **Questions or Concerns.** If you have any, feel free to make comments here, open a ticket, chat in [our discord](https://discord.gg/xd2t4mb), or email me directly at lloyd094@gmail.com.
 
 -----------
 
