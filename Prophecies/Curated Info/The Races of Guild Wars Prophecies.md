@@ -57,6 +57,10 @@ https://wiki.guildwars.com/wiki/Charr
 
 https://wiki.guildwars.com/wiki/Category:Charr_culture
 
+https://www.dandwiki.com/wiki/Charr_(5e_Race) 
+
+- Perhaps look at Minotaur, Bugbear, <u>Half-orc</u>, and <u>Tabaxi</u>
+
 ### Ash Legion
 
 The Ash Legion is one of the four [High Legions](https://wiki.guildwars.com/wiki/High_Legion) of the [charr](https://wiki.guildwars.com/wiki/Charr). The Ash Legion is famed for its [stalkers](https://wiki.guildwars.com/wiki/Charr_Stalker) and [Assassins](https://wiki.guildwars.com/wiki/Assassin). Known members of its primus [warband](https://wiki.guildwars.com/wiki/Warband) include [Ghast Ashpyre](https://wiki.guildwars.com/wiki/Ghast_Ashpyre) and [Rox Ashreign](https://wiki.guildwars.com/wiki/Rox_Ashreign). It is not known whether [War Ashenskull](https://wiki.guildwars.com/wiki/War_Ashenskull) belonged to the Ash warband or the hypothetical Ashen warband, as charr surnames generally use the warband's name as a prefix.
@@ -162,6 +166,10 @@ https://wiki.guildwars.com/wiki/Seer
 ## Tengu
 
 Tengu *are a unique* [species](https://wiki.guildwars.com/wiki/Species) *of avian humanoids found in both* [Tyria](https://wiki.guildwars.com/wiki/Tyria) *and* [Cantha](https://wiki.guildwars.com/wiki/Cantha)*. Females are generally larger than males of the species, though their plumage is plainer, even drab. Tengu lost the ability of flight some time in the distant past, but can use their almost human hands to wield all manner of weapons—when they want to. Their talons make most weapons superfluous. Tengu hate cooked food, and most live on a diet of fresh, raw meat.*
+
+https://www.dandwiki.com/wiki/Tengu_(5e_Race)
+
+https://www.dandwiki.com/wiki/Tengu_(3.5e_Race)
 
 Divided into Tribes
 
