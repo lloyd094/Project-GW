@@ -6,6 +6,25 @@ https://wiki.guildwars.com/wiki/Creature_type
 
 > This is going to be one hell of a section - lots of areas and effort to determine which differences to include and ignore. However, some of these creatures are similar to non-GW creatures, which could enable us to save some time.
 
+## Notes
+
+### Levels
+
+In GW, players hit max level at 20 - similar to 5e. However, monsters were allowed to go all the way up to level 42! This makes things tough to determine how to go about balancing. Luckily, "The Angry GM" makes some very good notes on how to build custom monsters. For many monsters, it might be easier to take the level, divide by 2, and round down. But do this at a case by case basis.
+
+### Resources
+
+This will include a list of useful sites to use to create creature blocks and reskins (for certain monsters).
+
+- https://theangrygm.com/series/custom-monster-building/
+- https://donjon.bin.sh/5e/monsters/
+- http://chisaipete.github.io/bestiary/
+- https://wiki.guildwars.com/wiki/Level
+- https://www.reddit.com/r/DnD/comments/7jqsz7/dragon_sizes/
+- http://thegeniusinc.com/dd-monster-maker-download/?ref=3.0.0
+
+
+
 ### Sources
 
 Other than GW(2) Wiki, the sources below were used in working on this section:
