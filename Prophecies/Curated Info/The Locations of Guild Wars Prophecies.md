@@ -14,6 +14,10 @@ This document covers the locations of the Guild Wars Prophecies Campaign, organi
 
 This area is split into three overarching areas: The Northlands, The Eastern Frontier, and The Plains of Ashford.
 
+> Upon further thinking and advice, the idea to split things into smaller areas is put on hold - I will be working on map concepts to see what I can come up to figure something out that I find suitable.
+>
+> If you have ideas for this area, you are always free to let me know!
+
 ### The Northlands
 
 *Containing Game Areas of: Diessa Lowlands, Dragon’s Gullet, Flame Temple Corridor, The Breach, the Great Northern Wall, and Piken Square.*
