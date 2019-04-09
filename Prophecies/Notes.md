@@ -21,7 +21,9 @@ This list is to keep track of those who have helped out in some form or another 
 
 ### Outside Contributors
 
-- **Reddit**: DrFelis, EmirateJoey, Ghotistyx_, jmartkdr, Minnesotexan, SgtTreehugger, Shpleeblee, SolDelta, TangerineX, Varorson, xsdf
+- **Discord**: Peewee#0809
+
+- **Reddit**: DrFelis, EmirateJoey, Ghotistyx_, HowYouMineFish, jmartkdr, JunWasHere, laspammy, Minnesotexan, rashandal, refugeeinaudacity, Rotvoid, SgtTreehugger, Shpleeblee, SolDelta, sylva748, TangerineX, The_Stuey, Varorson, XiahouMao, xsdf
 
 
 
