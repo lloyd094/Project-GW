@@ -12,15 +12,64 @@ This document covers the locations of the Guild Wars Prophecies Campaign, organi
 
 ## Ascalon
 
-This area is split into three overarching areas: The Northlands, The Eastern Frontier, and The Plains of Ashford.
+*Blasted and battered, the current landscape of Ascalon holds only the ghost of its former glory. Skeletons of grand cathedrals and remnants of whole cities lie broken on the shifted, displaced ground. The protective Great Northern Wall is perhaps the most intact structure in the entire kingdom, but the destruction that surrounds it lies in testament to its ultimate failure.* 
 
-> Upon further thinking and advice, the idea to split things into smaller areas is put on hold - I will be working on map concepts to see what I can come up to figure something out that I find suitable.
->
-> If you have ideas for this area, you are always free to let me know!
+*Before the Charr invasion and the Searing, Ascalon was a fertile land, full of wheat fields and blossoming flowers. Now though, little grows here in this wasteland. The once loamy earth is now dry and arid. The riverbeds have dried up, and the mudflats have turned into a patchwork of cracked plates and jagged scars in the ground.*
 
-### The Northlands
+\- The Guildwars Manuscripts
 
-*Containing Game Areas of: Diessa Lowlands, Dragon’s Gullet, Flame Temple Corridor, The Breach, the Great Northern Wall, and Piken Square.*
+Ascalon is the remains of a once powerful kingdom, now in ruins standing testament to the power of the Searing. The Great Northern Wall stands, breached and broken in several areas, dividing the land between the north and south. Current day Ascalon is no longer green, instead filled with scorched and barren earth, hostile inhabitants, and deadly geographical features. Breaking up the monotony of ruin are some remaining sites, consisting of small communities attempting to survive, unique land transformations, or old ruins from the past.
+
+### South of the Wall
+
+**Ascalon City.** Residing upon the southern side of The Wall, Ascalon City is the largest city and cultural center of Ascalon, although her structures lie in shambles. One of the few remaining locations is the area - a large circle with a tar pond in the middle. The residents of the city are comprised of traders, refugees from the surrounding lands, and soldiers. 
+
+- <u>Captain Arne</u> can be found recruiting able bodied adventurers to the cause of Prince Rurick's Vanguard. Those who decide to aid the cause can expect to help protect supply runs, help local soldier outposts, and carry out missions eradicating nearby Charr encampments.
+- <u>Symon the Scribe</u> is trying to archive the history of Ascalon before it all goes to ruin. Travelers could bring him historical information to record for a small reward, or ask about locations nearby to explore in return for bringing back something important.
+
+- <u>Warmaster Tydus</u> is an Ascalonian military officer loyal to King Adelbern. Tydus always has tasks needing completed, ranging from the delivery of messages, escorting recruits, defending the wall, and clearing out scavengers.
+
+**Eastern Frontier.** Once a land of rolling green hills, the Eastern Frontier is now like the rest of Ascalon – ruined, barren, and littered with ruins. Large sections of the once great wall now lie scattered and broken. To the north lies Frontier Gate, a pre-searing portal of entry, with the ruins of Surmia beyond.
+
+- Caravans of traders and refugees often face dangers of attacks in this area. Adventurers in need of coin can find a job escorting every so often.
+- The Charr have established a foothold along the northern parts of the frontier. Unlucky parties may find themselves walking into an encampment unprepared.
+- The hostile land has allowed the grawl and devourers to flourish - groups should take care to be appropriately prepared.
+
+**Old Ascalon.** The plains were once covered in hills and farms and populated with citizens wanting to live outside of Ascalon city. Now, like the remainder of Ascalon, the land is now barren and blasted. In the center of Old Ascalon lies Sardelac Sanitarium - a small settlement once known as Ashford Abbey and home to the Ascalon Catacombs. During the Searing, entrance to the Catacombs collapsed.
+
+In the north of Old Ascalon is the location the Charr broke through the wall and invaded the rest of Ascalon known as "the Breach." Heading south leads to the Regent Valley. Adventurers here are likely to find residents in need of some form of help, as most who reside here have lost almost everything to the Searing.
+
+**Pockmark Flats.** At the southern end of the Eastern Frontier lies the Pockmark Flats. In the north lies the Pockmark Crystal - an exceedingly large crystal leftover from the Searing, embedded in the earth, and surrounded by a moat of tar. The south holds testament to the destruction during the Searing, demonstrating an extensive stretch of ruins and broken architecture with uneven trials winding through the landscape. 
+
+One such ruin is the remains of Serenity Temple, known to once be the largest in Ascalon, and dedicated to all five Tyrian gods. The priests and priestesses of the temple try their best to continue their worship and rituals, though the temple is now nearly indistinguishable from the surrounding rubble.
+
+**Regent Valley.** 
+
+
+
+### North of the Wall
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------------
+
+
+
+
+
+
 
 #### Diessa Lowlands
 
