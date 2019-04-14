@@ -20,6 +20,8 @@ This document covers the locations of the Guild Wars Prophecies Campaign, organi
 
 Ascalon is the remains of a once powerful kingdom, now in ruins standing testament to the power of the Searing. The Great Northern Wall stands, breached and broken in several areas, dividing the land between the north and south. Current day Ascalon is no longer green, instead filled with scorched and barren earth, hostile inhabitants, and deadly geographical features. Breaking up the monotony of ruin are some remaining sites, consisting of small communities attempting to survive, unique land transformations, or old ruins from the past.
 
+**The Great Northern Wall.** The Great Wall began construction near the start of the last Guild Wars to protect Ascalon against threats by the Charr, stretching from the Shiverpeak Mountains to the Eastern Frontier. Over time, Ascalonians expanded northward beyond the wall and established great cities beyond the wall's protection. The Wall was severely damaged and broken during the Searing and now stands as a mere shadow of its former glory. There are two main passages between the north and south currently accessible: Hammer Gate to the west of Ascalon City, and Frontier Gate in the north of the Eastern Frontier.
+
 ### South of the Wall
 
 **Ascalon City.** Residing upon the southern side of The Wall, Ascalon City is the largest city and cultural center of Ascalon, although her structures lie in shambles. One of the few remaining locations is the area - a large circle with a tar pond in the middle. The residents of the city are comprised of traders, refugees from the surrounding lands, and soldiers. 
@@ -43,18 +45,26 @@ In the north of Old Ascalon is the location the Charr broke through the wall and
 
 One such ruin is the remains of Serenity Temple, known to once be the largest in Ascalon, and dedicated to all five Tyrian gods. The priests and priestesses of the temple try their best to continue their worship and rituals, though the temple is now nearly indistinguishable from the surrounding rubble.
 
-**Regent Valley.** 
+**Regent Valley.** The land stripped bare and the rivers befouled, Regent Valley is now overrun by monsters, highwaymen, and Charr. Fort Ranik, ruins of an old Ascalon military facility from the Guild Wars, can be found in the north eastern part of the valley.
 
-
+- <u>Lord Darrin</u> was tasked with overseeing Fort Ranik before the searing, and continues to remain dutifully at his post. He can always use help to aid his cause or to make the surrounding land safer.
+-  Many creatures call this area home now, with the most predominant inhabitants being devourers, grawl, moa, and bandits. The Charr have also claimed portions of land and make travel that much more difficult.
 
 ### North of the Wall
 
+**Ascalon Foothills.** Perhaps one of the most dangerous areas within the region, the Ascalon Foothills is the natural transition between the plains and the Shiverpeak mountains. The ill-prepared may find themselves face to face with elementals and hydra here.
 
+**Diessa Lowlands.** The Diessa Lowlands is covered with the jagged ruins of past cities in remembrance of the invasion. One such ruin is the former grand courthouse of Grendich Village, now standing in shambles. Travels through here are dangerous due to the roaming Charr, elementals, and gargoyles.
 
+**Dragon's Gullet.** In the northern most parts of Ascalon lies a wasteland of tar pits, rugged hills, and scattered ruins known as the Dragon’s Gullet. This extremely inhospitable area is home to little wildlife, but those that remain have managed to adapt to the hostile environment. To the south is a strip of land known as the Flame Temple Corridor, a small blasted area of gullies winding between the surrounding hills. The Charr have made a makeshift flame temple here where they perform ritual sacrifices.
 
+**Drascir.** (?)
 
+**Nolani Academy.** [TBA]
 
+**Piken Square.** A small settlement just north of the wall, Piken Square was a bustling market where farmers and merchants would come to hawk their wares. Now only ruined stalls remain, abandoned and empty like the graveyard contained within.
 
+**Surmia.** [TBA]
 
 
 
@@ -63,121 +73,8 @@ One such ruin is the remains of Serenity Temple, known to once be the largest in
 
 
 
--------------
 
 
-
-
-
-
-
-#### Diessa Lowlands
-
-The Diessa Lowlands, like the rest of Ascalon, is scorched, barren, and dotted with the ruins of Ascalonian cities. One such ruin is the former grand courthouse of Gredich Village. 
-
-<u>What you can find here</u>: Charr patrols, gargoyles, elementals, devourers..
-
-#### Dragon’s Gullet
-
-In the northern parts of the Diessa Plateau is a wasteland of tar pits, rugged hills, and scattered ruins known as the Dragon’s Gullet. This extremely inhospitable area is home to little wildlife, but those that remain have managed to adapt to the hostile environment. 
-
-<u>What you can find here</u>: Charr Patrols (rare), …
-
-#### Flame Temple Corridor
-
-Separating Dragon’s Gullet from the rest of the Diessa Plateau is a strip of land known as the Flame Temple Corridor, a small blasted area of gullies winding between the surrounding hills. The Charr have made a makeshift flame temple here where they perform ritual sacrifices.
-
-<u>What you can find here</u>:
-
-#### The Breach
-
-Named “the Breach” post scorching, this is the area where the Charr first broke through and invaded the Rest of Ascalon. In addition to the scorched land, the rivers are tainted with tar from the Charr invasion.
-
-<u>What you can find here</u>: 
-
-#### Great Northern Wall
-
-The Great Wall began construction near the start of the last Guild Wars to protect Ascalon against threats by the Charr, stretching from the Shiverpeak Mountains to the Eastern Frontier. Over time, Ascalonians expanded northward beyond the wall and established great cities beyond the wall's protection. The Wall was severely damaged and broken during The Searing, now standing as a mere shadow of its former glory. 
-
-##### Hammer Gate
-
-One of the few gates connecting Old Ascalon to the Northlands, Hammer Gate is is now used as the primary gate of passage to the north.
-
-##### The Northern Gate
-
-Prior to the Searing, the Northern Gate was the grand, diplomatic entrance used to greet visiting dignitaries. Now, it is just another outpost, manned by the Ascalon army and citizens who volunteer for guard duty.
-
-#### Piken Square
-
-In years past, Piken Square was a bustling market where farmers and merchants would come to hawk their wares. Now only ruined stalls remain, abandoned and empty like the graveyard contained within.
-
-<u>What you can find here</u>:
-
--------
-
-### The Eastern Frontier
-
-*Containing Game Areas of: The Eastern Frontiers, Pockmark Flats, and Ruins of Surmia*
-
-Once a land of lush green rolling hills, the Eastern Frontier is now like the rest of Ascalon – ruined, barren, and littered with ruins. Large sections of the once great wall now lie scattered and broken. The remains of Surmia, built as a monument to those who died in the second Guild Wars and a prosperous city of Ascalon, lie just to the north of the Northern Wall barrier. 
-
-<u>What you can find here</u>: Charr Encampments (NE), Grawl (NW), Devourers (S)
-
-#### Pockmark Flats
-
-At the southern end of the Eastern Frontier lies the Pockmark Flats. In the north lies the Pockmark Crystal - an exceedingly large crystal leftover from the Searing, embedded in the earth, and surrounded by a moat of tar. The south holds testament to the destruction during the Searing, demonstrating an extensive stretch of ruins and broken architecture with uneven trials winding through the landscape. 
-
-One such ruin was the Serenity Temple, known to once be the largest in Ascalon, dedicated to all five Tyrian gods. The priests and priestesses of the temple try their best to continue their worship and rituals, though the temple is now nearly indistinguishable from the surrounding rubble.
-
----------
-
-### Plains of Ashford
-
-*Containing Game Areas of: Old Ascalon, Ascalon City, Ascalon Arena, Regent Valley, Nolani Academy, and the Gaban Estate.*
-
-#### Old Ascalon
-
-
-
-#### Ascalon City
-
-
-
-#### Ascalon Arena
-
-
-
-#### Sardelac Sanitarium
-
-
-
-#### Regent Valley
-
-
-
-#### Rin
-
-
-
-#### Nolani Academy
-
-
-
-#### The Gaban Estate
-
-
-
-------------
-
-### Other Locations
-
-> These are currently locations that *may* belong here but are unsorted for the time being.
-
-#### Drascir
-
-The first capital of Ascalon until it was taken by the Charr.
-
-#### Frontier Gate
 
 
 
