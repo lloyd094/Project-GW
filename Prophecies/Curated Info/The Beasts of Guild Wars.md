@@ -1,6 +1,6 @@
-# The Beasts of Guild Wars Prophecies
+# The Beasts of Guild Wars
 
-This section aims to contain all the beasts players can expect to find in Tyria and the Guild Wars Prophecies campaign. Essentially, this will be "the bestiary."
+This section aims to contain all the beasts players can expect to find in the world within Guild Wars. Essentially, this will be "the bestiary."
 
 https://wiki.guildwars.com/wiki/Creature_type
 
@@ -39,19 +39,22 @@ Abominations are giant creations of flesh and bone that can be found in the Ring
 
 https://wiki.guildwars.com/wiki/Abomination
 
-### Abominations
-
-Specifically found in Dragon's Gullet, Ascalon.
-
-https://wiki.guildwars.com/wiki/Abomination_(NPC)
-
-### Flesh Golem
-
-Flesh Golems are disturbing creatures that roam [Perdition Rock](https://wiki.guildwars.com/wiki/Perdition_Rock). These twisted aberrations of nature are powerful [necromancers](https://wiki.guildwars.com/wiki/Necromancer), though not [undead](https://wiki.guildwars.com/wiki/Undead) themselves.
-
-https://wiki.guildwars.com/wiki/Flesh_Golem_(NPC)
+- Abomination
+- Fire Golem
+- Flesh Golem
+- Dead Collector
+- Dead Thresher
+- Lesser Flame Sentinel
 
 -------------
+
+## Afflicted
+
+https://wiki.guildwars.com/wiki/Afflicted
+
+- Afflicted (Shiro's Army)
+
+---------
 
 ## Arachnid
 
@@ -59,41 +62,55 @@ Arachnids are giant spiders that are mostly found in forests, caves, and savanna
 
 https://wiki.guildwars.com/wiki/Arachnid
 
-### Deadly Crypt Spider
+- Deadly Crypt Spider
+- Giant Needle Spider
+- Giant Tree Spider
+- Lava Spitter
+- Maguuma Spider
+- Moss Spider
+- Stalking Nephila
+- Veldt Nephila
+- Dune Spider
+- Needling Lavastrider
+- XWeaver
+- Armored Cave Spider
 
-Deadly Crypt Spiders are foes that are encountered in [the Catacombs](https://wiki.guildwars.com/wiki/The_Catacombs) in [pre-Searing Ascalon](https://wiki.guildwars.com/wiki/Pre-Searing_Ascalon). They spawn from the ceiling, as if dropping down on a web, and they share the same appearance as [Spider](https://wiki.guildwars.com/wiki/Spider).
+-----------
 
-https://wiki.guildwars.com/wiki/Deadly_Crypt_Spider
+## Asura
 
-### Giant Needle Spider
+https://wiki.guildwars.com/wiki/Asura
 
-Giant Needle Spiders drop out of trees. When carrying basket of apples (see [The Orchard](https://wiki.guildwars.com/wiki/The_Orchard) quest), they drop out of trees even faster.
+...
 
-https://wiki.guildwars.com/wiki/Giant_Needle_Spider
+-----------
 
-### Giant Tree Spider
+## Beast
 
-Giant Tree Spiders are low-level [arachnids](https://wiki.guildwars.com/wiki/Arachnid).
+https://wiki.guildwars.com/wiki/Beast
 
-https://wiki.guildwars.com/wiki/Giant_Tree_Spider
-
-### Lava Spitter
-
-The Lava Spitter is a kind of spider that dwells in the lava outcrop of the Ring of Fire Islands. 
-
-https://wiki.guildwars.com/wiki/Lava_Spitter
-
-### Maguuma Spider
-
-Maguuma Spiders usually dwell in the trees and pounce on their prey, but there are a few that stalk the ground.
-
-https://wiki.guildwars.com/wiki/Maguuma_Spider
-
-### Moss Spider
-
-Moss Spiders could be found in Ascalon before [the Searing](https://wiki.guildwars.com/wiki/The_Searing). When they grow in their natural environment they can't be charmed to be used as [animal companions](https://wiki.guildwars.com/wiki/Animal_companion). So in order to charm one, the player must acquire an [egg](https://wiki.guildwars.com/wiki/Moss_Spider_Egg), and hand it over to [Emryd the Tamer](https://wiki.guildwars.com/wiki/Emryd_the_Tamer) to care for in the [Zaishen Menagerie](https://wiki.guildwars.com/wiki/Zaishen_Menagerie). Wild Moss Spiders are considered to be extinct now.
-
-https://wiki.guildwars.com/wiki/Moss_Spider_(pre-Searing)
+- Bull
+- Bear
+- Lynx
+- Moa
+- Stalker
+- Warthog
+- Wolf
+- Monitor
+- Ntouka Bird
+- Tusked...
+- Ntouka
+- Mokele
+- Scabara
+- Shrieker
+- Carrion Feeder
+- Arctic Wolf
+- Kveldulf
+- Stonewolf
+- Tundra Wolf
+- Simian
+- Hippopotamus
+- Crocodile
 
 -----------
 
@@ -105,69 +122,16 @@ In [Elona](https://wiki.guildwars.com/wiki/Elona), Behemoths are bipedaled, vagu
 
 https://wiki.guildwars.com/wiki/Behemoth
 
-### Crag Behemoth
+- Crag Behemoth
+- Dune Behemoth
+- Obsidian Behemoth
+- Obsidian Guardian
+- Root Behemoth
+- Tar Behemoth
+- Behemoth Gravebane
+- Scytheclaw Behemoth
 
-https://wiki.guildwars.com/wiki/Crag_Behemoth
-
-### Dune Behemoth
-
-https://wiki.guildwars.com/wiki/Dune_Burrower
-
-### Obsidian Behemoth
-
-https://wiki.guildwars.com/wiki/Obsidian_Behemoth
-
-#### Obsidian Guardian
-
-https://wiki.guildwars.com/wiki/Obsidian_Guardian
-
-### Root Behemoth
-
-https://wiki.guildwars.com/wiki/Root_Behemoth
-
-### Tar Behemoth
-
-https://wiki.guildwars.com/wiki/Tar_Behemoth
-
-----------
-
-## Centaur
-
-https://wiki.guildwars.com/wiki/Centaur
-
-### Losaru Pride
-
-#### Bladehand
-
-#### Bowmaster
-
-#### Lifeband
-
-#### Windcaster
-
-### Maguuma Pride
-
-#### Avenger
-
-#### Enchanter
-
-#### Hunter
-
-#### Protector
-
-#### Warlock
-
-#### Warrior
-
-### Shiverpeak Pride
-
-#### Longbow
-
-#### Protector
-
-#### Warrior
-
------------------
+-------
 
 ## Candy Corn Creature
 
@@ -181,6 +145,17 @@ https://wiki.guildwars.com/wiki/Candy_Corn_creature
 
 ----------
 
+## Centaur
+
+https://wiki.guildwars.com/wiki/Centaur
+
+- Losaru Pride
+- Maguuma Pride
+- Modniir Pride
+- Shiverpeak Pride
+
+----------
+
 ## Charmable Animal
 
 Undecided how to handle this group... https://wiki.guildwars.com/wiki/Charmable_animal
@@ -191,35 +166,76 @@ Undecided how to handle this group... https://wiki.guildwars.com/wiki/Charmable_
 
 https://wiki.guildwars.com/wiki/Charr
 
-There's a lot of subtypes here...
+...
 
 ----------------
+
+## Demon
+
+https://wiki.guildwars.com/wiki/Demon
+
+- Grentch
+- Torment Creatures
+- Oni
+  - Lesser Oni
+  - Oni of the Deep
+- Shadow of Kanaxai
+- Grasp of Chaos
+- Margonite
+  - Margonite Anur
+- Stygian
+- Tormentor
+
+----------
 
 ## Devourer
 
 https://wiki.guildwars.com/wiki/Devourer
 
-### Carriorn Devourer
+- Carrion Devourer
+- Charr Siege/Catapult
+- Crimson Devouerer
+- Diseased Devourer
+- Fevered Devourer
+- Lash Devourer
+- Plague Devourer
+- Rockshot Devourer
+- Snapping Devourer
+- Thorn Devourer
+  - Drone
+- Whiptail Devourer
 
-### Crimson Devourer
+----------
 
-### Diseased Devourer
+## Dinosaur
 
-### Fevered Devourer
+https://wiki.guildwars.com/wiki/Dinosaur
 
-### Lash Devourer
+- Tyrannus
+- Angorodon
+- Ceratadon
+- Raptor
+- Ferothrax
+- Armored Saurus
+- Trihorn
 
-### Plague Devouerer
+---
 
-### Rockshot Devourer
+## Djinn
 
-### Snapping Devourer
+https://wiki.guildwars.com/wiki/Djinn
 
-### Thorn Devourer
-
-#### Drone
-
-### Whiptail Devourer
+- Flame
+- Water
+- Immolated
+- Maelstrom
+- Ruby
+- Diamond
+- Sapphire
+- Burning Spirit
+- Becalmed
+- Whirling Wisp
+- Chilling Wisp
 
 ----------
 
@@ -227,17 +243,18 @@ https://wiki.guildwars.com/wiki/Devourer
 
 https://wiki.guildwars.com/wiki/Dragon
 
-### Drake
-
-### Grand Drake
-
-### Lightning Drake
-
-### Obsidian Furnace Drake
-
-### River Drake
-
-### Sand Drake
+- Drake
+- Grand Drake
+- Lightning Drake
+- Obsidian Furnace Drake
+- River Drake
+- Sand Drake
+- Bonesnap Turtle
+- Saltspray Dragon
+- Rockhide Dragon
+- Irontooth Drake
+- Steelfang Drake
+- Chromatic Drake
 
 ---------
 
@@ -245,13 +262,17 @@ https://wiki.guildwars.com/wiki/Dragon
 
 https://wiki.guildwars.com/wiki/Dredge
 
-- Blastrock
-- Brute
-- Rebel Spirit Keeper
-- Scout
-- Shaman
-- Spirit Caller
-- Spirit Guard
+...
+
+----
+
+## Drinker
+
+https://wiki.guildwars.com/wiki/Drinker
+
+- Blood Drinker
+  - Greater
+- Rhythm Drinker
 
 -----------
 
@@ -259,15 +280,25 @@ https://wiki.guildwars.com/wiki/Dredge
 
 https://wiki.guildwars.com/wiki/Dryder
 
+- Bloodtaint
+- Dreadgaze
 - Dark Flame
+- Doubter's
 - Frostfire
+- Guardian of Komalie
+- Keeper of Souls
+- Soulfire
+- Terrorbond
 - Terrorweb
+- Tortureweb
 
 ----------
 
 ## Dwarf
 
 https://wiki.guildwars.com/wiki/Dwarf
+
+...
 
 ------
 
@@ -291,6 +322,24 @@ https://wiki.guildwars.com/wiki/Elemental
 - Flame Djinn
 - Frost Golem
 - Siege Ice Golem
+- Temple Guardian
+- Water Djinn
+- DJINN
+- Cracked Mesa
+- Tormented Land
+- Droughtling
+- Stone Shard Crag
+- Roaring Ether
+- Carven Effigy
+- Tumbled Elemental
+- Flowstone Elemental
+- Burning Spirit
+- Anguished Hecatomb
+- Roaring Ether
+- Icy Stalagmite
+- Avalanche
+- Ancient Statue
+- Frozen Elemental
 
 -----
 
@@ -306,6 +355,14 @@ https://wiki.guildwars.com/wiki/Enchanted_armor
 - Enchanted Sowrd
 - Forgotten Avenger
 - Enchanted Bow
+
+-------
+
+## Enchanted Weapon
+
+https://wiki.guildwars.com/wiki/Enchanted_weapon
+
+...
 
 ---------
 
@@ -323,6 +380,34 @@ https://wiki.guildwars.com/wiki/Facet
 - Light
 - Nature
 - Strength
+- Creation
+- Death
+- Destruction
+- Existence
+- Illusions
+- Spirit
+
+--------
+
+## Fish
+
+https://wiki.guildwars.com/wiki/Fish
+
+- Creeping Carp
+- Scuttle Fish
+- Irukandji
+- Ripper Carp
+- Manta
+
+-----------
+
+## Fleshreaver
+
+https://wiki.guildwars.com/wiki/Fleshreaver
+
+- Hound
+- Harrower
+- Nephilim
 
 -----------
 
@@ -342,6 +427,12 @@ https://wiki.guildwars.com/wiki/Forgotten
   - Cursebearer
   - Illusionist
   - Arcanist
+
+--------
+
+## Gaki
+
+...
 
 --------
 
@@ -376,6 +467,19 @@ https://wiki.guildwars.com/wiki/Ghost
 - Banished Dream Rider
 - Phantom
 - Portal Wraith
+- Greater Dream Rider
+- Sunspear Ghost
+- Tomb Wraith
+- Suitor
+- Restless Spirit
+- Crypt Banshee
+- Crypt Wraith
+- Servant of Murakai
+- Shock Phantom
+- Ash Phantom
+- Damned Crewman
+- Restless Dead
+- Shock Phantom
 
 ---------
 
@@ -392,6 +496,9 @@ https://wiki.guildwars.com/wiki/Giant
 - Hill Giant
 - Sand Giant
 - Tundra Giant
+- Bull Trainer Giant
+- Nomad Giant
+- Sadistic Giant
 
 -----------
 
@@ -482,6 +589,22 @@ https://wiki.guildwars.com/wiki/Jade_construct
 - Jade Seal
 
 -------
+
+## Minion
+
+https://wiki.guildwars.com/wiki/Minion
+
+- Bone Fiend
+- Bone Horror
+- Bone Minion
+- Flesh Golem
+- Jagged Horror
+- Shambling Horror
+- Vampiric Horror
+- Candy Golem
+- Celestial Horror
+
+-----------
 
 ## Minotaur
 
