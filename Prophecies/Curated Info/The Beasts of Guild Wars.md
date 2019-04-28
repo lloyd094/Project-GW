@@ -1,3 +1,7 @@
+---
+
+---
+
 # The Beasts of Guild Wars
 
 This section aims to contain all the beasts players can expect to find in the world within Guild Wars. Essentially, this will be "the bestiary."
@@ -62,18 +66,52 @@ Arachnids are giant spiders that are mostly found in forests, caves, and savanna
 
 https://wiki.guildwars.com/wiki/Arachnid
 
-- Deadly Crypt Spider
-- Giant Needle Spider
-- Giant Tree Spider
-- Lava Spitter
-- Maguuma Spider
-- Moss Spider
-- Stalking Nephila
-- Veldt Nephila
-- Dune Spider
-- Needling Lavastrider
-- XWeaver
+<u>**Standard Attributes**</u>
+
+- ***Spider Climb.*** The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+- ***Web Sense.*** While in contact with a web, the spider knows the exact location of any other creature in contact with the same web.
+- ***Web Walker.*** The spider ignores movement restrictions caused by webbing.
+- Usually poisons, unless noted otherwise.
+
+**<u>Types and Specifics</u>**
+
+- ~~Standard Spiders~~	
+  - ~~Deadly Crypt, Giant Needle, Giant Tree, Moss, Stalking Nephila (travels in packs), Veldt Nephila~~
+  - ~~**Uses standard 5e Giant Spider Specs, though perhaps different size (medium)**~~
+- ~~Maguuma Spider~~
+  - ~~Pounces to Trap~~
+  - ~~Poisonous Bite~~
+- ~~Dune Spider~~
+  - ~~Shoots needles that drain energy~~
 - Armored Cave Spider
+  - Burrows underground and waits for prey
+- Needling Lavastrider & Lava Spitter
+  - Shoots incindiary needles
+  - Stuns
+  - Does not poison
+- Weavers
+  - Painweaver
+    - Support Style Combat
+    - Snares with web
+    - Emphasizes effects done from others (bleed, toxin)
+  - Venomweaver
+    - Very aggresive
+    - Poisons, stuns
+    - Snares with web
+  - Lifeweaver
+    - Support Style Combat
+    - Snares with web
+    - Drains life from victims
+    - Heals allies
+  - Bloodweaver
+    - Snares with web
+    - Stuns and bleeds
+
+Stat Blocks
+
+![](..\Assets\Stat Blocks\Maguuma Spider.png)
+
+![](..\Assets\Stat Blocks\Dune Spider.png)
 
 -----------
 
@@ -221,7 +259,7 @@ https://wiki.guildwars.com/wiki/Dinosaur
 
 ---
 
-## Djinn
+## Djinn (Type of Elemental)
 
 https://wiki.guildwars.com/wiki/Djinn
 
@@ -306,22 +344,205 @@ https://wiki.guildwars.com/wiki/Dwarf
 
 https://wiki.guildwars.com/wiki/Elemental
 
-- Hulking Stone Elemental
-- Stone Elemental
-- Ice Elemental
-- Boulder Elemental
-- Stone Elemental
-- Stone Fury
+Fire
+
+- Standard Attributes
+  - ***Fire Form.*** The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 5 (1d10) fire damage and catches fire, until someone takes an action to douse the fire, the creature takes 5 (1d10) fire damage at the start of each of its turns.
+  - ***Illumination.*** The elemental sheds [bright light](https://www.dandwiki.com/wiki/5e_SRD:Bright_Light) in a 30-foot radius and [dim light](https://www.dandwiki.com/wiki/5e_SRD:Dim_Light) in an additional 30 feet.
+  - ***Water Susceptibility.*** For every 5 feet the elemental moves in water, or for every gallon of water splashed on it, it takes 1 cold damage.
+- Types
+  - Flame Djinn, Immolated Djinn, Ruby Djinn, Burnign Spirit
+    - Weak to water damage, resistance to fire damage
+    - Removes enchantments from enemy when attacking
+    - Halves negative effects
+    - Deals fire damage (liquid flame)
+    - Burning Immunity
+  - Roaring Ether
+    - Weak to Elemental Damage, Resistant to Physical damage
+    - Steals life from enemies
+    - Can redirect enemy life to ally life
+  - Diamond Djinn
+    - Weak to Earth Damage
+    - Prep time for attacks take 50% of time, and deal 2x damage.
+    - Deals holy and fire damage
+    - Inflicts extra damage to players below X health
+    - Spear can cause lightning damage
+  - Flowstone Elemental
+    - Weak to water damage, resistant to fire damage
+    - Creates storm of fire
+    - Immune to burning
+    - Can send out flares of fire.
+
+Stone
+
+- Standard Attributes
+  - ***Siege Monster.*** The elemental deals double damage to objects and structures.
+- Types
+  - Stone Elemental, Stone Fury, Hulking Stone Elemental, Enchanted Clay
+    - Heavy Resistance to Lightning
+    - Attacks against have high possibility to bounce.
+  - Boulder Elemental
+    - Attacks against have high possibility to bounce.
+    - Weak against blunt damage
+  - Stone Guardian, Temple Guardian
+    - Weak to blunt and water damage
+    - Breathes fire, can set the ground on fire
+  - Statues
+    - Stone Crusher
+      - Weak to blunt and water damage
+      - Large health pool
+      - Taking hits gives chance of stun.
+      - Immune to stun.
+    - Stone Soul
+      - Weak to blunt and water damage
+      - Immune to stun
+      - Heals allies
+      - May enhance damage dealt by allies
+    - Stone reaper
+      - Weak to blunt and water damage
+      - Immune to stun
+      - Poisons
+      - Decreases healing abilities of opponents
+    - Stone Rain
+      - Weak to blunt and water damage
+      - Knocks down foes
+      - Throws daggers of stone at enemies
+      - Teinai's Wind: target foe and adjacent foes take cold damage. Burning foes take additional damage and are interrupted.
+  - Cracked Mesa, Shambling Mesa
+    - Moves slow, can attack fast
+    - Knocks down, stuns
+  - Tormented Land
+    - Knocks down, stuns.
+  - Droughtling
+    - Weak to elemental damage
+    - Throws daggers of stone
+    - Hurls rocks
+    - Can use stoneflesh
+  - Stone Shard Crag
+    - Usually accompanies Cracked Mesas
+    - Resistant to elemental damage
+    - Can use stoneflesh
+    - Aftershock
+  - Sandstorm Crag
+    - Usually accompanies Shambling Mesas
+    - Aftershock
+    - Sandstorm
+    - Stone Daggers
+    - Heals over time
+    - Immune to stun
+    - Stuns on Critical hit
+  - Tumbled Elemental
+    - Similar to Stone Elemental, but knocks down and resistance to physical damage
+
+Ice
+
+- Standard Attributes
+  - ***Elemental Weapons.*** The creature's weapon attacks are magical. When the creature hits with any weapon, the weapon deals an extra amount of cold damage based on its CR.
+  - ***Ice Walk.*** The creature can move across difficult terrain created by ice or snow without spending extra movement.
+  - ***Innate Spellcasting.*** The creature can cast the following spells using its existing spellcasting ability, requiring no material components. 
+    - At Will: Shape Water
+    - 1/Day: Fog Cloud, Sleet Storm, Wall of Ice
+- Types
+  - Ice Golem, Frost Golem
+    - Can create spikes of ice
+    - Weak to fire damage
+  - Siege Ice Golem
+    - +Ice Golem
+    - Can freeze opponents in place
+    - Can create extra defense (armor) out of mist
+  - Frozen Elemental
+    - +Siege Ice
+    - Resistant to water damage
+  - Rock Ice
+    - Stronger resistance to non-magic damage
+    - No weaknesses/resistances
+  - Shattered Elemental
+    - Resistant to Water Damage
+    - Armor of mist
+    - Deep freeze
+    - Ice spear
+  - Avalanche
+    - Weak to Fire, Resistant to Piercing, Slashing, Water Damages
+    - Frigid Armor: May create additional armor out of ice, becomes resistant to fire during.
+    - Frozen Burst: Sends out a blast of cold damage to players within X space.
+    - Ice Prison: Can trap target's legs in ice, reducing speed to 1/3.
+  - Chilling Wisp
+    - Weak to Fire, Resistant to Water
+    - Frozen Burst: sends out a blast of cold damage to players within X space.
+    - Mystic Sweep: Sweeping attack, chance to enchant those hit.
+  - Icy Stalagmite
+    - Weak to physical damage, resistant to water damage
+    - Frozen Soil: Freezes the soil and prevents necromancy magic during.
+    - Winter: All elemental damage during is cold damage.
+
+Crystal
+
+- Standard Attributes
+  - ***Immutable Form.*** The creature is immune to any spell or effect that would alter its form.
+  - ***Innate Spellcasting (Psionics).*** The golem's innate spellcasting ability is Wisdom. The golem can cast the following spells innately, requiring no material components:
+    - At will: Light, mage hand, minor illusion
+    - 3/day: major image, misty step
+    - 1/day: meld into stone.
+  - ***Magic Resistance.*** The golem has advantage on saving throws against spells and other magical effects.
+  - ***Magic Weapons.*** The golem's weapon attacks are magical.
+- Types
+  - Crystal Spider
+    - Can create illusions to appear weaker than they are
+    - Can shatter illusions or hexes, removing from opponents and damaging them in the process.
+  - Crystal Golem
+    - Weak to blunt damage
+    - Aftershock: Can knock down enemies
+    - Crystal Wave: sends out wave of crystal power damaging all hit, but removing any negative conditions.
+    - Shock: Knocks down and deals lightning damage
+    - Cannot be stunned.
+
+Sand
+
+- General Attributes
+- Types
+  - Sand Elemental
+    - Weak to blunt damage
+    - Aftershock: Can knock down enemies
+    - Eruption: The ground erupts under a targeted foe, causing damage.
+    - Shock: Knocks down and deals lightning damage.
+
+Water
+
+- General Attributes
+- Types
+  - Water Djinn, Maelstrom Djinn, Sapphire Djinn
+    - Weak to fire damage, resistant to water damage
+    - Deals holy damage
+    - Mystic Sweep: Sweeping attack, chance to enchant those hit.
+
+Constructs
+
+- General Attributes
+- Types
+  - Carven Effigy
+    - Aftershock
+    - Deals lightning damage
+    - Knocks down with Wind
+    - Obsidian Flesh: Gains additional armor, cannot be target of enemy spells, but cannot attack.
+    - Eruption
+
+Wind
+
+- Becalmed Djinn
+  - Banishing Strike
+  - https://wiki.guildwars.com/wiki/Becalmed_Djinn
+  - Calms foes around - will not attack unless attacked first
+- Whirling Wisp
+  - 
+
+
+
+
+
 - Enchanted Clay
 - Crystal Spider
 - Sand Elemental
 - Crystal Guardian
-- Rock Ice
-- Ice Golem
-- Siege Ice Golem
-- Flame Djinn
-- Frost Golem
-- Siege Ice Golem
 - Temple Guardian
 - Water Djinn
 - DJINN
@@ -336,10 +557,7 @@ https://wiki.guildwars.com/wiki/Elemental
 - Burning Spirit
 - Anguished Hecatomb
 - Roaring Ether
-- Icy Stalagmite
-- Avalanche
 - Ancient Statue
-- Frozen Elemental
 
 -----
 
