@@ -70,14 +70,6 @@ One such ruin is the remains of Serenity Temple, known to once be the largest in
 
 
 
-
-
-
-
-
-
-
-
 -------------
 
 ## Blazeridge Mountians
@@ -86,7 +78,7 @@ One such ruin is the remains of Serenity Temple, known to once be the largest in
 
 ---------
 
-## The Crystal Desert
+## Crystal Desert
 
 *Legends tell of a time, thousands of years ago, when the Crystal Desert was covered in water. These legends claim that it was the gods who raised the land, leaving it bare and empty in order to give the solitary creatures of the world a place to call their own. If the legends are true, humans were not among those for whom this land was made. There have been attempts by humans to settle in the desert, but they have, without exception, failed miserably, leaving behind only the grand monuments they built here proclaiming their short-lived triumph over this harsh land.*
 
@@ -107,93 +99,117 @@ The Crystal Desert is mostly arid and dry, though some oases and deep valleys ar
 
 - The few creatures able to survive here are deadly. Adventurers may find themselves encountering Dune Burrowers, Enchanted Armors, Sand Giants, Hydras, Scarabs, and Sand Wurms. 
 
-**Augury Rock.** [What is the difference between Augury Rock and The Mesa?]
+**Augury Rock.** [See The Mesa?]
+
+**Diviner's Ascent.** [See Salt Flats (is there an actual difference?)]
+
+**Hero's Audience.** *The ruined statues in this isolated outpost are thought to be remnants of one of the many failed civilizations the Crystal Desert has claimed. When traders first crossed the desert and established themselves amidst these fallen gods, they told one another campfire stories of how these stone figures once lived and granted favors and magics to heroes lost in these harsh lands. Hence the name, Heroes' Audience.*
+
+**Lonely Vigil.** 
+
+**Prophet's Path.** *Prophet's Path is the area of the Desert that is closest to the sea. A line of monoliths mark the namegiving path, leading from The Amnoon Oasis to Augury Rock.*
+
+**Salt Flats.** The north of the Crystal Desert is known as the Salt Flats, an ocean of sand littered with the ruins of an ancient seafaring civilization and massive ancient beasts. As it runs eastward, the Salt Flats become an area better known as Diviner's Ascent.
+
+- A small outpost known as Seeker's Passage sits on the western edge of the Salt Flats. The outpost was named for the Seekers, pilgrims rumored to have crossed the desert in search of a new home. <u>Tirzah</u>, a ghost who died in the Crystal Desert as a pilgrim, can be found nearby. Before her death, she had made a promise to meet her betrothed.
+- The Salt Flats are plagued by Devourers, Hydra, Storm Kin, and Scarabs. Drakes and Wurms can also be found in Diviner's Ascent.
+- *Elona Reach*
+
+**The Scar.** *The Scar derives its name from the "scar" of greenery that runs through its center, fed by hidden wellsprings. The Losaru centaurs claim this fertile oasis as their own. Surrounding the gorges are rocky cliffs bearing sand dunes upon them, populated by the usual denizens of the desert.*
+
+- *Thirsty River*
+
+**Skyward Reach.** *Skyward Reach is the center of the Crystal Desert. It is itself centered on the Mesa.*
+
+- Augury Rock can be found to the west of the Mesa. <u>Priest Zahamut</u> can be found nearby, waiting to direct worthy heroes to the path of Ascension.
+
+**The Dragon's Lair.** 
+
+**Tomb of the Primeval Kings.** 
+
+**Vulture Drifts.** *Vulture Drifts is dotted with ruins of a failed civilization, overcome by the unforgiving nature of the Crystal Desert. In the northwest, a circular series of strange monuments, perhaps tombs, surrounding a large skeleton of an unknown creature.*
+
+- *Dunes of Despair*
 
 
 
 
-
-
-
-
-
-### Northern Crystal Desert
-
-- Salt Flats
-- Elona Reach
-- Diviner's Ascent
-- (Far North) Tomb of the Primeval Kings
-- (Far North) The Dragons Lair
-
-### Southern Crystal Desert
-
-> Is this second section worth having? Is the desert large enough to be split?
-
-- Prophet's Path
-  
-  - Hero's Audience
-- Skyward Reach
-- The Scar
-- Thirsty River
-- Vulture Drifts
-  - Dunes of Despair
-  - Temple of Ascension
-  
-  
-  
-  - Lonely Vigil
 
 ------------
 
-## The Krytan Kingdom
+## Kryta
 
-### North Krytan Province
+*There are two types of humans in Kryta: those who worship the mysterious Unseen Ones and those who do not. The worshippers have become known as the White Mantle because of the long white sleeveless robes many of them wear.*
 
-- Griffon's Mouth
-- Scoundrel's Rise
-- North Krytan Province
-- Nebo Terrace
-- D'Alessio Seaboard
-- Lions Arch
-  - Lion's Gate
-  - Gates of Kryta
+*It is the responsibility of the White Mantle to oversee the other humans and impose upon them the rules and laws of the Unseen Ones. Those inside the organization receive special privileges (more food, better clothing, access to books) simply for abiding by the rules of the Unseen Ones and carrying out the orders handed down by the White Mantle high priest. To the Krytans the White Mantle are the root of law and order, the protectors or saviors, if you will, of their lands.*
 
-### Divinity Coast
+*The White Mantle maintain a series of temples all over the continent. Members of this organization frequently, though not always, choose to reside in these temples to better perform their duties to the Mantle and to more effectively worship the Unseen Ones.*
 
-- Divinity Coast
-- Watchtower Coast
-- Cursed Lands
-- Beetletun
-- The Black Curtain
-- Talmark Wilderness
+*Since the end of the last Guild War and the repelling of the Charr invasion, the White Mantle have maintained a high level of military preparedness. They don’t ever want to be caught off guard again, and they often keep large stores of weapons inside their temples to use in case of emergency. It’s also not uncommon for followers of the Mantle philosophy to be highly trained warriors. Fighting skills will come in handy if the day comes when they will need to once again defend Kryta from invasion.*
 
-**Kessex Hills**
+*Travelers to Kryta will find a stark contrast between the fortified, polished-stone buildings of the White Mantle and the thatch-roofed huts of the regular citizens. There is a surprising amount of wealth here, but it is kept in the hands of those who adhere to the doctrines of the Mantle, and this is reflected in the architecture of the region.*
 
-- Tears of the Fallen
-- Kessex Peak
-- Stingray Strand
-- Swin Serpent Lakes
+*On the coast, the weather is hot and humid. This is somewhat mitigated by the beautiful white-sand beaches and the crystal-clear blue saltwater beyond. Farther inland, it cools down a bit, making the area ideal for farming and raising livestock. Those Krytans who don't practice any of the mystical arts tend to gravitate towards fishing and farming.*
 
-### Riverside Province
+\- The Guild Wars Manuscripts
 
-- Riverside Province
-- Sanctum Cay
+**Divinity Coast.** In the northern regions of Kryta are two coasts resting along Giant's Basin - Divinity Coast is the westernmost coast. Several of the region's oldest settlements can be found here, as humans have occupied these lands for over seven hundred years. The waters of the Giant's Basin have been fished for generations by inhabitants.
+
+*Fauna: Bog Skale, Caromi Tengu, Ettin, Ghoul, Grand Drake, Hellhound, Inferno Imp, Lightning Drake, Mergoyle, Skeleton, Spined Aloe, Zombie.*
+
+- <u>Mantle Knight Franklin</u> resides here. If on the Summer Solstice someone claims to be on official White Mantle business, he will direct them to meet <u>Justiciar Hablion</u> in Shaemoor to prepare to administer the Test of the Chosen. Once met, <u>Justiciar Hablion</u> will give the party... {\_?\_}
+
+**Nebo Terrace.** Well populated, Nebo Terrace sits in north-central Kryta between The Cursed Lands and North Krytan Province. There are small settlements scattered throughout the area and a central village, Nebo. The southwest part of the province is swampy and filled with undead, while the southeast is home to the Bergen Hot Springs.
+
+*Fauna: Bog Skale, Caromi Tengu, Ettin, Ghoul, Hellhound, Inferno Imp, <u>Lynx</u>, Mergoyle, Necrid Horseman, Skeleton, Spined Aloe, Zombie.*
+
+- <u>Beldon the Blade</u> and <u>Kira Thorne</u> are both weaponsmiths specializing in wood, and are in need of supplies. Beldon is in need of mergoyle skulls, while Kira needs local imp hearts. Both are willing to trade weapons from their stock in exhange for these parts.
+- <u>Elder Sobel</u> of Nebo Village is looking for help with the recent increase of bandit population in Nebo Terrace. Adventurers looking for some coin and a good fight may discover Sobel to be a good source of work.
+- [The Hot Springs Murders]
+
+**Watchtower Coast.** Watchtower Coast is the easternmost coast along Giant's Basin in northern Kryta. It's name is derived from ancient watchtowers that dot the landscape. While their true purpose for their existence is unknown, rumors say they were built to fend off some unknown threat from across Giant's Basin.
+
+*Fauna: Bog Skale, Caromi Tengu, <u>Lynx</u>, Mergoyle, Oakheart, Spined Aloe.*
+
+- <u>Farmer Fanella</u> can be found to the west of Beetletun, offering fresh produce to anyone with coin. If asked the right questions or in a particular mood, Fanella may disclose recent visits from Peacekeeper Enforcers demanding profits as donation to the White Mantle under threat of report to the Unseen Ones.
+- <u>Tenlach Silverhand</u> and <u>Ian Sturmme</u> can both be found venturing throughout the coast looking for supplies. Tenlach specifically is looking for abnormal seeds dropped by wandering plants, while Ian needs scalps from Tengu. Both will offer to trade some helms they created in exchange for the sought after supplies.
+- The village of **Beetletun** is in the southeastern corner of Watchtower Coast. Shortly after entering the village, <u>Elder Hezron</u> may request help in warding off an undead horde that was recently spotted headed towards Beetletun from the coast.
 
 ----------
 
-## The Maguuma Jungle
+## Maguuma Jungle
+
+*Years ago, many tribes of human druids lived among the Maguuma's lush greenery and wildlife. But it has been a long time since anyone has heard word from them, and many believe that they were eaten by hostile jungle creatures or simply swallowed whole by the man-eating plants now rampant in the jungle.*
+
+*The higher elevations are mostly devoid of water. Only the largest and hardiest of plants can live here. But down farther, closer to the water table, the Maguuma grows thick. The vegetation can become so dense that there are areas of the jungle floor that have never been touched by the sun's light.*
+
+\- The Guild Wars Manuscripts
 
 
 
 ------------
 
-## The Ring of Fire Islands
+## Ring of Fire Islands
+
+*Just south of the Tarnished Coast lie the volcanic islands that together make up the Ring of Fire. The large volcano at the center of the ring is where the gods reportedly dropped the Bloodstones before leaving Tyria for good. Of the islands that surround this one, many are still active. Ships that pass by the Ring report hearing the tell-tale hiss of scalding hot lava hitting the ocean, instantly vaporizing the saltwater into steam.*
+
+*The reefs off the islands are formed of black pumice stone. There are very few natural ports, and those that might be suitable for docking would bring the crew of the ship within danger of being caught by a sudden, unexpected eruption.*
+
+*There are no known settlements in the Ring of Fire.*
+
+\- The Guild Wars Manuscripts
 
 
 
 ------------
 
-## The Shiverpeak Mountains
+## Shiverpeak Mountains
+
+*For hundreds of years, all the dwarves in this mountain range were united under one flag: the nation of the Deldrimor dwarves. Most of the architecture in the Shiverpeaks was built during this time, and it reflects a time of peace and prosperity—but that time is over now. Today, the mountains ring with the sounds of civil war, and new architecture has sprung up: slabs of stone lashed together with huge iron chains mark the areas where a new guild—those who have broken from the old ways—have made new settlements.*
+
+*The Shiverpeaks are an inhospitable environment for the ill-prepared. There are only two known passes through the mountains, and any wishing to cross them must endure freezing wind, flash snow storms, and unstable terrain that shifts with the change in temperature.*
+
+\- The Guild Wars Manuscripts
 
 
 
