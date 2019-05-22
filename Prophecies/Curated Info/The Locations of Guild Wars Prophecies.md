@@ -66,6 +66,12 @@ One such ruin is the remains of Serenity Temple, known to once be the largest in
 
 **Surmia.** [TBA]
 
+### Encounters
+
+![](..\Assets\Encounter Tables\Ascalon.png)
+
+
+
 
 
 
@@ -131,6 +137,10 @@ The Crystal Desert is mostly arid and dry, though some oases and deep valleys ar
 
 - *Dunes of Despair*
 
+### Encouters
+
+![](..\Assets\Encounter Tables\Crystal Desert.png)
+
 
 
 
@@ -153,23 +163,21 @@ The Crystal Desert is mostly arid and dry, though some oases and deep valleys ar
 
 \- The Guild Wars Manuscripts
 
-**Divinity Coast.** In the northern regions of Kryta are two coasts resting along Giant's Basin - Divinity Coast is the westernmost coast. Several of the region's oldest settlements can be found here, as humans have occupied these lands for over seven hundred years. The waters of the Giant's Basin have been fished for generations by inhabitants.
+**The Black Curtain.** This large section of marshland is located in the middle of central Kryta. While few may try living here, most of the land is considered inhospitable due to the roaming undead and other creatures that threaten safety. The eastern transition of land between the Black Curtain and Nebo Terrace is known as the Cursed Lands. In the north lies the Temple of the Ages - ruins that rumored to be a gateway into the realm of the gods.
 
-*Fauna: Bog Skale, Caromi Tengu, Ettin, Ghoul, Grand Drake, Hellhound, Inferno Imp, Lightning Drake, Mergoyle, Skeleton, Spined Aloe, Zombie.*
+**Divinity Coast.** In the northern regions of Kryta are two coasts resting along Giant's Basin - Divinity Coast is the westernmost coast. Several of the region's oldest settlements can be found here, as humans have occupied these lands for over seven hundred years. The waters of the Giant's Basin have been fished for generations by inhabitants.
 
 - <u>Mantle Knight Franklin</u> resides here. If on the Summer Solstice someone claims to be on official White Mantle business, he will direct them to meet <u>Justiciar Hablion</u> in Shaemoor to prepare to administer the Test of the Chosen. Once met, <u>Justiciar Hablion</u> will give the party... {\_?\_}
 
 **Nebo Terrace.** Well populated, Nebo Terrace sits in north-central Kryta between The Cursed Lands and North Krytan Province. There are small settlements scattered throughout the area and a central village, Nebo. The southwest part of the province is swampy and filled with undead, while the southeast is home to the Bergen Hot Springs.
 
-*Fauna: Bog Skale, Caromi Tengu, Ettin, Ghoul, Hellhound, Inferno Imp, <u>Lynx</u>, Mergoyle, Necrid Horseman, Skeleton, Spined Aloe, Zombie.*
-
 - <u>Beldon the Blade</u> and <u>Kira Thorne</u> are both weaponsmiths specializing in wood, and are in need of supplies. Beldon is in need of mergoyle skulls, while Kira needs local imp hearts. Both are willing to trade weapons from their stock in exhange for these parts.
 - <u>Elder Sobel</u> of Nebo Village is looking for help with the recent increase of bandit population in Nebo Terrace. Adventurers looking for some coin and a good fight may discover Sobel to be a good source of work.
 - [The Hot Springs Murders]
 
-**Watchtower Coast.** Watchtower Coast is the easternmost coast along Giant's Basin in northern Kryta. It's name is derived from ancient watchtowers that dot the landscape. While their true purpose for their existence is unknown, rumors say they were built to fend off some unknown threat from across Giant's Basin.
+**North Kryta Province.** In the south of this province is located Lions Arch, the main city within Kryta and primary trading port for the continent of Tyria. The royal palace of King Doric resides here, but the White Mantle now run this city, who have since razed and replaced many of the old buildings with barracks and more practical structures. In the north is the Ascalon Settlement, comprised of refugees from Ascalon who escaped the Charr Invasion.
 
-*Fauna: Bog Skale, Caromi Tengu, <u>Lynx</u>, Mergoyle, Oakheart, Spined Aloe.*
+**Watchtower Coast.** Watchtower Coast is the easternmost coast along Giant's Basin in northern Kryta. It's name is derived from ancient watchtowers that dot the landscape. While their true purpose for their existence is unknown, rumors say they were built to fend off some unknown threat from across Giant's Basin.
 
 - <u>Farmer Fanella</u> can be found to the west of Beetletun, offering fresh produce to anyone with coin. If asked the right questions or in a particular mood, Fanella may disclose recent visits from Peacekeeper Enforcers demanding profits as donation to the White Mantle under threat of report to the Unseen Ones.
 - <u>Tenlach Silverhand</u> and <u>Ian Sturmme</u> can both be found venturing throughout the coast looking for supplies. Tenlach specifically is looking for abnormal seeds dropped by wandering plants, while Ian needs scalps from Tengu. Both will offer to trade some helms they created in exchange for the sought after supplies.
