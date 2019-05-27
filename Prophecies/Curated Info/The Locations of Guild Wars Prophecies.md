@@ -165,9 +165,15 @@ The Crystal Desert is mostly arid and dry, though some oases and deep valleys ar
 
 **The Black Curtain.** This large section of marshland is located in the middle of central Kryta. While few may try living here, most of the land is considered inhospitable due to the roaming undead and other creatures that threaten safety. The eastern transition of land between the Black Curtain and Nebo Terrace is known as the Cursed Lands. In the north lies the Temple of the Ages - ruins that rumored to be a gateway into the realm of the gods.
 
+**D'Alessio Seaboard.** Renamed from the Eastbury Reserve, the D'Alessio Seaboard was named after the founder of the White Mantle founder, Saul D'Alessio. In the west, the White Mantle's Temple of Tolerance stands tall over the landscape and in the south east lies the small village of Hakewood.
+
 **Divinity Coast.** In the northern regions of Kryta are two coasts resting along Giant's Basin - Divinity Coast is the westernmost coast. Several of the region's oldest settlements can be found here, as humans have occupied these lands for over seven hundred years. The waters of the Giant's Basin have been fished for generations by inhabitants.
 
 - <u>Mantle Knight Franklin</u> resides here. If on the Summer Solstice someone claims to be on official White Mantle business, he will direct them to meet <u>Justiciar Hablion</u> in Shaemoor to prepare to administer the Test of the Chosen. Once met, <u>Justiciar Hablion</u> will give the party... {\_?\_}
+
+**Kessex Peak.** South of The Black Curtain rises Kessex Peak, one of the highest points of land within the kingdom of Kryta. The Wizard's Tower can be found floating on a mysterious rock off the south-western edge. No one knows who the wizard was or what powers it's walls contain, but there is rumor that the warrior known as Galrath has been trying to gain access to the tower's secrets.
+
+**Majesty's Rest.** Majesty's Rest is the pass between Kryta and the Maguuma Jungle. The land transitions from the arid canyons in the west to marshes in the east. Surrounded by a lake in the east is the Mausoleum, the tomb for Kryta's royalty.
 
 **Nebo Terrace.** Well populated, Nebo Terrace sits in north-central Kryta between The Cursed Lands and North Krytan Province. There are small settlements scattered throughout the area and a central village, Nebo. The southwest part of the province is swampy and filled with undead, while the southeast is home to the Bergen Hot Springs.
 
@@ -175,13 +181,33 @@ The Crystal Desert is mostly arid and dry, though some oases and deep valleys ar
 - <u>Elder Sobel</u> of Nebo Village is looking for help with the recent increase of bandit population in Nebo Terrace. Adventurers looking for some coin and a good fight may discover Sobel to be a good source of work.
 - [The Hot Springs Murders]
 
-**North Kryta Province.** In the south of this province is located Lions Arch, the main city within Kryta and primary trading port for the continent of Tyria. The royal palace of King Doric resides here, but the White Mantle now run this city, who have since razed and replaced many of the old buildings with barracks and more practical structures. In the north is the Ascalon Settlement, comprised of refugees from Ascalon who escaped the Charr Invasion.
+**North Kryta Province.** In the south of this province is located Lions Arch, the main city within Kryta and primary trading port for the continent of Tyria. The royal palace of King Doric resides here, but the White Mantle now run this city, who have since razed and replaced many of the old buildings with barracks and more practical structures. South of Lion's Arch is the quarantine area known as Lion's Gate, used for processing foreign arrivals and home to the lighthouse. In the north of the province is the Ascalon Settlement, comprised of refugees from Ascalon who escaped the Charr Invasion.
+
+- *Asura Gate*
+
+**Riverside Province.** At the southernmost portion of the Krytan kingdom rests the Riverside Province, a marshland area populated with major Krytan settlements. The Ullen River runs from the north through the province into the Maguuma Jungle. In the eastern part of the province is the Temple of the Unseen - a heavily guarded temple responsible for the White Mantle prominence in the area.
+
+**Sanctum Cay.** This beautiful harbor is a favorite location for cargo ships traveling to Kryta from Cantha. In the southeast are the ruins of an old monastery rumored to be the origin of smiting prayers and the transformation of Krtyan Monks from passive healers to aggressive defenders of the land.
+
+**Scoundrel's Rise.** Along the eastern border of Kryta lies a small sandy area littered with shipwrecks known as scoundrel's Rise. Some believe the area was once a submerged part of Giant's Basin.
+
+**Stingray Strand.** Stingray Strand is a beautiful stretch of beach on the western side of Kryta. Unfortunately the heavy presence of hostile Tengu and Skale harms the idyllic nature. Fishermen's Haven can be found on the eastern coast, rumored to be home to the best fishing in all of Krtya. There is a legend that claims that fish were once so plentiful that one only had to skim the surface with a net to bring in the equivalent of a full day's catch from other bodies of water.
+
+**Talmark Wilderness.** The Talkmark Wilderness, a large area of rolling hiss and beautiful wilderness, is located in northwest Krtya. A river flows from the direction of Majesty's Rest to the gulf below. South of the river is Dakutu Village, a small settlement who cultivates the surrounding land and follow the Krytan royal family.
+
+**Tears of the Fallen.** Between Talmark Wilderness and Stingray Strand is a small area with two tear-shaped lakes close to the beach known as Tears of the Fallen. Small farms dot the western sides of the lakes, and the area is known to have problems with Bog Skales.
+
+**Twin Serpent Lakes.** Given it's name because of the two snake head shaped lakes in the north and south, and the winding natural passes between the two, the Twin Serpent Lakes appear as if two serpents intertwined. Others believe the lakes look like footprints, giving the nickname the footprint lakes. The lakes and streams make the surrounding marshes bountiful hunting grounds. While many creatures call this area home, one of the most prominent are the Caromi Tengu.
 
 **Watchtower Coast.** Watchtower Coast is the easternmost coast along Giant's Basin in northern Kryta. It's name is derived from ancient watchtowers that dot the landscape. While their true purpose for their existence is unknown, rumors say they were built to fend off some unknown threat from across Giant's Basin.
 
 - <u>Farmer Fanella</u> can be found to the west of Beetletun, offering fresh produce to anyone with coin. If asked the right questions or in a particular mood, Fanella may disclose recent visits from Peacekeeper Enforcers demanding profits as donation to the White Mantle under threat of report to the Unseen Ones.
 - <u>Tenlach Silverhand</u> and <u>Ian Sturmme</u> can both be found venturing throughout the coast looking for supplies. Tenlach specifically is looking for abnormal seeds dropped by wandering plants, while Ian needs scalps from Tengu. Both will offer to trade some helms they created in exchange for the sought after supplies.
 - The village of **Beetletun** is in the southeastern corner of Watchtower Coast. Shortly after entering the village, <u>Elder Hezron</u> may request help in warding off an undead horde that was recently spotted headed towards Beetletun from the coast.
+
+### Encounters
+
+![](..\Assets\Encounter Tables\Kryta.png)
 
 ----------
 
@@ -194,6 +220,10 @@ The Crystal Desert is mostly arid and dry, though some oases and deep valleys ar
 \- The Guild Wars Manuscripts
 
 
+
+### Encounters
+
+![](..\Assets\Encounter Tables\Maguuma Jungle.png)
 
 ------------
 
@@ -208,6 +238,10 @@ The Crystal Desert is mostly arid and dry, though some oases and deep valleys ar
 \- The Guild Wars Manuscripts
 
 
+
+### Encounters
+
+![](..\Assets\Encounter Tables\Ring of Fire Islands.png)
 
 ------------
 
