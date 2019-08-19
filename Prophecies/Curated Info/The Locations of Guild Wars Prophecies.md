@@ -24,7 +24,7 @@ Ascalon is the remains of a once powerful kingdom, now in ruins standing testame
 
 ### South of the Wall
 
-**Ascalon City.** Residing upon the southern side of The Wall, Ascalon City is the largest city and cultural center of Ascalon, although her structures lie in shambles. One of the few remaining locations is the area - a large circle with a tar pond in the middle. The residents of the city are comprised of traders, refugees from the surrounding lands, and soldiers. 
+**Ascalon City.** Residing upon the southern side of The Wall, Ascalon City is the largest city and cultural center of Ascalon, although her structures lie in shambles. One of the few remaining locations is the arena - a large circle with a tar pond in the middle. The residents of the city are comprised of traders, refugees from the surrounding lands, and soldiers. 
 
 - <u>Captain Arne</u> can be found recruiting able bodied adventurers to the cause of Prince Rurick's Vanguard. Those who decide to aid the cause can expect to help protect supply runs, help local soldier outposts, and carry out missions eradicating nearby Charr encampments.
 - <u>Symon the Scribe</u> is trying to archive the history of Ascalon before it all goes to ruin. Travelers could bring him historical information to record for a small reward, or ask about locations nearby to explore in return for bringing back something important.
@@ -37,7 +37,7 @@ Ascalon is the remains of a once powerful kingdom, now in ruins standing testame
 - The Charr have established a foothold along the northern parts of the frontier. Unlucky parties may find themselves walking into an encampment unprepared.
 - The hostile land has allowed the grawl and devourers to flourish - groups should take care to be appropriately prepared.
 
-**Old Ascalon.** The plains were once covered in hills and farms and populated with citizens wanting to live outside of Ascalon city. Now, like the remainder of Ascalon, the land is now barren and blasted. In the center of Old Ascalon lies Sardelac Sanitarium - a small settlement once known as Ashford Abbey and home to the Ascalon Catacombs. During the Searing, entrance to the Catacombs collapsed.
+**Old Ascalon.** The plains were once covered in hills and farms and populated with citizens wanting to live outside of Ascalon city. Now, like the remainder of Ascalon, the land is now barren and blasted. In the center of Old Ascalon lies Sardelac Sanitarium - a small settlement once known as Ashford Abbey and home to the Ascalon Catacombs. During the Searing, the entrance to the Catacombs collapsed.
 
 In the north of Old Ascalon is the location the Charr broke through the wall and invaded the rest of Ascalon known as "the Breach." Heading south leads to the Regent Valley. Adventurers here are likely to find residents in need of some form of help, as most who reside here have lost almost everything to the Searing.
 
