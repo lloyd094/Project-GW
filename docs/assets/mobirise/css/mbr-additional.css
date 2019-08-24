@@ -839,3 +839,6 @@ a:hover,
 #menu1-o .dropdown-item[aria-expanded="true"] {
   color: #222!important;
 }
+#text1-r P {
+  font-size: 19px;
+}

@@ -28,8 +28,8 @@
         "url": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
       }
     ],
-    "uniqCompNum": 7,
-    "versionPublish": "4.10.1",
+    "uniqCompNum": 9,
+    "versionPublish": "4.10.7",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/annotation-2019-05-26-215757-128x124.png",
     "noImageResize": "",
@@ -144,7 +144,7 @@
             "showButtons": true,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/tyria-world-fan-map-2000x3657.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/tyria-world-fan-map-2000x3657.jpeg",
             "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -153,7 +153,7 @@
             },
             "overlay": true,
             "overlayColor": "#151515",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": "0.8"
           },
           "media": {
             "image": {
@@ -471,7 +471,7 @@
     "concepts.html": {
       "settings": {
         "title": "Concepts",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -705,7 +705,7 @@
     "about_us.html": {
       "settings": {
         "title": "About Us",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -1007,7 +1007,7 @@
     "news.html": {
       "settings": {
         "title": "News",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1158,15 +1158,20 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.5
           },
-          "title": "Nothing Yet...",
-          "text": "Yes. Stuff will go here. Promise! Just not yet.",
+          "title": "The Beginning of \"Prophecies\"",
+          "text": "<i>August 23, 2019</i><i><br></i><br>The school year is starting again for many (including myself), but that just means no more summer to get in the way of progress! So without further ado, here is my first entry.<br><br><b>A Bit of Background</b><br><br>I started this project earlier this year (2019), and definitely made some sort of progress. What I didn't do is follow through very well with figuring out where to start. I dabbled a bit everywhere across the board - and I made some cool stuff! But I wasn't actually making progress. <br><br>Then near the beginning of the summer, I finally made this site. It forced me think about what I needed to do - to break things down into categories. And so I decided on a topic - something that is more or less the background of what Guild Wars is: the story. Sure, there are all sorts of things like lore, mechanics, classes, and other shiny things that are needed too! But the story is pertinent. It's what the video game itself seems to be built upon. By advancing in the story, the characters go to new places and learn more mechanics.&nbsp;<br><br>Arguably, that isn't a perfect argument. But for here, I really found out it works. So that's what I've been doing.<br><br>If you take a look at the GitHub repository, you should be able to find plenty of content already created. The primary piece that will be getting updated now will be the file \"Campaing - Prophecies.md.\" And that's what I want to cover briefly in this post.<br><br><b>Building a Campaign</b><br><br>In creating a campaing, I have to work with the transition of video game to the world of pen and paper. As such, I have so far created a foreward that goes like this:<br><br>-------------<br><br><i>\"The way I intend to portray this story is to make it playable as either the main characters (in the vein of actually playing the MMO), or to allow the GM to use the events to influence the world around the party. The party could simply help out with events, ignore everything and just experience the world, or actively work against the events and change history entirely! While I intend to offer as much information and advice as possible to the GM, not all the work will be pre-made for them for alternate routes. Nevertheless, they are greatly encouraged.\"<br>\n<br>\"This base guideline will be split into different sections. While the story arc has some specifics that are non negotiable, it does not mean the party has to carry them out. The story arcs assume that the party is following the main story.  Additionally, the arcs assume that the players choose to take on the quests (with exceptions). The optional arcs can be used in place of the story arc for the group, or in addition to, within reason.\"</i><br><br>-------------<br><br>I think these are fair points to make, as it gives me a bit to work with. Obviously, if the GM will have extra work if they want to do something other than the storyline of prophecies. And while I aim to provide other options and/or tips somewhere throughout this project for groups who want to do that, I've decided to first and foremost focus on the story itself.<br><br>If you are interested on how I'm trying to lay out the campaign, feel free to check out the file through GitHub! If you have questions or want to comment, check us out over on our discord!<br><br>That's it for now!<br>--lloyd094<br>",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
           "alias": "spacem/components",
           "_tags": [
             "Theme"
           ],
           "_name": "text1",
-          "_anchor": "text1-r"
+          "_anchor": "text1-r",
+          "_styles": {
+            "P": {
+              "font-size": "19px"
+            }
+          }
         },
         {
           "_params": {

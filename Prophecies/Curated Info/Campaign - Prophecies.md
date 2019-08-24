@@ -2,9 +2,15 @@
 
 The way I intend to portray this story is to make it playable as either the main characters (in the vein of actually playing the MMO), or to allow the GM to use the events to influence the world around the party. The party could simply help out with events, ignore everything and just experience the world, or actively work against the events and change history entirely! While I intend to offer as much information and advice as possible to the GM, not all the work will be pre-made for them for alternate routes. Nevertheless, they are greatly encouraged.
 
-This base guideline will be split into different sections. While the story arc has some specifics that are non negotiable, it does not mean the party has to carry them out. The optional arcs can be used in place of the story arc for the group, or in addition to, within reason.
+This base guideline will be split into different sections. While the story arc has some specifics that are non negotiable, it does not mean the party has to carry them out. The story arcs assume that the party is following the main story.  Additionally, the arcs assume that the players choose to take on the quests (with exceptions). The optional arcs can be used in place of the story arc for the group, or in addition to, within reason.
 
-*Special Thanks to the videos by WoodenPotatoes*
+Throughout, you will find certain extra marks. Here are explanations for the following:
+
+| Symbol | Definition                                                   |
+| ------ | ------------------------------------------------------------ |
+| " * "  | Blank Slate NPC: This NPC might hold a name and a few minor descriptions, but the GM is free to develop/use this character as they please. These NPCs may be disposable or returning at GM discretion. |
+
+- *Special Thanks to the videos by WoodenPotatoes*
 
 Storyline: https://wiki.guildwars.com/wiki/Storyline_of_Prophecies
 
@@ -48,11 +54,55 @@ Between Act 0 and Act 1 (in game), there is a two year gap. The GM and players m
 
 ----
 
-## Act 1: 
+## Act 1: A Kingdom in Despair
 
 ### Story Arc
 
-a
+Following The Searing, the kingdom of Ascalon is in despair. Approximately two years later, Ascalon is still holding their ground against the charr as much as possible, but the fight is going nowhere. Additionally, most of the settlements in Ascalon are now ruins. 
+
+#### 1.1 - The Krytan Ambassador
+
+The party has spent the last two years continuing to serve the army of Ascalon. Upon completion of a recent patrol ending outside the now ruined Ascalon City, they are approached by Captain Osric.
+
+|      | Captain Osric                                                |
+| ---- | ------------------------------------------------------------ |
+| Main | *"Welcome back! Looks like the patrol went well. You're still in one piece at any rate... Listen, Prince Rurik sent me to ask you a favor."*<br /><br />*You've been in the field, so you probably haven't heard about this, but an ambassador's arrived from our old enemy Kryta. They can help us fight the Charr, but the king won't even talk to him. The prince hasn't been able to make any headway with his father, but he knows the King trusts Tydus, and Tydus trusts you. Would you perhaps talk to Warmaster Tydus about this matter? He's in his usual place in Ascalon City."* |
+| Ask  | *"I understand why the king bears a grudge against Kryta. He believes we might have been able to stop the Searing if we'd not spent so many years defending ourselves from Krytan guilds, but by all accounts, times have changed in Kryta. We should at least hear what the ambassador has to say. Please, next time you're in Ascalon City, talk to Warmaster Tydus about this. He trusts you. If you can convince him, he may be able to persuade the king to listen to reason."* |
+
+Upon accepting the quest, Captain Osric thanks them and walks away to take care of other important matters. It would be best to speak with Tydus sooner than later.
+
+By searching Ascalon city, the players eventually find Warmaster Tydus.
+
+|       | Warmaster Tydus                                              |
+| ----- | ------------------------------------------------------------ |
+| Main  | *"Don't talk to me about that Krytan ambassador! I've been getting an earful from both sides. Do you know why King Adelbern trusts me? Because I know where my loyalties lie. King and country, Balthazar preserve them both! Perhaps joining the Prince's Vanguard has confused you, but Rurik is not the ruler of the kingdom. Now listen to me. The king's already given this matter much consideration, and the likes of you and I best abide by his wisdom."* |
+| Cont. | *"I have an important task for you. Please deliver this royal message to Ambassador Zain of Kryta. His camp can be found just outside the city. Go out the western gate to Old Ascalon and head west to find the encampment."<br/><br />"I don't trust these Krytans. I want you to take someone with you in case there's trouble. I'm sure Alesia will be willing to go with you, and she can heal you if need be."* |
+
+If the party asks to help, or the GM wants to add this as a quest, Tydus will assign the party the task of delivering the message. Tydus recommends the party meet with Alesia Baptiste*, a Tyrian monk who may act as a healer for the party. 
+
+As the party ventures outside Ascalon City, they will head towards an encampment nearby. The encampment is located on top of a hill, and centered around an old dead tree. There is a fire burning, and if the party so chooses to listen, they will hear some dialogue between Prince Rurik and Ambassador Zain.
+
+|       | Dialogue                                                     |
+| ----- | ------------------------------------------------------------ |
+| Rurik | *"Greetings Ambassador Zain. Let me be the first to welcome you to Ascalon."* |
+| Zain  | *"Ah, Prince Rurik. I thank you for your kind words. I will admit, I was nervous about this meeting. Our initial reception here in Ascalon City has been...less than warm."* |
+| Rurik | *"So I have heard. I apologize for my father. He means well and does what he thinks is best for his country, but sometimes his stubborn memory of the last Guild War gets in his way."* |
+| Zain  | *"The days of war between our two nations are over. We are here in the name of Kryta to give aid to Ascalon. We ask for nothing in return, and wish only to be of service."* |
+| Rurik | *"We would be foolish to allow our pride to stand in the way of such a generous offer."* |
+| Zain  | *"Now I see why the people of Ascalon so admire you, Rurik. When it is your turn, you will be a good king. A good king indeed."* |
+| Rurik | *"Thank you, Ambassador. Now I must take my leave. I will talk with the king. Perhaps I can change his mind and gain you access to the city."* |
+
+|      | Ambassador Zain                                              |
+| ---- | ------------------------------------------------------------ |
+| Desc | Zain is an ambassador of Kryta and representative of the White Mantle. |
+| Main | *"A message with the royal seal? Let's see. Honored Ambassador et cetera...et cetera..."Your request for permission to enter the city and address the people of Ascalon is emphatically denied. This being the fourth such denial, His Majesty bids you reconsider this ill-conceived journey and contemplate a return to Kryta.""<br/><br />"King Adelbern and I have learned very different lessons from the wars of past. Isolation is not the answer. Only in peace and mutual friendship shall we find our salvation. I still have hope that in time, he will realize the truth of this."* |
+| Extr | <u>Kryta Status:</u> *"There is peace in Kryta. What more need you hear? The wisdom of men may fail. Place your faith in the Unseen Ones. Life is good for those sheltered by the White Mantle.*<br /><u>Thoughts Toward Ascalon:</u> *"The war between Kryta and Ascalon is over, and both kingdoms have been transformed. Old grudges have no place in this new world. It is time for there to be friendship between us once more."*<br /><u>White Mantle:</u> *The White Mantle serve the Unseen Ones who saved Kryta from the Charr invasion. We have brought peace and stability to the lands of the west. Our fields are no longer ruined by battle, and the ships that ply our ports bring trade, not warfare.*<br /><u>Why Are You Here:</u> *"Confessor Dorian, head of the White Mantle, has foreseen dire times for Ascalon. Troubled by these visions, he sent me, to offer King Adelbern our help in these dark days."* |
+| Non  | If the party did not deliver the message to Ambassador Zain, he will simply respond with:<br />*"Please pardon me. It is not that I do not wish to speak with you, but I am on an important diplomatic mission here in Ascalon, and King Adelbern is very wary of foreigners. It might hinder my efforts to be seen talking to you. I hope you understand."* |
+| Side | If the party is looking for extra work or wish to help, Zain has a few side quests for the group: <br />**A Mission of Peace** \| **Helping the People of Ascalon** \| **The Ambassador's Quandary** |
+
+#### 1.2 - Defend the Wall
+
+
 
 ----
 
