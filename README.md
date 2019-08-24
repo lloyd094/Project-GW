@@ -2,6 +2,8 @@
 
 This project intends to bring the world of Guild Wars to the Tabletop Community by conversion to D&D 5th Edition. While this will be a long process, it should hopefully be a worthwhile one.
 
+Check out our [website](https://lloyd094.github.io/Project-GW/index.html)! 
+
 ---------
 
 ## Guidelines
