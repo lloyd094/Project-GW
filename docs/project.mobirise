@@ -45,7 +45,7 @@
         "main": true,
         "title": "Home",
         "meta_descr": "",
-        "header_custom": "",
+        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-146410461-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-146410461-1');\n</script>\n",
         "footer_custom": "",
         "html_before": ""
       },
@@ -471,7 +471,8 @@
     "concepts.html": {
       "settings": {
         "title": "Concepts",
-        "order": 3
+        "order": 3,
+        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-146410461-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-146410461-1');\n</script>\n"
       },
       "components": [
         {
@@ -705,7 +706,8 @@
     "about_us.html": {
       "settings": {
         "title": "About Us",
-        "order": 2
+        "order": 2,
+        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-146410461-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-146410461-1');\n</script>\n"
       },
       "components": [
         {
@@ -1007,7 +1009,8 @@
     "news.html": {
       "settings": {
         "title": "News",
-        "order": 4
+        "order": 4,
+        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-146410461-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-146410461-1');\n</script>\n"
       },
       "components": [
         {
