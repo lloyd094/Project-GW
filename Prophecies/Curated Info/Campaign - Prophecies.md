@@ -60,7 +60,7 @@ Between Act 0 and Act 1 (in game), there is a two year gap. The GM and players m
 
 Following The Searing, the kingdom of Ascalon is in despair. Approximately two years later, Ascalon is still holding their ground against the charr as much as possible, but the fight is going nowhere. Additionally, most of the settlements in Ascalon are now ruins. 
 
-#### 1.1 - The Krytan Ambassador
+#### 1.1 - The Krytan Ambassador*
 
 The party has spent the last two years continuing to serve the army of Ascalon. Upon completion of a recent patrol ending outside the now ruined Ascalon City, they are approached by Captain Osric.
 
@@ -100,9 +100,46 @@ As the party ventures outside Ascalon City, they will head towards an encampment
 | Non  | If the party did not deliver the message to Ambassador Zain, he will simply respond with:<br />*"Please pardon me. It is not that I do not wish to speak with you, but I am on an important diplomatic mission here in Ascalon, and King Adelbern is very wary of foreigners. It might hinder my efforts to be seen talking to you. I hope you understand."* |
 | Side | If the party is looking for extra work or wish to help, Zain has a few side quests for the group: <br />**A Mission of Peace** \| **Helping the People of Ascalon** \| **The Ambassador's Quandary** |
 
+----------
+
 #### 1.2 - Defend the Wall
 
+Sometime after delivering the message to Ambassador Zain, the group is approached once again by Warmaster Tydus.
 
+|      | Warmaster Tydus                                              |
+| ---- | ------------------------------------------------------------ |
+| Main | *"There you are! I was asked to pass you a message from Prince Rurik. There's trouble at the Great Northern Wall, and they'd like your help. Squire Zachery is waiting for you at the Wall.<br/><br />One thing before you go... Since Althea's disappearance, the prince has grown increasingly reckless. Be careful, old friend. Ascalon needs you in one piece."* |
+| Loca | *"Forgotten how to get to the Great Northern Wall, have you? Head northeast and you'll find it. I believe Squire Zachery is already there, waiting for you."* |
+
+As the group heads northeast from Ascalon City, they will find the Great Northern Wall outpost a short distance away. Inside, they will meet a young squire by name of Zachary, patiently waiting for the group to arrive.
+
+|      | Squire Zachary                                               |
+| ---- | ------------------------------------------------------------ |
+| Main | *"It's an honor to meet you all. I suppose you're wondering why Prince Rurik asked you here. I'm afraid I can't say, really. Captain Calhaan is in charge, and I'm not so important that they tell me anything, to be honest. I do know there's trouble ahead. You may want to gather some allies before going in to talk to the Captain. He's the sort to send you right into the fray, soon as he sees you."* |
+
+The party will find Captain Calhaan nearby, who will brief them on the situation.
+
+|      | Captain Calhaan                                              |
+| ---- | ------------------------------------------------------------ |
+| Main | *"We fear the Charr General Bonfaaz Burntfur is planning a mass raid on the Wall. Head north into enemy territory and find out what that mangy beast has planned."* |
+
+INSERT MISSION DETAILS HERE
+
+----------
+
+#### 1.3 - Fort Ranik
+
+INSERT MISSION DETAILS HERE
+
+-------
+
+#### 1.4 - Ruins of Surmia
+
+INSERT MISSION DETAILS HERE
+
+#### 1.5 - Nolani Academy
+
+INSERT MISSION DETAILS HERE
 
 ----
 
@@ -124,11 +161,25 @@ a
 
 -----------
 
-## Act 2:
+## Act 2: From Citizens to Refugees
 
 ### Story Arc
 
-a
+#### 2.1 - The Way is Blocked
+
+INSERT MISSION DETAILS HERE
+
+-------
+
+#### 2.2 - Borlis Pass
+
+INSERT MISSION DETAILS HERE
+
+--------
+
+#### 2.3 - The Frost Gate
+
+INSERT MISSION DETAILS HERE
 
 ------
 
