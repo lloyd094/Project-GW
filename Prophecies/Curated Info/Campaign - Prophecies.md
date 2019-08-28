@@ -104,6 +104,8 @@ As the party ventures outside Ascalon City, they will head towards an encampment
 
 #### 1.2 - Defend the Wall
 
+*Chapter Notes: There are plenty of locations that battles can be inserted - for here, the recommended creatures are devourers, gargoyles, and charr. The GM can also provide optional ways to get around certain challenges such as thinking outside the box, giving alternatives, etc.*
+
 Sometime after delivering the message to Ambassador Zain, the group is approached once again by Warmaster Tydus.
 
 |      | Warmaster Tydus                                              |
@@ -123,7 +125,19 @@ The party will find Captain Calhaan nearby, who will brief them on the situation
 | ---- | ------------------------------------------------------------ |
 | Main | *"We fear the Charr General Bonfaaz Burntfur is planning a mass raid on the Wall. Head north into enemy territory and find out what that mangy beast has planned."* |
 
-INSERT MISSION DETAILS HERE
+The party will then head down the wall's battlements into the northern lands. At the base of the wall are soldiers guarding the gate, some fighting off devourers who got too close. As the group heads north, they will pass devourers, gargoyles, and skirmishes between the two. Eventually to keep heading north, the party will have to get through a gate in some old ruins - there just happens to be some grawl nearby it. 
+
+*Side Quest: Champion of Surmia*
+
+Once past the gate, the party will climb a hill to overlook the charr army they were sent to find. Through one way or another, the Charr army spots the group and starts charging towards them. The group must make it back to the wall and warn Captain Calhaan.
+
+|      | Captain Calhaan                                              |
+| ---- | ------------------------------------------------------------ |
+| Main | *"You're back. Well done. What news of the Charr?"*<br /><br />[Group response.]<br /><br />*"There are too many - we'll never hold them off! The Wall is lost - we must fall back. Retreat and regroup at the bunkers just north of Fort Ranik. We can't let the Charr make it to the capital!"* |
+
+The group will retreat with the Ascalonian forces to Fort Ranik, thus proceeding directly into the next arc. 
+
+*The GM may wish to add challenges along the way or other optional content. The story continues in Fort Ranik however.*
 
 ----------
 
