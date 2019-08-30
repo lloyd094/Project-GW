@@ -89,6 +89,49 @@ The Iron Legion is one of the four [High Legions](https://wiki.guildwars.com/wik
 
 https://wiki.guildwars.com/wiki/Iron_Legion
 
+-------
+
+*As started by Narcemus*
+
+Charr
+The charr are a large race of feline humanoids. They stand taller than humans but are still shorter than your average norn. Many stand hunched forward, though they are capable of standing fully upright. Their bodies are coated in fur, and their hands, while usable for wielding weapons also brandish claws and can be used for running on all fours. Their face is like that of a predatory cat with a long muzzle full of sharp teeth, the big difference being that they do grow horns, and have two separate pairs of ears on their head. Male and female charr differ slightly in their physical appearance, with females being slightly more slender and agile in their body type.
+
+As a race, the charr are very militant. Starting at a young age, their cubs are given over to their legion to be raised up in Fahrar, which is their version of school. Here they create their first warband and learn their place in the High Legions. There are four legions which rule the charr, each focused on their own arena of war, to push the charr to maintain dominance over all of the other races, especially their hated enemy, the humans.
+
+Ability Score: +1 Dexterity
+Average Height: 7’ 6” - 8’ 2”
+Average Weight: 320 - 400 lb
+Age: Less than 100 years
+Size: Medium
+Speed: 30’
+Vision: Normal Vision
+Languages: New Krytan & Charr
+Claws: Your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier instead of bludgeoning damage normal for an unarmed strike.
+Feline Agility: your reflexes and agility allow you to move with a burst of speed. When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can't use it again until you move 0 feet on one of your turns.
+Subraces: Ash Legion, Blood Legion, Iron Legion
+
+Ash Legion
+The Ash Legion maintains superiority at war through the use of espionage, sabotage, and assassination. They have agents throughout the world order to maintain their place among the High Legions with a web of information.
+
+Ability Score: +1 Charisma
+Ash Training: You gain proficiency in Stealth, and gain proficiency in one of the following tool kits: thieves tools, forgery kit, disguise kit.
+Shape Shadows: You know the minor illusion cantrip. Charisma is your spellcasting ability for this trait.
+
+Blood Legion
+The Blood Legion is the backbone of the charr military force. They maintain the largest military presence of all the High Legions and pride themselves in their supremacy at combat.
+
+Ability Score: +1 Strength
+Martial Training: You are proficient with four martial weapons of your choice and with light armor, and medium armor.
+Blood Standards: Blood Legion charr are careful not to show weakness in front of their allies, for fear of losing status. If you miss with an attack roll or fail an ability check or a saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). Once you use this trait, you can't use it again until you finish a short or long rest.
+
+Iron Legion
+The Iron Legion is the research and development wing of the High Legions. Every technological advancement made by the charr, from siege devourerers on had been pushed by the Iron Legion, keeping them one step ahead of their enemies.
+
+Ability Score: +1 Intelligence
+Proficiency: You gain proficiency in Tinker's Tools and Smith's Tools.
+Iron Craftsmanship: You can create a temporary mechanical item out of common materials. Choose a cantrip from the Elementalist Spell List. Describe the item connected to it. As long as you possess the item, you can use the item to cast that cantrip. At the end of a long rest, you can replace it with a new item and select a new cantrip from the Elementalist Spell List. Intelligence is your spellcasting ability for these cantrips.
+Engineer's Intuition: Whenever you make a Tinkerer's Tools check related to making or repairing a mechanical objects, you add double your proficiency bonus to the check, instead of your normal bonus.
+
 ----------------
 
 ## Dredge
@@ -121,6 +164,44 @@ https://wiki.guildwars.com/wiki/Stone_Summit
 
 ---------
 
+*As started by Narcemus*
+
+Dwarves
+The dwarves are one of the oldest races of Tyria, having a history that goes back long before humans ever stepped foot on Tyria. They are a short, stout race of bearded humanoids that live throughout the Shiverpeak Mountains, building halls deep beneath and above. Among the dwarves can be found some of the best blacksmith's, artisans, and miners. They have many tools and machines that assist with these tasks, including kegs of black powder. Many dwarves worship the Great Dwarf as their creator and believe that upon death they will find their way to the Great Forge. Some dwarves are also known to revere the human gods also, specifically Dwayna and Grenth on Wintersday.
+
+A great divide grew between the dwarves when the Great Destroyer arose and their King, Jalis Ironhammer, enacted a ritual that converted the dwarves in his present company into Stone Dwarves. This, then, created a longing within the dwarves for them to undergo the rite themselves and join their brethren, but many still hold off.
+
+Ability Score: +1 Constitution
+Average Height: 4’ 3” - 4’ 9”
+Average Weight: 160 - 220 lb
+Age: Less than 100 Years
+Size: Medium
+Speed: 25’, Even when encumbered
+Vision: Darkvision (60’)
+Languages: Dwarven & New Krytan
+Dwarven Combat Training: You have proficiency with the battleaxe, handaxe, light hammer, and warhammer.
+Subraces: Deldrimor Dwarves and Stone Dwarves.
+
+Deldrimor Dwarves
+The Deldrimor dwarves are those left who have not undergone the Rite. Because of the Rite, much of the civilization that they have created has started falling into disuse and disrepair, but the dwarves are a strong and hearty race and most plan to hold out as long as possible.
+
+Ability Score: +1 Wisdom
+Tool Proficiency: You gain proficiency with one of the artisan’s tools of your choice: smith’s tools, brewer’s supplies, or mason’s tools.
+Dwarven Armor Training: You have proficiency with light and medium armor.
+Stonecunning: Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
+
+Stone Dwarves
+The stone dwarves are vastly different from their brethren. Physically they exist and living stone, making them a strong and resilient race, but their minds are not entirely their own. The Stone Dwarves are all connected together with a sort of hive mind that, while allowing for individuality, drives them towards destroying the minions of the Elder Dragons, wherever they find them.
+
+Ability Score: +1 Strength
+Age: Immortal until body destroyed or parts detached from head.
+Dragon Fury: After becoming Stone, the stone dwarf hive mind drives stone dwarves to fight the minions of creatures they have recently grown to call Elder Dragons. If such a creature is encountered, you must make a DC 13 Wisdom saving throw or become forced to combat these minions until they are dead. At the end of each turn you may retake this saving throw to shrug off the effect, if so you will be immune for the remainder of this encounter.
+Stone Resistance: As a being of stone, you are immune to disease. You also do not have to eat, sleep, drink, or breathe. Magic cannot force you to sleep and you cannot be exhausted from a lack of rest.
+Sentry’s Rest: While you do not need to sleep, you do need to spend 6 hours in an inert state to gain the effects of a Long Rest. During this time, you remain conscious of your surroundings.
+Stone Form: Being a creature of stone, your body has a base AC of 12 + your Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield’s benefits apply as normal while you use your natural armor. You gain resistance to non-magical pierce and slash.
+
+---------
+
 ## Human
 
 Humans are one of the most widespread and influential [species](https://wiki.guildwars.com/wiki/Species) in the world of [Tyria](https://wiki.guildwars.com/wiki/Tyria_(world)). They are spread throughout the world of Tyria, including [Cantha](https://wiki.guildwars.com/wiki/Cantha), [Elona](https://wiki.guildwars.com/wiki/Elona), and the eponymous continent [Tyria](https://wiki.guildwars.com/wiki/Tyria), though it is implied they live further south than Cantha, which is where they may have originated.[[1\]](https://wiki.guildwars.com/wiki/Human#cite_note-Kill_Ten_Rats-1) 
@@ -150,6 +231,36 @@ https://wiki.guildwars.com/wiki/Kryta
 The sunken kingdom of Orr once held the home of the Human Gods in its capital city, Arah. Known for its highly devout populous, spires and marbled roads, the people of Orr prided themselves for their maintenance of the City of the Gods. In 1071 AE, this ended in the event known as the Cataclysm when the Charr assaulted the three human kingdoms of Tyria.
 
 https://wiki.guildwars.com/wiki/Orr
+
+--------
+
+*As started by Narcemus*
+
+Humans
+Humanity is possibly one of the most widespread and active races around, aside from perhaps the Charr. Human kingdoms include Kryta, Ascalon, Vabbi, Istan, Kourna, and Cantha, spread across 3 continents and multiple islands in between. This has lead to many rivalries including the tengu and charr, but they also have many friends to be found in the dwarves and asura. The biggest defining factor about humanity is that they were brought to this world by the Six, a group of gods that molded and shaped Tyria to their liking. Because of this, they consider themselves blessed by the gods, giving them a greater intuitive understanding of magic than most other races.
+
+Average Height: 5’ 6” - 6’ 2”
+Average Weight: 155 - 220 lb
+Age: Less than 100 Years
+Size: Medium
+Speed: 30’
+Vision: Normal Vision
+Languages: New Krytan & +1 language of your choice
+Feat: You gain one feat of your choice.
+Touched By Divinity: Humanity was brought to this world, shepherded, and raised by the Six. Because of this, many of them feel blessed by an individual god gaining many advantages for this.
+
+Grenth: God of Death, Ice
+Ability Score: +1 Wisdom, Proficiency in One: Insight or Perception
+Balthazar: God of War, Fire
+Ability Score: +1 Strength, Proficiency in one: Athletics or Intimidation
+Dwayna: Goddess of Life, Light, Air
+Ability Score: +1 Wisdom, Proficiency in one: Medicine or Religion
+Melandru: Goddess of Nature
+Ability Score: +1 Constitution, Proficiency in one: Survival or Nature
+Lyssa: Goddess of Beauty, Illusion
+Ability Score: +1 Charisma, Proficiency in one: Performance or Deception
+Kormir: Goddess of Truth, Spirit
+Ability Score: +1 Intelligence, Proficiency in one: History or Investigation
 
 ----------
 
@@ -184,6 +295,40 @@ https://wiki.guildwars.com/wiki/Avicara
 The Caromi are a tribe of [tengu](https://wiki.guildwars.com/wiki/Tengu) that live in [Kryta](https://wiki.guildwars.com/wiki/Kryta). They are aggressive to [humans](https://wiki.guildwars.com/wiki/Humans) and [wildlife](https://wiki.guildwars.com/wiki/Kryta_wildlife) and often raid traveling [merchants](https://wiki.guildwars.com/wiki/Merchant). 
 
 https://wiki.guildwars.com/wiki/Caromi
+
+---------
+
+*As started by Narcemus*
+
+Tengu
+Tengu are an avian humanoid race that most generally are found on the Tyrian and Canthan continents. They stand taller than a human but still shorter than a charr. Their form is slightly hunched, but they are slim for their size. Tengu lost the capability to fly in their distant past, but they have gained taloned hands which can wield weapons. Their bodies are covered in feathers and on their face rests a large beak through which they can speak like any other race.
+
+As a people, they have been pushed further and further to the extremes of society. They have held wars against both humans and dwarves to maintain some land from which to live, but such has been a losing fight. Because of this there has grown a seed of distrust for and from all other races.
+
+Ability Score: +1 Dexterity
+Average Height: 6’ 2” - 6’ 8”
+Average Weight: 180 - 220 lb
+Age: Less than 100 Years
+Size: Medium
+Speed: 30’
+Vision: Normal Vision
+Languages: New Krytan & +1 language of your choice from Dwarven, Canthan, Druidic, and Old Krytan.
+Talons: You are proficient with your unarmed strikes, which deal 1d4 slashing damage on a hit.
+Subraces: Tyrian & Canthan
+
+Tyrian
+Within the continent of Tyria, the tengu have been pushed to extremes, mostly outside of the spheres of what people would call civilization. Quetzal tengu can be found in the deep jungles of the Maguuma and the vast forests of the Verdant Cascades. The Avicara are spread thin through the less civilized portions of the Shiverpeaks, and the Carmoni can be found similarly in Kryta. These tengu tend to have a better understanding of the natural world than the urban world.
+
+Ability Score: +1 Wisdom, Proficiency in Survival
+Mask of the Wild: You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
+Fleet of Foot: Your base walking speed increases to 35 feet.
+
+Canthan
+In Cantha, the wars between the tengu and the humans was fierce, almost as fierce as the hate between humans and charr. But a noble man named Togo, and his brother, the Canthan Emperor, worked hard to herald a peace between human and tengu. This peace is definitely not without its flaws, most tengu living within slums, but because of this many Canthan tengu have grown up with a better understanding of trade and society.
+
+Ability Score: +1 Charisma, Proficiency in one skill from Persuasion, Intimidate, or Deception
+Extra Language: Living in an Urban Environment, you have learned to speak, read, and write one extra language of your choice.
+Trader's Intuition: Whenever you make a Charisma (Insight) check related to the buying or selling of products, you are considered proficient in the Insight skill, and add double your proficiency bonus to the check, instead of your normal bonus.
 
 ------------
 

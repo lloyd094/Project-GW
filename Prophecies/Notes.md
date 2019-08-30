@@ -16,8 +16,9 @@ This list is to keep track of those who have helped out in some form or another 
 
 ### Team Members and Regular Contributors
 
-- Christopher Harlan (lloyd094)
-- /r/Sirjisu
+- Christopher Harlan | /u/lloyd094 | @lloyd094#5223 
+- /u/Sirjisu | @Shade#2029 
+- /u/Narcemus | @Duce#3189 
 
 ### Outside Contributors
 
@@ -26,6 +27,24 @@ This list is to keep track of those who have helped out in some form or another 
 - **Reddit**: DrFelis, EmirateJoey, Ghotistyx_, HowYouMineFish, jmartkdr, JunWasHere, laspammy, Minnesotexan, rashandal, refugeeinaudacity, Rotvoid, SgtTreehugger, Shpleeblee, SolDelta, sylva748, TangerineX, The_Stuey, Varorson, XiahouMao, xsdf
 
 
+
+## Original Sources
+
+This is a list of where we got our sources for specific project stuff.
+
+- **Asura** - Gnomes
+
+- **Charr** - Taxabi
+
+- **Dwarves (Stone)** - Dwarves, War Forged, Natural Armor
+
+- **Golem** - War Forged
+
+- **Norn** - Shifter, Goliath
+
+- **Tengu** - Wood Elves
+
+  
 
 ## Permissions
 

@@ -2,7 +2,7 @@
 
 ---
 
-# The Beasts of Guild Wars
+# The Creatures of Guild Wars
 
 This section aims to contain all the beasts players can expect to find in the world within Guild Wars. Essentially, this will be "the bestiary."
 
