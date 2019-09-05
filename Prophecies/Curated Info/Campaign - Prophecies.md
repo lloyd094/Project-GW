@@ -4,11 +4,14 @@ The way I intend to portray this story is to make it playable as either the main
 
 This base guideline will be split into different sections. While the story arc has some specifics that are non negotiable, it does not mean the party has to carry them out. The story arcs assume that the party is following the main story.  Additionally, the arcs assume that the players choose to take on the quests (with exceptions). The optional arcs can be used in place of the story arc for the group, or in addition to, within reason.
 
+You will find lots of dialogue contained within - most of this is here to show what was in the base game, and to give the GM some ideas as to how the dialogue may go. It does not need to be strictly followed at all, but may be used verbatim if desired. Simply put, it is included to give an idea of what the NPC has on their mind and is likely to talk about.
+
 Throughout, you will find certain extra marks. Here are explanations for the following:
 
 | Symbol | Definition                                                   |
 | ------ | ------------------------------------------------------------ |
 | " * "  | Blank Slate NPC: This NPC might hold a name and a few minor descriptions, but the GM is free to develop/use this character as they please. These NPCs may be disposable or returning at GM discretion. |
+| [GR]   | **Group Response**: This may be optional depending on how the GM words things. Sometimes a response is absolutely necessary, other times it is completely avoidable. |
 
 - *Special Thanks to the videos by WoodenPotatoes*
 
@@ -133,7 +136,7 @@ Once past the gate, the party will climb a hill to overlook the charr army they 
 
 |      | Captain Calhaan                                              |
 | ---- | ------------------------------------------------------------ |
-| Main | *"You're back. Well done. What news of the Charr?"*<br /><br />[Group response.]<br /><br />*"There are too many - we'll never hold them off! The Wall is lost - we must fall back. Retreat and regroup at the bunkers just north of Fort Ranik. We can't let the Charr make it to the capital!"* |
+| Main | *"You're back. Well done. What news of the Charr?"*<br /><br />[GR]<br /><br />*"There are too many - we'll never hold them off! The Wall is lost - we must fall back. Retreat and regroup at the bunkers just north of Fort Ranik. We can't let the Charr make it to the capital!"* |
 
 The group will retreat with the Ascalonian forces to Fort Ranik, thus proceeding directly into the next arc. 
 
@@ -143,7 +146,35 @@ The group will retreat with the Ascalonian forces to Fort Ranik, thus proceeding
 
 #### 1.3 - Fort Ranik
 
-INSERT MISSION DETAILS HERE
+Following the escape from the Northern Wall, the army regroups in Fort Ranik. There, the party can find Lord Darrin. The following discussion may carry out:
+
+|      | Lord Darrin                                                  |
+| ---- | ------------------------------------------------------------ |
+| Main | **"The Ascalon Army is scattered and in retreat. But small teams are regrouping and making stands against the invaders. If you can push back the Charr, force them out and retake the Wall, Ascalon City will be saved.""I've seen this sort of thing before, and it does not bode well, not at all. What is it you desire my friend?"*<br /><br />[GR]<br /><br />*"Today is a dark day in the history of Ascalon. The Charr have breached the Wall again. They burn our homes and threaten to take what little we have left. The guards who man the Wall have fallen back, and the Charr army marches on Ascalon City."*<br /><br />*"The Charr are beasts, but it appears they are not as stupid as many think. They organized a large invasion force and simply overwhelmed the garrison at the Northern Gate.<br/>Prince Rurik is directing an organized defense. Even now, he marches toward the Wall from the capital city of Rin. Even so, Rin is far to the west. By the time he arrives, Ascalon City may have already fallen."*<br /><br />[GR]<br /><br />*"Your words are inspiring, but I'm afraid the end of Ascalon is near. How long can we hold out against such a beastly race as the Charr? They have only one goal, and that is to see the end of us all. You've heard the rumors...even Prince Rurik thinks the time has come to abandon the cities and make for the mountain pass."*<br /><br />*"The Ascalon Army is scattered and in retreat. But small teams are regrouping and making stands against the invaders. If you can push back the Charr, force them out and retake the Wall, Ascalon City will be saved."*<br /><br />[GR]<br /><br />*"The events of the next few hours will either be written about in legend or torn from human memory by the claws of the Charr. The choice of which of these things comes to pass is up to you. Good luck."* |
+
+By the end of the discussion, the group should be aware of their goal: to push back the Charr forces. The party will then head out when ready in effort to strike back.
+
+Upon leaving Fort Ranik, the area will be a battlefield - burnt, bloody, and filled with debris. All around are Charr fighting against the Ascalonian forces. On their way north, the party may overhear some members of the militia announcing that the Charr have pushed past the cathedral, thus putting many Ascalonian citizens in danger.
+
+*Side Quest: Deliver A Message To My Wife*
+
+Eventually, the group will come to a hill overlooking a Charr infested valley before the wall. Around this area are Trebuchets, now broken. Near one of the trebuchets is an engineer attempting to repair, but he refuses to speak unless the surrounding area is safe. Once any threats in the immediate area are taken care of, the party can then speak with Siegemaster Lormar.
+
+|      | Siegemaster Lormar                                           |
+| ---- | ------------------------------------------------------------ |
+| Main | *"Damn Charr snuck up on me while I was repairing this trebuchet. It's missing a release lever, restraining bolt, and an arming crank. Search the other wrecked trebuchets to find those three pieces, and bring them back to me. If you do, we can fix this little lovely, and we'll give those Charr a taste of their own filth!"* |
+
+After the party brings Siegemaster Lormar the required parts, he gets them in place and allows the party to load and fire (if they wish). This results in the death of the Charr party in the valley, making the way clear to get closer to the wall.
+
+As the party moves closer to the wall, there is one more fight to take place: a Charr general and a small band of minions blocks your goal. *Smart players may notice a second trebuchet nearby that will decimate the group in this fight as well, speeding up the final part of the mission.* Once the general is destroyed, the party meets with the Ascalonian army to listen to a speech given by Prince Rurik.
+
+|       | Prince Rurik's Speech                                        |
+| ----- | ------------------------------------------------------------ |
+| Rurik | *"The time for action has come. No more cowering behind this wall! From now on, we take the fight to our enemies!"* |
+| Guard | *"Prince Rurik! Prince Rurik!"*                              |
+| Rurik | *"What is it?"*                                              |
+| Guard | *"We are victorious, but it has cost us greatly. During their retreat, the Charr took prisoners. Several of our wounded have been carried off!"* |
+| Rurik | *"Ascalon will live in fear of these beasts no more. We march to the north, to free our brothers and take back that which has been taken from us."* |
 
 -------
 
