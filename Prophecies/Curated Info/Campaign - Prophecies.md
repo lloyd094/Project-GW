@@ -180,7 +180,60 @@ As the party moves closer to the wall, there is one more fight to take place: a 
 
 #### 1.4 - Ruins of Surmia
 
-INSERT MISSION DETAILS HERE
+Following the speech by Rurik, the party is now able to speak with Warmaster Riga, found near Frontier Gate. There, he will tell them to head to Surmia to speak with Captain Miken.
+
+|      | Warmaster Riga                                               |
+| ---- | ------------------------------------------------------------ |
+| Main | *"You're another one of those Vanguard soldiers looking for Prince Rurik, aren't you? He didn't wait for you, but I think you still have a chance to catch up to him. The prince headed north to pursue the fleeing Charr into the ruins of Surmia. Follow the road from the Frontier Gate to Surmia to rejoin the prince and rescue those carried off by the Charr. I directed Captain Miken up that way not too long ago. He might be able to direct you further."* |
+| Ask  | *"I admire Prince Rurik's courage, but chasing the Charr north of the Wall is a fool's errand, if you ask me. Not that you did ask me... If you want to find the prince, follow the road from the Frontier Gate to Surmia. Once there, check with Captain Miken for the prince's exact whereabouts."* |
+
+Along the road towards Surmia, there are several groups of grawl that the party may choose to either engage in combat or sneak past. Once outside Surmia, the party can find Captain Miken who will instruct the party to assist Prince Rurik in a rescue mission.
+
+|      | Captain Miken                                                |
+| ---- | ------------------------------------------------------------ |
+| Main | *"You've arrived just in time. The prince has already begun scouting the path, and from what I can see, he is prepared to pursue the Charr on his own if need be. He asked that I remain in this area and direct everyone I can find to join him, and I am doing my best to carry out his orders.<br/><br />Please gather a force as quickly as you can and see if you can catch up with Prince Rurik before he tries to face the Charr army on his own!"* |
+
+When the party is ready, they will find Prince Rurik waiting for them just outside the encampment. The mission is best split into three sections: before the drawbridge, the drawbridge, and after the drawbridge. The journey north into Surmia territory is dangerous, resulting in many devourer and charr encounters. Along the way, Rurik laments about how sad it is to see Ascalon in ruins.
+
+In the first section, the party will come across three different charr encampments, each with prisoners that Rurik will want to free and send back towards the wall. For the third encampment, the party will meet Errol, and the following conversation will take place.
+
+|       | Dialogue                                                     |
+| ----- | ------------------------------------------------------------ |
+| Rurik | *"Gods! How long have you been out here, man?"*              |
+| Erol  | *"I don't know. Since my unit was taken at the end of the last Guild War. Since the sky rained fire and destroyed Ascalon."* |
+| Rurik | *"You've been here since the Searing? That's over two years! Are there others?"* |
+| Erol  | *"Yes. The remnants of my unit, the Flaming Scepter Mages."* |
+| Rurik | *"Soldiers who have been slaves since the end of the war?"*  |
+| Erol  | *"They're being held in the ruins of the old capital, Drascir."* |
+| Rurik | *"Then we go to Drascir."*                                   |
+| Erol  | *"My Lord, night is falling. If we don't head for the Wall now, we may all be captured."* |
+| Rurik | *"I understand the dangers, but Balthazar be damned if I allow those soldiers to remain slaves to the Charr."* |
+| Erol  | *"I can show you where they are being held."*                |
+| Rurik | *"Very good. We head north then. To Drascir."*               |
+
+The party will then head north and eventually come to a raised drawbridge for some old ruins, separated by a river of tar. Rurik will task the party with finding a way to lower the bridge while he and Erol wait. The lever can be found on the opposite side of the river, near the drawbridge itself. Once the drawbridge is lowered, Rurik and Erol will cross. A group of Charr can be seen down below in the following valley.
+
+*Side Quest: Follow the Flame Keeper*
+
+|      | Prince Rurik                                                 |
+| ---- | ------------------------------------------------------------ |
+| Main | *"This is a fight we cannot win. We must avoid a confrontation with that group at all costs. Come with me. I grew up in this city, and I know a way around them. Our only chance is to run for the obelisks in the ruins of the Royal Academy."* |
+
+Rurik will then proceed to lead the party down into the valley to a small group of charr (not the large one previously spotted) who are guarding three mages. Upon liberating the mages, everyone runs towards the obelisks in the old Royal Academy courtyard and Rurik works on opening the door through chants. In this final stand against the charr, the mages will assist in fighting off waves of enemies - how many and how hard is up to the GM or random rolls of dice. `INSERT RULE?`
+
+Eventually, Rurik finally gets the doors open, revealing a portal inside `INSERT PICTURE`. Rurik will yell for everyone to get inside as a swarms of charr pour into the courtyard. The party slams the door shut just in time, only to hear the efforts of the charr trying to get in from the other side.
+
+|       | Dialogue                                                     |
+| ----- | ------------------------------------------------------------ |
+| Rurik | *"That was closer than I'd hoped."*<br /><br />Gestures to the portal.<br /><br />*"This portal will take us to the Academy at Nolani. From there we can make it to the Wall and cross over to Rin. We should hurry though - the magical wards will hold back the Charr, but not for long."* |
+| Erol  | *"Wait, my lord. Come, look at what I have found."*<br /><br />Gesturing towards an old horn relic. Rurik hurries over to look. |
+| Rurik | *"Is that...?"*                                              |
+| Erol  | *"Yes, my prince. I believe it is the mouthpiece for the fabled horn, Stormcaller! With this weapon we could destroy the Charr once and for all. Ascalon could be saved."* |
+| Rurik | *I have heard the stories of the horn's magic, but let us not be too hasty. If this is what you say it is, then we must get it to Rin. We'll see for ourselves how much power this Stormcaller has.*<br /><br />*"Come. We'll take this to my father, King Adelbern. Surely he will know if discovering this weapon is our salvation... or simply too late. Either way, staying here will surely be the death of us. Quickly, through the portal!"* |
+
+** See page X for information about Stormcaller (Modeled after the Mountaincall Warhorn via GW2 wiki)*
+
+------------
 
 #### 1.5 - Nolani Academy
 

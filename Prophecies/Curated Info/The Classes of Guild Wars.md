@@ -263,6 +263,169 @@ https://wiki.guildwars.com/wiki/Guide_to_playing_as_a_dervish
 | Scythe Mastery | Scythe Mastery increases the damage you do with [scythes](https://wiki.guildwars.com/wiki/Scythe) and your chance to inflict a critical hit when using a scythe. Many skills, especially scythe attack skills, become more effective with higher Scythe Mastery. When attacking with a scythe, you strike up to three adjacent foes in front of you. |
 | Wind Prayers   | This attribute increases the duration and effectiveness of the Dervish's Wind Prayer skills, including prayers that speed movement and lash enemies with cold damage. |
 
+------
+
+**As contributed by Narcemus so far:**
+
+This is a woefully incomplete look at my original thoughts on Dervish. There were many changes I was planning to make and many ideas not fully thought out. The middle portion which is a bit confusing is a poorly imported chart of what is to be gained at each level. To be discussed when we start Nightfall content.
+
+Dervish
+
+Restriction: Humans Only
+Humanity is generally the only race which reveres and worships the gods. Because of this it is nearly impossible to see any non-human dervishes in the world of Tyria. Your DM may choose to lift this restriction if he so desires to better fit his campaign setting. This restriction exists to fit the lore behind both the dervish and the lore of humanity.
+
+Serving the gods as holy warriors, dervishes stand confidently in the whirlwind of conflict. Martial techniques perfected in the deserts of elona allow a Dervish’s scythe to lash out quickly at multiple opponents, surrounding the holy warrior with a swath of destruction. Initiates often learn spells of self-protection, prayers that rush a combatant into battle, and invocations that empower attacks with elemental fury. Masters of the profession can assume the form of a god, enacting divine will with holy blessings. Keenly aware of the conditions of a fight, a dervish can reap great benefits by using multiple Enchantments. Wandering the savannahs and deserts of Elona, the faithful Dervish chants prayers to the earth or wind… and the fury of the sandstorm answers in response.
+
+Class Features
+Hit Points:
+Hit Dice: 1D12 Per Dervish Level
+Hit Points at 1st Level: 12+ your Constitution Modifier
+Hit Points at Higher Levels: 1D12 (or 6) + your Constitution Modifier per Dervish Level after 1st
+
+```
+Proficiencies:
+```
+
+Armor: Light Armor, Medium Armor
+Weapons: Simple weapons, Scythe
+Tools: None
+Saving Throws: Strength, Wisdom
+Skills: Choose three from Arcana, Athletics, Insight, Medicine, Nature, Perception, Religion, and Survival
+
+```
+Equipment:
+You start with the following, in addition to the equipment granted by your background:
+```
+
+A Scythe OR Any two handed weapon
+A priests’s pack OR An explorer’s pack
+Scale Mail and a holy symbol
+
+| The Dervish | Spell Slots per Spell Level |
+| ----------- | --------------------------- |
+| Level       | Proficiency Bonus           |
+| 1st         | +2                          |
+| 2nd         | +2                          |
+| 3rd         | +2                          |
+| 4th         | +2                          |
+| 5th         | +3                          |
+| 6th         | +3                          |
+| 7th         | +3                          |
+| 8th         | +3                          |
+| 9th         | +4                          |
+| 10th        | +4                          |
+| 11th        | +4                          |
+| 12th        | +4                          |
+| 13th        | +5                          |
+| 14th        | +5                          |
+| 15th        | +5                          |
+| 16th        | +5                          |
+| 17th        | +6                          |
+| 18th        | +6                          |
+| 19th        | +6                          |
+| 20th        | +6                          |
+
+Shielding Enchantment:
+Starting at 1st level, you can pray to the gods to protect you from harm. As a bonus action, you create an aura of enchantment that swirls around you. Until the end of your next turn, you gain resistance to all damage, and if a hostile creature ends its turn within 10 feet of you, it takes holy damage equal to your dervish level + your Wisdom modifier.
+
+Once you use this feature, you can’t use it again until you finish a short or long rest.
+
+Survival Expertise:
+At 1st level, if you are proficient in Survival and Nature, your proficiency bonus is doubled for any ability check you make that uses either of these proficiencies. If you are not already proficient in these skills then you gain proficiency, but you do not gain the double bonus.
+
+Spellcasting
+By 2nd level, you have learned to draw on divine magic through prayer and meditation to cast spells.
+Preparing and Casting Spells
+The Dervish table shows how many spell slots you have to cast your spells. To cast one of your dervish spells of 1st level or higher, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
+You prepare the list of dervish spells that are available for you to cast, choosing from the dervish spell list. When you do so, choose a number of dervish spells equal to your Wisdom modifier + half your dervish level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.
+For example, if you are a 5th level dervish, you have four 1st level and two 2nd level spell slots. With a Wisdom of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st level spell cure wounds, you can cast it using a 1st or 2nd level slot. Casting the spell doesn’t remove it from your list of prepared spells.
+You can change your list of prepared spells when you finish a long rest. Preparing a new list of dervish spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
+
+Spellcasting Ability
+Wisdom is your spellcasting ability for your paladin spells, since their power derives from your understanding of the natural world. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a dervish spell you cast and when making an attack roll with one.
+
+Spell save DC = 8 + your proficiency bonus + your Wisdom modifier
+Spell attack modifier = your proficiency bonus + your Wisdom modifier
+
+Spellcasting Focus
+You can use a holy symbol as a spellcasting focus for your dervish spells.
+
+Prayer Path
+When you reach level 2 the prayers which power your spells start to take shape around one of two paths. Choose one of the following paths.
+Wind Prayers
+Earth Prayers
+Your choice grants you features at 3rd level, and again at level 7, 15, and 20. These features include spells specific to your path and the ability to Channel Divinity.
+
+Path Spells
+Each path has a list of associated spells. You gain access to these spells at the levels specified in the path description. Once you gain access to a path spell, you always have it prepared. Path spells don’t count against the number of spells you can prepare each day.
+
+If you gain a path spell that does not appear on the dervish spell list, the spell is nonetheless a dervish spell for you.
+
+Channel Divinity
+At 2nd level, you gain the ability to channel divine energy from your prayers, using these prayers to fuel magical effects. You start with one effect determined by your Prayer Path, then again, at 3rd level, you gain a second effect, Champion Challenge.
+
+When you use your Channel Divinity, you choose which effect to create. You must then finish a short or long rest to use your Channel Divinity again.
+
+Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your dervish spell save DC
+
+Champion Challenge
+As a bonus action, you issue a challenge that compels other creatures to do battle with you. Each creature of your choice that you can see within 30’ of you must make a wisdom saving throw. On a failed save, a creature can’t willingly move more than 30’ away from you. This effect ends on the creature if you are incapacitated or die or if the creature is more than 30 feet away from you.
+
+Whirling Dervish
+The swing of your scythe allows you to hit multiple enemies with the same attack. Starting at 3rd level, when you make a weapon attack, you can make another attack roll against a different creature that is within 5 feet of you. If you choose, you may split the extra damage from your Path (Cutting Wind or Sheariny Earth) evenly between targets hit by this attack, or focus it all on the main target.
+
+As you level up this ability increases,
+
+Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+
+Extra Attack
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the attack action on your turn.
+
+Aura of Protection
+Starting at 6th level, whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature gains a bonus to the saving throw equal to your Wisdom modifier (Minimum 1). You must be conscious to grant this bonus.
+
+At 18th level, the range of this aura increases to 30 feet
+
+Aura of Courage
+Starting at 10th level, you and friendly creatures within 10 feet of you can’t be frightened while you are conscious.
+
+At 18th level, the range of this aura increases to 30 feet.
+
+Wind Prayers
+
+Followers of the path who pray to the winds find themselves much more fleet of foot than they were before. Those who know the winds know that a gentle breeze brings healing, but having felt the cold wind of the desert at night, they also know how to infuse their attacks with it’s cutting edge.
+
+Cutting Wind
+Starting at 2nd level when you hit a creature with a melee weapon attack, you can expend one spell slot to deal cold damage to the target, in addition to the weapon’s damage. The extra damage is 2d8 for a 1st level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 5d8.
+
+Wind’s Haste
+Beginning at 2nd level, you can use the Dash action as a bonus action on your turn.
+
+Channel Divinity
+When you take this path at 2nd level, you can the following Channel Divinity option.
+
+Turn the Tide.
+As a bonus action, you can bolster injured creatures with your Channel Divinity. Each creature of your choice that can hear you within 30’ of you regains hit points equal to 1d6 + your Wisdom modifier (minimum of 1) if it has no more than half of its hit points.
+
+Earth Prayers
+
+Followers of the path who pray to the earth find themselves much more anchored and secure. They use the solidarity of the earth to strengthen their resolve, and their physical fortitude. The earth, while providing protection and shelter, can also cut deep, and those who follow this path have learned to use the earth to strengthen their attacks.
+
+Shearing Earth
+Starting at 2nd level when you hit a creature with a melee weapon attack, you can expend one spell slot to deal earth damage to the target, in addition to the weapon’s damage. The extra damage is 2d8 for a 1st level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 5d8.
+
+Stone’s Durability
+At 2nd level, your connection to the earth gives you extra fortitude. Your hit point maximum increases by 2 and it increases by 1 whenever you gain a level in this class.
+
+As an action, you can gain a base AC of 13 + your Constitution modifier if you aren’t wearing armor, and your skin assumes a stony appearance. This effect lasts until you end it as a bonus action, you are incapacitated, or you don armor other than a shield.
+
+Channel Divinity
+When you take this path at 2nd level, you can the following Channel Divinity option.
+
+Nature’s Wrath.
+You can use your Channel Divinity to invoke the earth to ensnare a foe. As an action, you can effect a creature within 10’ of you that you can see. The earth beneath their feet opens up and attempts to swallow and restrain them. The creature must succeed on a Strength or Dexterity saving throw (its choice) or be restrained. While restrained by the earth, the creature repeats the saving throw at the end of its turns. On a success, it frees itself and the ground returns back to its normal state.
+
 ------------
 
 ### <u>Paragon</u>
