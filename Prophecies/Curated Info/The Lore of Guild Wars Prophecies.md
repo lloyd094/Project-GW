@@ -1,5 +1,13 @@
 # The Lore of Guild Wars: Prophecies
 
+## Groups and Orders
+
+### Ascalonian
+
+- **Flaming Scepter Mages:** an Ascalonian order of elementalists who specialize in Fire Magic. Some were likely students of Nolani Academy before the Searing.
+
+------------
+
 ## The Human Gods
 
 The Human Gods of Tyria are the most commonly worshiped gods within Tyria. These beings are worshipped by humans and other races for their creation of the world and their provisions of knowledge, magic, and other favors. These beings hold multiple titles, including the Old Gods, The Five, Ancient Ones, Tyrian Gods, and True Gods. According to history, these gods left the world of Tyria during the Exodus of the Gods in year 0.

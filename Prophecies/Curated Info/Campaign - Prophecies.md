@@ -4,7 +4,7 @@ The way I intend to portray this story is to make it playable as either the main
 
 This base guideline will be split into different sections. While the story arc has some specifics that are non negotiable, it does not mean the party has to carry them out. The story arcs assume that the party is following the main story.  Additionally, the arcs assume that the players choose to take on the quests (with exceptions). The optional arcs can be used in place of the story arc for the group, or in addition to, within reason.
 
-You will find lots of dialogue contained within - most of this is here to show what was in the base game, and to give the GM some ideas as to how the dialogue may go. It does not need to be strictly followed at all, but may be used verbatim if desired. Simply put, it is included to give an idea of what the NPC has on their mind and is likely to talk about.
+You will find lots of dialogue contained within - most of this is here to show what was in the base game, and to give the GM some ideas as to how the dialogue may go. It does not need to be strictly followed, but may be used verbatim if desired. Simply put, it is included to give an idea of what the NPC has on their mind and is likely to talk about.
 
 Throughout, you will find certain extra marks. Here are explanations for the following:
 
@@ -61,9 +61,43 @@ Between Act 0 and Act 1 (in game), there is a two year gap. The GM and players m
 
 ### Story Arc
 
-Following The Searing, the kingdom of Ascalon is in despair. Approximately two years later, Ascalon is still holding their ground against the charr as much as possible, but the fight is going nowhere. Additionally, most of the settlements in Ascalon are now ruins. 
+*Once, Ascalon was a beautiful, fertile land of rolling green countryside and magnificent cities. Her people were viewed as grim by their neighbors. This was perhaps, to be expected, given their never-ending war against the aggressive Charr. Indeed, it was their unfailing vigilance, their Great Northern Wall, and the blood they shed each year to defend it that had protected not only Ascalon, but also Kryta and Orr through the ages.*
 
-#### 1.1 - The Krytan Ambassador*
+*Then came the invasion, and with it, the Searing.*
+
+*Anyone alive today will remember the day the lands of Ascalon were blasted and torn with magic fire. Whole cities and guilds were destroyed in the Searing, and the might of Ascalon was shattered. Now the Great Northern Wall lies broken, and the Charr have overrun much of the kingdom, defiling it with their unholy shrines, killing those who stand in their way.*
+
+*The survival of Ascalon hinges on but a single remaining corner of the fallen kingdom—the capital city of Rin. In the final years of the last Guild War, the people of Rin looked to a soldier named Adelbern, a simple man of humble origins, who rallied the people with his courage and cunning and steeled them not only against the guilds of Orr and Kryta but also against the terrors of the Charr.*
+
+*The sudden destruction of most of the kingdom during the Searing has taken much of the fight out of the man now known as King Adelbern. He has become stubborn and set in his ways, afraid of losing what little he has left. But in his son Rurik, the people see a leader with the courage to perhaps help them reclaim their fallen kingdom.*
+
+*The survivors of Ascalon live in a state of constant warfare, using hit-and-run tactics and the remnants of the Great Wall to prevent any significant advances by the Charr into their territory. King Adelbern has circled the wagons, so to speak, content to simply defend what Ascalon has left and live to fight another day. Prince Rurik, on the other hand, is far more daring than his father thinks is wise, and has even suggested that the time may be coming to launch an offensive against the Charr.*
+
+*Already the rumbling of the winds of change can be heard in the streets. People are frightened. They wonder what will become of them. Some even wonder aloud if Adelbern has lost what it takes to steer Ascalon back from the brink. They wish to see the prince step up and take command of the kingdom. Perhaps under his guidance, the people of Ascalon will live on to see another golden age.*
+
+------
+
+**Intro:** Following The Searing, the kingdom of Ascalon is in despair. Approximately two years later, Ascalon is still holding their ground against the charr as much as possible, but the fight is going nowhere. Additionally, most of the settlements in Ascalon are now ruins. 
+
+This Arc takes place entirely within Ascalon.
+
+------
+
+#### 1.1 - The Krytan Ambassador
+
+**Synopsis:** The party has recently returned from a patrol, and has now been tasked with running errands and messages. The party will learn of some of the attitudes between Ascalon and Kryta, and may even meet with a Krytan Ambassador. *This mission is primarily a scene setting mission, building up background for the later parts of the story. This mission is optional, and may be skipped without any consequence.*
+
+| ![](C:\Users\lloyd\dev\Project-GW\Prophecies\Assets\Symbols\Zone.png) | Ascalon                                                      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Disc                                                         | *Blasted and battered, the current landscape of Ascalon holds only the ghost of its former glory. Skeletons of grand cathedrals and remnants of whole cities lie broken on the shifted, displaced ground. The protective Great Northern Wall is perhaps the most intact structure in the entire kingdom, but the destruction that surrounds it lies in testament to its ultimate failure.<br /><br />Before the Charr invasion and the Searing, Ascalon was a fertile land, full of wheat fields and blossoming flowers. Now though, little grows here in this wasteland. The once loamy earth is now dry and arid. The riverbeds have dried up, and the mudflats have turned into a patchwork of cracked plates and jagged scars in the ground.* |
+| NPCs                                                         | ![](C:\Users\lloyd\dev\Project-GW\Prophecies\Assets\Symbols\Monk.png)Ambassador Zain |
+| Quests                                                       | **Ambassador Zain:** `A Mission of Peace` | `Helping the People of Ascalon` | `The Ambassador's Quandary` |
+
+| ![](C:\Users\lloyd\dev\Project-GW\Prophecies\Assets\Symbols\Town.png) | Ascalon City                                                 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Disc                                                         | *The largest city and cultural center of the now-ruined empire. Ascalon City is one of the only two remaining in the entire kingdom. Though the buildings have fallen and the cathedrals are a shambles, the people here live on in the shadow of what once was.* |
+| NPCs                                                         | ![](C:\Users\lloyd\dev\Project-GW\Prophecies\Assets\Symbols\Warrior.png)Captain Arne, ![](C:\Users\lloyd\dev\Project-GW\Prophecies\Assets\Symbols\Ranger.png)Warmaster Tydus, Ellie Rigby, Symon the Scribe |
+| Quests                                                       | **Captain Arne:** `Barradin's Advance` | `Fires in the East` | `Vanguard Equipment`<br />**Symon the Scribe:** `Cities of Ascalon` | `Counting the Fallen`<br />**Warmaster Tydus:** `**Defending the Wall**` | `The King's Message` | `Recruitss for Hollis` | `Scavengers in Old Ascalon` | `The Troublesome Artifact` |
 
 The party has spent the last two years continuing to serve the army of Ascalon. Upon completion of a recent patrol ending outside the now ruined Ascalon City, they are approached by Captain Osric.
 
@@ -72,9 +106,7 @@ The party has spent the last two years continuing to serve the army of Ascalon. 
 | Main | *"Welcome back! Looks like the patrol went well. You're still in one piece at any rate... Listen, Prince Rurik sent me to ask you a favor."*<br /><br />*You've been in the field, so you probably haven't heard about this, but an ambassador's arrived from our old enemy Kryta. They can help us fight the Charr, but the king won't even talk to him. The prince hasn't been able to make any headway with his father, but he knows the King trusts Tydus, and Tydus trusts you. Would you perhaps talk to Warmaster Tydus about this matter? He's in his usual place in Ascalon City."* |
 | Ask  | *"I understand why the king bears a grudge against Kryta. He believes we might have been able to stop the Searing if we'd not spent so many years defending ourselves from Krytan guilds, but by all accounts, times have changed in Kryta. We should at least hear what the ambassador has to say. Please, next time you're in Ascalon City, talk to Warmaster Tydus about this. He trusts you. If you can convince him, he may be able to persuade the king to listen to reason."* |
 
-Upon accepting the quest, Captain Osric thanks them and walks away to take care of other important matters. It would be best to speak with Tydus sooner than later.
-
-By searching Ascalon city, the players eventually find Warmaster Tydus.
+After accepting the quest, Captain Osric thanks them and walks away to take care of other important matters. It would be best to speak with Tydus sooner than later, who may be found in Ascalon City.
 
 |       | Warmaster Tydus                                              |
 | ----- | ------------------------------------------------------------ |
@@ -101,7 +133,6 @@ As the party ventures outside Ascalon City, they will head towards an encampment
 | Main | *"A message with the royal seal? Let's see. Honored Ambassador et cetera...et cetera..."Your request for permission to enter the city and address the people of Ascalon is emphatically denied. This being the fourth such denial, His Majesty bids you reconsider this ill-conceived journey and contemplate a return to Kryta.""<br/><br />"King Adelbern and I have learned very different lessons from the wars of past. Isolation is not the answer. Only in peace and mutual friendship shall we find our salvation. I still have hope that in time, he will realize the truth of this."* |
 | Extr | <u>Kryta Status:</u> *"There is peace in Kryta. What more need you hear? The wisdom of men may fail. Place your faith in the Unseen Ones. Life is good for those sheltered by the White Mantle.*<br /><u>Thoughts Toward Ascalon:</u> *"The war between Kryta and Ascalon is over, and both kingdoms have been transformed. Old grudges have no place in this new world. It is time for there to be friendship between us once more."*<br /><u>White Mantle:</u> *The White Mantle serve the Unseen Ones who saved Kryta from the Charr invasion. We have brought peace and stability to the lands of the west. Our fields are no longer ruined by battle, and the ships that ply our ports bring trade, not warfare.*<br /><u>Why Are You Here:</u> *"Confessor Dorian, head of the White Mantle, has foreseen dire times for Ascalon. Troubled by these visions, he sent me, to offer King Adelbern our help in these dark days."* |
 | Non  | If the party did not deliver the message to Ambassador Zain, he will simply respond with:<br />*"Please pardon me. It is not that I do not wish to speak with you, but I am on an important diplomatic mission here in Ascalon, and King Adelbern is very wary of foreigners. It might hinder my efforts to be seen talking to you. I hope you understand."* |
-| Side | If the party is looking for extra work or wish to help, Zain has a few side quests for the group: <br />**A Mission of Peace** \| **Helping the People of Ascalon** \| **The Ambassador's Quandary** |
 
 ----------
 
@@ -231,13 +262,52 @@ Eventually, Rurik finally gets the doors open, revealing a portal inside `INSERT
 | Erol  | *"Yes, my prince. I believe it is the mouthpiece for the fabled horn, Stormcaller! With this weapon we could destroy the Charr once and for all. Ascalon could be saved."* |
 | Rurik | *I have heard the stories of the horn's magic, but let us not be too hasty. If this is what you say it is, then we must get it to Rin. We'll see for ourselves how much power this Stormcaller has.*<br /><br />*"Come. We'll take this to my father, King Adelbern. Surely he will know if discovering this weapon is our salvation... or simply too late. Either way, staying here will surely be the death of us. Quickly, through the portal!"* |
 
+The portal send the party to the Nolani Academy courtyard in Southwestern Ascalon.
+
 ** See page X for information about Stormcaller (Modeled after the Mountaincall Warhorn via GW2 wiki)*
 
 ------------
 
 #### 1.5 - Nolani Academy
 
-INSERT MISSION DETAILS HERE
+Within Nolani Academy, the party will find Flaming Scepter Mage Danan on guard. Talking with him will initiate the following conversation:
+
+|      | Flaming Scepter Mage Danan                                   |
+| ---- | ------------------------------------------------------------ |
+| Main | *"Have you heard the news? We're saved! The artifact horn Stormcaller has been found! Were we inside the walls of Rin, there would be great rejoicing."*<br /><br />[GR]<br /><br />*"The mouthpiece of the legendary horn of King Doric. Surely you've seen the pipes of the horn itself up on Horn Hill, outside of Rin! The horn is a powerful weapon. They say that the sounds of the billowing pipes will render helpless the enemies of Ascalon. The mouthpiece was lost during the last Guild War, but now that it has been found it could help us defend the Capital against the Charr. The horn was placed outside of Rin long before the Great Northern Wall was even built. It was the last line of defense against invaders. I'm afraid it has come to that again. If only we'd found Stormcaller before the Searing."*<br /><br />[GR] What are we waiting for? Let's be off to Rin.<br /><br />*"I couldn't agree with you more. But alas, though the gates of the academy are closed, a small army of Charr is mustered outside ready to sweep in and destroy us all. Prince Rurik and my brothers, the Flaming Scepter Mages, have managed to activate the old defenses of this place. They hold the Charr at bay with the charged magical obelisks near the gate. Still, things look bleak. Eventually there will be enough of those beasts to simply overrun us, then Stormcaller will once again be lost to us."*<br /><br />[GR] What must we do?<br /><br />*"Prince Rurik knows a secret passage out of this academy. If you can sneak out and ambush the Charr, perhaps we'll make it out of this alive and return to Rin as heroes."*<br /><br />[GR]<br /><br />*"May Balthazar light your path. Go with speed."* |
+
+Prior to leaving on the mission, the party may decide to accept help from a Flame Scepter Mage to accompany them. When ready, Prince Rurik will show the party a secret passage to get out of the Academy without using the front gate. While the front gate may still be opened, the risk is high and may result in unexpected consequences to the players. Once outside the academy, the party will be able to ambush a Charr squadron from behind.
+
+Following the elimination of the immediate threat, Rurik will open the gate and accompany the party on their way to the wall between them and Rin. Along the way, the group may choose to do more than clear the immediate path, and in turn help Ascalonian Rangers in exchange for their aide. Eventually, the party will reach the wall and dialogue will ensue:
+
+|       | Dialogue                                                     |
+| ----- | ------------------------------------------------------------ |
+| Guard | *"Prince Rurik! What are you doing out here"*                |
+| Rurik | *"Open this door! You will let us through!"*                 |
+| Guard | *"But sir, the king swore death if the door was opened."*    |
+| Rurik | *"And I swear death if you don't stand aside this instant."* |
+| Guard | *"Yes, my prince."*                                          |
+| Rurik | *"I defend Ascalon against another Charr invasion and my father trifles with doors."* |
+| Guard | *"You'll speak to the king, won't you? You'll tell him I had no choice?"* |
+| Rurik | As Rurik walks through the gateway, the burning city of Rin is revealed in the distance.<br /><br />*"By Balthazar's beard! Rin burns! I told the king the Charr would not be held for long. We must go to Horn Hill! Only Stormcaller can save the city now."* |
+
+Immediately following the dialogue, Rurik will rush towards Rin to attempt defending the city from invaders. The prince must live, so the players need to defend him. As they head to Horn Hill, they may attempt to save other prisoners taken by the charr, who in turn will help the group. Once at Horn Hill, Rurik places the mouthpiece in place and blows.
+
+The sound of the horn shakes the entire surrounding area, and causes the downpour of rain to begin. This in turn puts out the fires, thus weakening the Charr. All that's left is clearing out the below courtyard, inhabited by the Charr chieftain Bonfaaz Burntfur and his small army. Once the fight is over, a final dialogue sequence will take place:
+
+|          | Dialogue                                                     |
+| -------- | ------------------------------------------------------------ |
+| Rurik    | The sound of trumpets begins nearby.<br /><br />*"Trumpets! The king must be near. The fall of Rin will have darkened his heart. Hail King Adelbern!"* |
+| Adelbern | Six royal guards proceed Adelbern, who eventually walks down the steps towards the remaining party, and everyone bows.<br /><br />*"Rise my son. You have done well. The discovery of Stormcaller is surely a sign of victory."* |
+| Rurik    | *"It is a powerful weapon, but I fear not enough. The Charr have amassed an army of many thousands."* |
+| Adelbern | *"You overestimate these beasts, Rurik. Do not be afraid."*  |
+| Rurik    | *"I am not afraid father. I have seen them in battle. Rin has been destroyed! It would be wise to escape while we can. We should make for Kryta and rebuild our strength. Not wait here for death."* |
+| Adelbern | *"I will never allow Ascalonians to live in the shadow of the Krytans! It is Rin that will be rebuilt. And you will learn your place."* |
+| Rurik    | *"You have grown proud, Adelbern of Ascalon... proud and foolish."* |
+| Adelbern | *"You would dare call your king a fool? I will hear no more. I banish you from Ascalon! You are no longer my prince, and you are no longer my son!"* |
+| Rurik    | *"People of Rin! Your king will lead you to death. If you wish to see better days, if you wish to live, then leave the beasts behind and follow me over the Shiverpeaks. We make for Kryta and a new life, free of the Charr."* |
+
+
 
 ----
 
