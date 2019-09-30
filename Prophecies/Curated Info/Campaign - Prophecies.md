@@ -91,13 +91,13 @@ This Arc takes place entirely within Ascalon.
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Disc                                                         | *Blasted and battered, the current landscape of Ascalon holds only the ghost of its former glory. Skeletons of grand cathedrals and remnants of whole cities lie broken on the shifted, displaced ground. The protective Great Northern Wall is perhaps the most intact structure in the entire kingdom, but the destruction that surrounds it lies in testament to its ultimate failure.<br /><br />Before the Charr invasion and the Searing, Ascalon was a fertile land, full of wheat fields and blossoming flowers. Now though, little grows here in this wasteland. The once loamy earth is now dry and arid. The riverbeds have dried up, and the mudflats have turned into a patchwork of cracked plates and jagged scars in the ground.* |
 | NPCs                                                         | ![](C:\Users\lloyd\dev\Project-GW\Prophecies\Assets\Symbols\Monk.png)Ambassador Zain |
-| Quests                                                       | **Ambassador Zain:** `A Mission of Peace` | `Helping the People of Ascalon` | `The Ambassador's Quandary` |
+| Quests                                                       | **Ambassador Zain:** `A Mission of Peace` \| `Helping the People of Ascalon` \| `The Ambassador's Quandary` |
 
 | ![](C:\Users\lloyd\dev\Project-GW\Prophecies\Assets\Symbols\Town.png) | Ascalon City                                                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Disc                                                         | *The largest city and cultural center of the now-ruined empire. Ascalon City is one of the only two remaining in the entire kingdom. Though the buildings have fallen and the cathedrals are a shambles, the people here live on in the shadow of what once was.* |
 | NPCs                                                         | ![](C:\Users\lloyd\dev\Project-GW\Prophecies\Assets\Symbols\Warrior.png)Captain Arne, ![](C:\Users\lloyd\dev\Project-GW\Prophecies\Assets\Symbols\Ranger.png)Warmaster Tydus, Ellie Rigby, Symon the Scribe |
-| Quests                                                       | **Captain Arne:** `Barradin's Advance` | `Fires in the East` | `Vanguard Equipment`<br />**Symon the Scribe:** `Cities of Ascalon` | `Counting the Fallen`<br />**Warmaster Tydus:** `**Defending the Wall**` | `The King's Message` | `Recruitss for Hollis` | `Scavengers in Old Ascalon` | `The Troublesome Artifact` |
+| Quests                                                       | **Captain Arne:** `Barradin's Advance` \| `Fires in the East` \| `Vanguard Equipment`<br />**Symon the Scribe:** `Cities of Ascalon` \| `Counting the Fallen`<br />**Warmaster Tydus:** `**Defend the Wall**` \| `The King's Message` \| `Recruitss for Hollis` \| `Scavengers in Old Ascalon` \| `The Troublesome Artifact` |
 
 The party has spent the last two years continuing to serve the army of Ascalon. Upon completion of a recent patrol ending outside the now ruined Ascalon City, they are approached by Captain Osric.
 
@@ -108,10 +108,10 @@ The party has spent the last two years continuing to serve the army of Ascalon. 
 
 After accepting the quest, Captain Osric thanks them and walks away to take care of other important matters. It would be best to speak with Tydus sooner than later, who may be found in Ascalon City.
 
-|       | Warmaster Tydus                                              |
-| ----- | ------------------------------------------------------------ |
-| Main  | *"Don't talk to me about that Krytan ambassador! I've been getting an earful from both sides. Do you know why King Adelbern trusts me? Because I know where my loyalties lie. King and country, Balthazar preserve them both! Perhaps joining the Prince's Vanguard has confused you, but Rurik is not the ruler of the kingdom. Now listen to me. The king's already given this matter much consideration, and the likes of you and I best abide by his wisdom."* |
-| Cont. | *"I have an important task for you. Please deliver this royal message to Ambassador Zain of Kryta. His camp can be found just outside the city. Go out the western gate to Old Ascalon and head west to find the encampment."<br/><br />"I don't trust these Krytans. I want you to take someone with you in case there's trouble. I'm sure Alesia will be willing to go with you, and she can heal you if need be."* |
+| ![](C:\Users\lloyd\dev\Project-GW\Prophecies\Assets\Symbols\Ranger.png) | Warmaster Tydus                                              |
+| :----------------------------------------------------------: | ------------------------------------------------------------ |
+|                             Main                             | *"Don't talk to me about that Krytan ambassador! I've been getting an earful from both sides. Do you know why King Adelbern trusts me? Because I know where my loyalties lie. King and country, Balthazar preserve them both! Perhaps joining the Prince's Vanguard has confused you, but Rurik is not the ruler of the kingdom. Now listen to me. The king's already given this matter much consideration, and the likes of you and I best abide by his wisdom."* |
+|                            Cont.                             | *"I have an important task for you. Please deliver this royal message to Ambassador Zain of Kryta. His camp can be found just outside the city. Go out the western gate to Old Ascalon and head west to find the encampment."<br/><br />"I don't trust these Krytans. I want you to take someone with you in case there's trouble. I'm sure Alesia will be willing to go with you, and she can heal you if need be."* |
 
 If the party asks to help, or the GM wants to add this as a quest, Tydus will assign the party the task of delivering the message. Tydus recommends the party meet with Alesia Baptiste*, a Tyrian monk who may act as a healer for the party. 
 
@@ -313,7 +313,115 @@ The sound of the horn shakes the entire surrounding area, and causes the downpou
 
 ### Side Quests
 
-a
+#### The Ambassador's Quandary
+
+**Preceded By:** `1.1 - The Krytan Ambassador`
+
+**Summary:** Zain is having a tough time keeping bandits out of his supplies, yet he cannot deal with the thief himself (being a Krytan in Ascalon). The goal is for the party to track down and kill the bandit ![](C:\Users\lloyd\dev\Project-GW\Prophecies\Assets\Symbols\Warrior.png)Torin and his friends. Along the way, the party may come across Charr or Devourers.
+
+| ![](C:\Users\lloyd\dev\Project-GW\Prophecies\Assets\Symbols\Monk.png) | Ambassador Zain                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Main                                                         | *"Alas, despite the current peace between Kryta and Ascalon, your King Adelbern still chooses to view all Krytans with distrust. He respects the old laws too much to do anything untoward, but I must take care not to give him any excuse to expel me from the kingdom. Therein lies my trouble.*<br/><br />*Unable to enter the city, my men have been forced to travel south to Regent Valley to re-supply and have been victimized repeatedly by a bandit named Torin. We would hunt down Torin ourselves, but shedding the blood of an Ascalon, even a criminal like Torin, might be a mistake. Will you attend to this bandit threat for me?"* |
+| Ask                                                          | *"I am relying on you to deal with this Torin for me. Each day his exploits go without consequence, others are emboldened to victimize us."* |
+| Post                                                         | *"You have my sincerest thanks for ridding us of that troublesome Torin. It gives me hope to see that not all the people of Ascalon are blinded by the troubles of old. May the Unseen Ones watch over you."* |
+
+----------
+
+#### A Mission of Peace
+
+**Preceded By:** `The Krytan Ambassador`
+
+**Summary:** Deliver Ambassador Zain's strongbox to Gate Guard Hollis.
+
+| ![](C:\Users\lloyd\dev\Project-GW\Prophecies\Assets\Symbols\Monk.png) | Ambassador Zain                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Main                                                         | *"You've been a friend to me, and I'm grateful. Now I have another favor to ask. My men and I are in constant danger as long as we remain here. I have physical evidence of the threat, something that might convince the Vanguard to help. If you'll take it to Gate Guard Hollis, perhaps the Vanguard will agree to provide protection for us. You'll find him guarding the eastern gate in Old Ascalon."* |
+| Post                                                         | *"Ah, so you saw the "evidence" Guard Hollis required. Yes, well, we do what we must in this life. Thank you for delivering it."* |
+
+|       | Gate Guard Hollis                                            |
+| ----- | ------------------------------------------------------------ |
+| Inter | *"Ahh, nothing like the jingle of gold, eh? This will do nicely. Nicely, indeed. Ambassador Zain will have his protection. Yes he will."* |
+
+----------
+
+#### Barradin's Advance
+
+**Preceded By:** `1.3 - Fort Ranik`
+**Followed By:** `Fires in the East`
+
+**Summary:** Locate Duke Barradin and find out what happened to his attempt to push into enemy lines. On their way, the party will first meet the gate guard (who has not seen the Duke or the troops), who refers to Hollis, who points the party to Piken Square.
+
+|      | Captain Arne                                                 |
+| ---- | ------------------------------------------------------------ |
+| Main | *"I have a task for you, in the name of Prince Rurik. While the King's Army fights a defensive war against the Charr, a few of us, the Vanguard of Ascalon, have pledged to take the fight to our enemies."<br/><br />"Duke Barradin led a Vanguard force across the Wall yesterday, but we've lost contact with them. Go to the Hammer Gate in Old Ascalon and question Gate Guard Hollis. Learn what you can of the hereabouts and condition of Barradin's Force."* |
+
+|       | Gate Guard Sebastein                                         |
+| ----- | ------------------------------------------------------------ |
+| Inter | *"Sorry, I don't know anything about that, but this isn't the only gate Barradin and his troops might have used. If you follow the Wall farther west, there's another gate under the command of Gate Guard Hollis. You ought to try checking with him."* |
+
+|       | Gate Guard Hollis                                            |
+| ----- | ------------------------------------------------------------ |
+| Inter | *"Oh, I can tell you exactly where Duke Barradin went. Yes, he and a company of red-cloaked Vanguard troops passed north through this very gate. We rescued a deserter not long after that. Seems they fell under heavy attack, and the duke decided to push through, wanted to find refuge in the ruins of Piken Square."*<br /><br />*"Listen, my duties keep me here at the Wall, but if you want to try to break through the whole Balthazar-cursed Charr army to meet up with Barradin, gods protect you, I say. No doubt the duke will greet you with open arms."* |
+
+|      | Duke Barradin                                                |
+| ---- | ------------------------------------------------------------ |
+| Post | *"Captain Arne sent you, you say? Well then, welcome. I am Duke Barradin of Ascalon. It is good to see a friendly face in this dark hour. We Vanguard are few, but we are unwavering in our purpose. Clearly you are as tenacious as any of my men, or you would never have made it here. I salute you."* |
+
+-------
+
+#### Cities of Ascalon
+
+**Preceded by:** `1.2 - Defend the Wall`
+**Followed by:** `Symon's History of Ascalon`
+
+**Summary:** There are three historical monuments throughout Ascalon that Symon wants recorded - he's willing to hire the party to record them to help him. The monuments may be found in Surmia, Nolani, and King's Watch.
+
+|      | Symon the Scribe                                             |
+| ---- | ------------------------------------------------------------ |
+| Main | *"Greetings, friend! I wonder if you can help me? I am attempting to preserve Ascalon's great history before all is lost. If, on your travels, you could find and record the founder's inscriptions for the cities of Nolani, Surmia, and King's Watch, I would be so grateful. I know these great cities are in ruins now, but Lyssa willing, you'll find historical markers among the wreckage. I look forward to your return."* |
+| Post | *"Magnificient! These dates will help me to complete my history of Ascalon. Was it very dangerous? I would have gone myself, but a humble scholar such as myself wouldn't last a day out there."* |
+
+----------
+
+#### Counting the Fallen
+
+**Summary:** In order to properly construct a monument to the citizens of Ascalon who were killed during the Searing, Symon the Scribe needs a census. The party can find an old census that should have the information in the ruins of Old Ascalon, but they should beware of gargoyles.
+
+|      | Symon the Scribe                                             |
+| ---- | ------------------------------------------------------------ |
+| Main | *"King Adelbern has commissioned a monument to those who died in the Searing. I am compiling a list of the names of the fallen, but I don't have all the records I need. I believe a copy of the old census might have survived in the ruins of Old Ascalon. If you could get it for me, it would be a great help."* |
+| F    | *"You found the census! Oh, I'm most...grateful to you. I almost said I was delighted, but one look at this list...so many lost. If we took a census today, the list wouldn't be half this long."* |
+
+--------------
+
+#### Fires in the East
+
+**Preceded by: **Barradin's Advance
+
+**Summary:** There have been reports of a Flame Keeper altar near the wall - Captain Arne wants the party to take care of it.
+
+|      | Captain Arne                                                 |
+| ---- | ------------------------------------------------------------ |
+| Main | *"Our troops at the Frontier Gate report a concentration of Charr near the Wall. They have spottet columns of smoke that suggest the Flame Keepers have set up an altar there. The Flame Keepers' altars serve as a source of power for the Charr and must be destroyed if we wish to hold the Wall. Since the King's Army refuses to venture north of the Wall, I need a volunteer to lead a sortie northeast and destroy the Flame Keepers."* |
+| Post | *"Excellent work extinguishing the Charr's fires. Without their altars, they lose much of their power. The army won't venture north of the Wall, so it falls to the Vanguard, and volunteers such as yourself. Your assistance won't be forgotten."* |
+
+----
+
+#### Helping the People of Ascalon
+
+
+
+#### The King's Message
+
+#### Recruits for Hollis
+
+#### Scavengers in Old Ascalon
+
+#### Symon's History of Ascalon
+
+#### The Troublesome Artifact
+
+#### Vanguard equipment
 
 ---------
 
