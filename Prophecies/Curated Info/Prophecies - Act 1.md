@@ -1,61 +1,4 @@
-# Story: Prophecies
-
-The way I intend to portray this story is to make it playable as either the main characters (in the vein of actually playing the MMO), or to allow the GM to use the events to influence the world around the party. The party could simply help out with events, ignore everything and just experience the world, or actively work against the events and change history entirely! While I intend to offer as much information and advice as possible to the GM, not all the work will be pre-made for them for alternate routes. Nevertheless, they are greatly encouraged.
-
-This base guideline will be split into different sections. While the story arc has some specifics that are non negotiable, it does not mean the party has to carry them out. The story arcs assume that the party is following the main story.  Additionally, the arcs assume that the players choose to take on the quests (with exceptions). The optional arcs can be used in place of the story arc for the group, or in addition to, within reason.
-
-You will find lots of dialogue contained within - most of this is here to show what was in the base game, and to give the GM some ideas as to how the dialogue may go. It does not need to be strictly followed, but may be used verbatim if desired. Simply put, it is included to give an idea of what the NPC has on their mind and is likely to talk about.
-
-Throughout, you will find certain extra marks. Here are explanations for the following:
-
-| Symbol | Definition                                                   |
-| ------ | ------------------------------------------------------------ |
-| " * "  | Blank Slate NPC: This NPC might hold a name and a few minor descriptions, but the GM is free to develop/use this character as they please. These NPCs may be disposable or returning at GM discretion. |
-| [GR]   | **Group Response**: This may be optional depending on how the GM words things. Sometimes a response is absolutely necessary, other times it is completely avoidable. |
-
-- *Special Thanks to the videos by WoodenPotatoes*
-
-Storyline: https://wiki.guildwars.com/wiki/Storyline_of_Prophecies
-
-## Act 0: Pre-Searing Ascalon
-
-### Story Arc
-
-**Intro:** *The last day dawns on the Kingdom of Ascalon. It arrives with no fanfare, no tolling of alarms. Those who will remember, will speak fondly of the warm morning breeze. People carry on with their daily lives, unaware that in a short while... Everything they have ever known will come to an end.*
-
-Choose a Beginning:
-
-1. <u>New Recruits:</u> The war against the Charr is taxing to Ascalonians, but they intend to hold the wall no matter the cost. Sir Tydus is recruiting heroes to fight the forces of Charr, at King Adelbern's orders.
-2. <u>The Reserves:</u> The party, members of the Ascalonian Army reserves, has been assembled by Sir Tydus to fight against the Charr. The attack is tonight, and he expects the party to be ready in short time.
-
-**Outro:** *It was on that day that day that the Charr discovered a way around the Great Wall. A way to bring it down. This is where the true story begins.* <u>Create description of what happens.</u>
-
-------
-
-### Side Quests 
-
-- Train to better serve the army.
-  - Help with a nearby skale infestation.
-  - Aid Devona in Lakeside County by checking in at Ashford Abbey.
-    - Meerak claims he's received a message from Dwayna showing the charr to have some powerful force. Warn Armin Saberlin in Ascalon City of the danger.
-- Profession Trials
-  - For those who want to get a feel for things, or better roleplay, meet with their teachers (split group or full group). ie. A/some/all students are attempting to finish up some of their training under their mentor(s).
-- Combat training (in the Citadel)
-- Other side quests (up to group and GM)
-
-*Figure out what we want here. How much detail do we want to go into?*
-
-### Alternatives
-
-The party could be located anywhere in the game world - this just creates more work for the GM. Listed in **appendix _**, we have compiled some notes on things to keep in mind in regards to what has not happened yet, and the state of the world prior to Act 0 and during.
-
-----
-
-### Notes
-
-Between Act 0 and Act 1 (in game), there is a two year gap. The GM and players may determine what happens during this gap, but they may also choose to live out portions of this time. Events happening during Act 1 obviously don't happen until roughly two years later. However, some suggestions will be listed in **appendix _**.
-
-----
+# Prophecies - Act 1
 
 ## Act 1: A Kingdom in Despair
 
@@ -313,11 +256,25 @@ The sound of the horn shakes the entire surrounding area, and causes the downpou
 
 ### Side Quests
 
-#### A Cure for Ralena (![](..\Assets\Symbols\Mesmer.png))
+#### A Cure for Ralena (![](C:/Users/lloyd/dev/Project GW/Prophecies/Assets/Symbols/Mesmer.png))
 
-| Given By | Given At | Preceded By | Followed By |
-| :---: | :------: | :--: | :---------: |
-| Vassar | Sardelac Sanitarium | `Trying Times` |             |
+| Given By |      Given At       | Preceded By | Followed By |
+| :------: | :-----------------: | :---------: | :---------: |
+|  Vassar  | Sardelac Sanitarium |             |             |
+
+**Summary:** Vassar is looking for a cure for his beloved Ralena, but needs the help of someone to get a much needed ingredient so he can tend to her.
+
+| ![](..\Assets\Symbols\Mesmer.png) | Vassar                                                       |
+| --------------------------------- | ------------------------------------------------------------ |
+| Main                              | *"Trying times… yes, they certainly are. I used to think myself above the petty concerns of lesser men, until that terrible day, living daily among all this death and destruction…. I would have given up if not for Ralena. She has been my shining light amidst all of this… darkness. Now she lies at death's door, afflicted by some disease brought about by the Searing. There is still hope, however, as Master Ranger Nente informs me that a cure can be fashioned by using moss that grows on the rocks in a cave near what remains of Ashford.<br /><br />Will you find one of these mossy rocks and help me cure Ralena?"* |
+| Inter                             | *"A mossy rock! You found it! Thank Lyssa for your aid.<br /><br />Now that we have the primary ingredient for Ralena's cure, I need someone to take it to Master Ranger Nente. He can often be found wnadering near what used to be called Green Hills County."* |
+| Post                              | *"The cure is ready at last? You don't know what a great service you've done for both Ralena and for me. It's Ascalons like you, «name», that give me some hope for the future."* |
+
+| ![](..\Assets\Symbols\Ranger.png) | Master Ranger Nente                                          |
+| --------------------------------- | ------------------------------------------------------------ |
+| Inter                             | *"Vassar sent you? Very good, I've been expecting you. I've gathered the other ingredients necessary, a bit of this cave moss should do the trick. Take this potion back to Vassar, he'll know how to use it to save Ralena. May Melandru guide you on your return journey my friend."* |
+
+
 
 ----------
 
@@ -340,21 +297,28 @@ The sound of the horn shakes the entire surrounding area, and causes the downpou
 
 ----------
 
-#### Althea's Ashes
+#### Army Life (![](C:/Users/lloyd/dev/Project GW/Prophecies/Assets/Symbols/Warrior.png))
 
-|   Given By    |   Given At   |      Preceded By      | Followed By |
-| :-----------: | :----------: | :-------------------: | :---------: |
-| Duke Barradin | Piken Square | `The Duke's Daughter` |             |
+|    Given By    |   Given At   |      Preceded By      | Followed By |
+| :------------: | :----------: | :-------------------: | :---------: |
+| Armsman Pitney | Piken Square | `The Duke's Daughter` |             |
+
+**Summary:** Pitney is sad about the death of a good friend (Old Mac), and asks the party to retrieve his party so he can give a proper burial. What Pitney doesn't know, is that Old Mac and his pet Devourer, Joe, are both alive and kicking. And Mac would much appreciate an escort back to Piken Square.
+
+- While exactly where Old Mac and Joe are found doesn't matter much, it is recommended the party has a chance fighting against at least one Charr patrol to provide a bit of challenge.
+- While escorting Old Mac is the real mission here, returning a dead Mac (likely through failure of adequate protection) is an option. Either way, Pitney will thank the group - but the GM may want to reward he final words. 
+
+| ![](..\Assets\Symbols\Warrior.png) | Armsman Pitney                                               |
+| ---------------------------------- | ------------------------------------------------------------ |
+| Main                               | *"After the Searing, I couldn't just sit there and do nothing. Ashford was destroyed, and I'd be damned if I wasn't gonna fight for what was left of Ascalon. Turns out I even had some natural ability with weapons, so the prince and the duke welcomed me into their Vanguard, and I haven't looked back. Things can get a little lonely out here on the frontlines, though, and watching most of your friends die can really take it out of you. Old Mac was just about the only one from the old days left, and he and his creepy pet went missing during our last battle."*<br /><br />*"Would you do me a favor and head to the Breach? See if you can find his body?"* |
+| Post                               | *"He's alive? I knew he was tough, but to last out there by himself... Well, I suppose he had that creepy pet of his to help him survive. He's never going to let me hear the end of this, still it'll be good to have him back. I can't thank you enough - you're all a credit to Ascalon."* |
+
+|       | Old Mac                                                      |
+| ----- | ------------------------------------------------------------ |
+| Inter | *"Pitney sent you out here because he thought I was dead? Why that ugly son of a Grawl! He thinks he'll outlast me in this war does he? Me and Joe here will show him! Lead the way back to Piken and let's prove him wrong!"* |
+| Post  | [Upon reaching Piken Square.]<br /><br />*"Ah, Piken Square at last. You go tell Pitney that Old Mac and Joe made it back safe and sound."* |
 
 
-
----------
-
-#### Army Life (![](..\Assets\Symbols\Warrior.png))
-
-|    Given By    |   Given At   | Preceded By | Followed By |
-| :------------: | :----------: | :---------: | :---------: |
-| Armsman Pitney | Piken Square |             |             |
 
 -------------
 
@@ -390,6 +354,43 @@ The sound of the horn shakes the entire surrounding area, and causes the downpou
 | :------: | :--------------: | :---------: | :---------: |
 |   Cynn   | Eastern Frontier |             |             |
 
+**Summary:** A caravan is being attacked by Storm Riders, and the guard hired to protect has fled. Cynn and Mhenlo ask for the partie's help in getting back their stuff.
+
+The party can find Cynn and Mhenlo along a road in the Eastern Frontier leading to Pockmark Flats, wherein they will overhear the initial dialogue. After accepting the quest, the caravan can be found in the pockmark flats surrounded by a group of Storm riders.
+
+- Being too slow to help secure the wagon and Laris can result in Laris' death. Depending on the circumstances, this could make Cynn and Mhenlo very angry.
+
+|        | Dialogue                                                     |
+| ------ | ------------------------------------------------------------ |
+| Cynn   | *"You left?"*                                                |
+| Guard  | *"Y....yes."*                                                |
+| Cynn   | *"In the middle of a fight, you just ran off?"*              |
+| Guard  | *"There were storm riders everywhere! I could've been killed!"* |
+| Mhenlo | *"What happened to the others? The merchant and the other guards?"* |
+| Guard  | *"I don't know. I... didn't look back."*                     |
+| Mhenlo | *"Balthazar does not look kindly upon cowards."*             |
+| Cynn   | *"Neither do I."*                                            |
+| Mhenlo | *"That'll be enough Cynn. This man will have to explain himself and his actions when he reaches the Mists."* |
+
+| ![](..\Assets\Symbols\Monk.png) | Cynn                                                         |
+| ------------------------------- | ------------------------------------------------------------ |
+| Main                            | *"I'll make this short. A merchant named Laris Dankworth and his caravan have been attacked while traveling from Serenity Temple to Rin. This cowardly fellow here was hired as a guard, but once the fighting started, he turned tail and ran. Mhenlo and I are headed to Pockmark Flats to see if we can help any survivors. We could use your help. Will you come?"* |
+| Inter                           | [Upon finding the caravan.]<br />*"The caravan. Laris is still alive!"* |
+
+|        | Dialogue                                                     |
+| ------ | ------------------------------------------------------------ |
+| Mhenlo | *"The goddess mother has smiled upon us this day."*          |
+| Cynn   | *"That'll teach 'em. I didn't even break a sweat."*          |
+| Mhenlo | *"Your deeds today will be looked upon kindly by the gods."* |
+| Cynn   | *"We'll make sure Laris here gets back to Rin safely. Thanks for your help."* |
+| Mhenlo | *"May your path be watched over from the heavens."*          |
+
+|      | Laris Dankworth                                              |
+| ---- | ------------------------------------------------------------ |
+| Post | *"Your timing is impeccable. I thought I was a goner when my hired guards started to abandon me. I owe you many thanks."* |
+
+
+
 ------
 
 #### Casualty Report
@@ -398,13 +399,42 @@ The sound of the horn shakes the entire surrounding area, and causes the downpou
 | :---------------: | :----------: | :---------: | :---------: |
 | Undertaker Cortis | Piken Square |             |             |
 
+**Summary:** Undertaker Cortis has finished the casualty report for Warmaster Tydus, and would be grateful if the party could deliver it on his part.
+
+|      | Undertaker Cortis                                            |
+| ---- | ------------------------------------------------------------ |
+| Main | *"I have now compiled a list of casualities resulting from this military action. Please take this report to Warmaster Tydus in Ascalon City. This would normally be my task, but I fear my duties here are not yet complete.<br/><br />Will you help me?"* |
+| Post | *"So I am to be caught in the middle of some argument between Tydus and Barradin? Not a position to be in I'm sure you'll agree. However, it is not fault of yours and you have performed your duties admirably."* |
+
+|       | Warmaster Tydus                                              |
+| ----- | ------------------------------------------------------------ |
+| Inter | *"The casualty report from Piken Square? Let's have a look at this. Dwayna preserve me, we've lost many a good soldier. We cannot continue to pay this kind of cost for a meaningless gain like Piken Square. Barradin was a fool to forge ahead so recklessly. The Vanguard are our best and brightest, but what use are they if they are thrown into the grinder like this? Forgive my tone, but I fear that we are losing this war. Return to Cortis and tell him to send me regular reports. I must monitor this situation carefully."* |
+
+
+
 --------
 
-#### Charr Reinforcements (![](..\Assets\Symbols\Ranger.png))
+#### Charr Reinforcements (![](C:/Users/lloyd/dev/Project GW/Prophecies/Assets/Symbols/Ranger.png))
 
 |   Given By    |   Given At   | Preceded By | Followed By |
 | :-----------: | :----------: | :---------: | :---------: |
 | Ivor Trueshot | Piken Square |             |             |
+
+**Summary:** Ivor is looking for some help for patrolling and taking out some Charr. The party in this quest will tour around the Breach and face a few columns of Charr reinforcements, and taking down the Charr necromancer, Kaargoth Bloodclaw.
+
+|      | Ivor Trueshot                                                |
+| ---- | ------------------------------------------------------------ |
+| Main | *"I need someone who can handle themselves for a mission behind enemy lines. We need to hit multiple targets disrupting the Charr advance at Piken Square. If you're willing to accept a little risk, you can meet Aidan just outside of Piken Square and he'll give you the details. What say you?"* |
+| Post | *"Well done. That should slow down the Charr and buy us time to bring in reinforcements of our own. You're really making a name for yourself among the Vanguard."* |
+
+|       | Aidan                                                        |
+| ----- | ------------------------------------------------------------ |
+| Inter | *"So Ivor sent you to help me on our little mission, eh?! I was afraid he'd send some green recruit, but I can see my concern was unfounded. We are going to hit the Charr hard at several key points deep behind their lines and then win our way back to Piken. Sound easy enough? Our first target is a column of Charr reinforcements that my scouts have spotted coming in from the west. I'll lead the way while you keep an eye on our backs. Let's move out!"*<br /><br />*"Let's move out!"* |
+| Inter | [After killing the first Charr column]<br /><br />*"The Charr should miss those Warriors when the times comes to fight. Come here and let me tell you about the next target."*<br /><br />*"Now we need to travel to a nearby Charr supply depot and help ourselves to the weapons the Charr have so thoughtfully stored there. I'll lead the way again, and you follow."* |
+| Inter | [After killing the second Char column]<br /><br />*"Nice of them to leave these weapons here for us; the Vanguard will be well armed. Let's talk about our final objective."*<br /><br />*"Our last task is to eliminate a prominent Charr warband leader named Kaargoth Bloodclaw. He should only have a few guards with him, but we must strike quickly. The Charr are likely tracking us even now."* |
+| Inter | [After killing Kaargoth Bloodclaw]<br /><br />*"Slaying him will throw the Charr forces into disarray. Quickly, before they are upon us, let's return to Piken Square."* |
+
+
 
 ---------
 
@@ -438,7 +468,7 @@ The sound of the horn shakes the entire surrounding area, and causes the downpou
 
 --------------
 
-#### Death in the Ruins(![](..\Assets\Symbols\Necromancer.png))
+#### Death in the Ruins(![](C:/Users/lloyd/dev/Project GW/Prophecies/Assets/Symbols/Necromancer.png))
 
 |     Given By     |      Given At       | Preceded By |   Followed By   |
 | :--------------: | :-----------------: | :---------: | :-------------: |
@@ -454,7 +484,7 @@ The sound of the horn shakes the entire surrounding area, and causes the downpou
 
 ---------
 
-#### Elemental Knowledge (![](..\Assets\Symbols\Elementalist.png))
+#### Elemental Knowledge (![](C:/Users/lloyd/dev/Project GW/Prophecies/Assets/Symbols/Elementalist.png))
 
 |      Given By       |  Given At   | Preceded By |   Followed By   |
 | :-----------------: | :---------: | :---------: | :-------------: |
@@ -462,7 +492,7 @@ The sound of the horn shakes the entire surrounding area, and causes the downpou
 
 --------
 
-#### Endangered Species (![](..\Assets\Symbols\Ranger.png))
+#### Endangered Species (![](C:/Users/lloyd/dev/Project GW/Prophecies/Assets/Symbols/Ranger.png))
 
 |      Given By       |  Given At   | Preceded By | Followed By |
 | :-----------------: | :---------: | :---------: | :---------: |
@@ -470,7 +500,7 @@ The sound of the horn shakes the entire surrounding area, and causes the downpou
 
 ---------
 
-#### Experimental Elixir (![](..\Assets\Symbols\Mesmer.png))
+#### Experimental Elixir (![](C:/Users/lloyd/dev/Project GW/Prophecies/Assets/Symbols/Mesmer.png))
 
 | Given By |    Given At     |      Preceded By      | Followed By |
 | :------: | :-------------: | :-------------------: | :---------: |
@@ -478,7 +508,7 @@ The sound of the horn shakes the entire surrounding area, and causes the downpou
 
 --------
 
-#### Fallen Soldiers (![](..\Assets\Symbols\Necromancer.png))
+#### Fallen Soldiers (![](C:/Users/lloyd/dev/Project GW/Prophecies/Assets/Symbols/Necromancer.png))
 
 |     Given By      |   Given At   | Preceded By | Followed By |
 | :---------------: | :----------: | :---------: | :---------: |
@@ -533,7 +563,7 @@ The sound of the horn shakes the entire surrounding area, and causes the downpou
 
 ---------
 
-#### Gargoyle Trouble (![](..\Assets\Symbols\Warrior.png))
+#### Gargoyle Trouble (![](C:/Users/lloyd/dev/Project GW/Prophecies/Assets/Symbols/Warrior.png))
 
 |    Given By     |  Given At   | Preceded By |    Followed By    |
 | :-------------: | :---------: | :---------: | :---------------: |
@@ -551,9 +581,9 @@ The sound of the horn shakes the entire surrounding area, and causes the downpou
 
 #### Helping the People of Ascalon
 
-|    Given By     |  Given At   |     Preceded By      | Followed By |
-| :-------------: | :---------: | :------------------: | :---------: |
-| Ambassador Zain | Old Ascalon | `The King's Message` |             |
+|    Given By     |  Given At   |          Preceded By          | Followed By |
+| :-------------: | :---------: | :---------------------------: | :---------: |
+| Ambassador Zain | Old Ascalon | `1.1 - The Krytan Ambassador` |             |
 
 **Summary:** Ambassador Zain wants to help, hoping that his tidings of charity will open up friendly relations between Kryta and Rin. To help, he's provided some necessary supplies for the children that were orphaned during the Searing. All he asks of the party is that they deliver the supplies to Ellie Rigby in Ascalon City. Unfortunately, when King Adelbern hears about this he will be furious because he doesn't trust any Krytans.
 
@@ -582,37 +612,81 @@ Upon exiting Ascalon City, the party may witness some dialogue between King Adel
 
 -------------
 
-#### In Memory of Paulus
+#### In Memory of Paulus (![](C:/Users/lloyd/dev/Project GW/Prophecies/Assets/Symbols/Monk.png))
+
+|       Given By        |  Given At   |     Preceded By      | Followed By |
+| :-------------------: | :---------: | :------------------: | :---------: |
+| Grazden the Protector | Old Ascalon | `Protecting Ascalon` |             |
+
+
 
 -----------
 
-#### Into the Breach
+#### Into the Breach (![](C:/Users/lloyd/dev/Project GW/Prophecies/Assets/Symbols/Warrior.png))
+
+|    Given By     |  Given At   |              Preceded By              | Followed By |
+| :-------------: | :---------: | :-----------------------------------: | :---------: |
+| Warmaster Grast | Old Ascalon | `Gargoyle Trouble` `Military Matters` |             |
+
+
 
 ----------
 
-#### Mesmerizing the Enemy
+#### Mesmerizing the Enemy (![](C:/Users/lloyd/dev/Project GW/Prophecies/Assets/Symbols/Mesmer.png))
+
+| Given By |      Given At       | Preceded By | Followed By |
+| :------: | :-----------------: | :---------: | :---------: |
+|  Vassar  | Sardelac Sanitarium |             |             |
+
+
 
 ------------
 
-#### Military Matters
+#### Military Matters (![](C:/Users/lloyd/dev/Project GW/Prophecies/Assets/Symbols/Warrior.png))
+
+|    Given By     |  Given At   | Preceded By |    Followed By    |
+| :-------------: | :---------: | :---------: | :---------------: |
+| Warmaster Grast | Old Ascalon |             | `Into the Breach` |
+
+
 
 ---------
 
-#### Oberan's Rage
+#### Oberan's Rage (![](C:/Users/lloyd/dev/Project GW/Prophecies/Assets/Symbols/Necromancer.png))
+
+|     Given By     |      Given At       |     Preceded By      | Followed By |
+| :--------------: | :-----------------: | :------------------: | :---------: |
+| Kasha Blackblood | Sardelac Sanitarium | `Death in the Ruins` |             |
+
+
 
 ----------
 
-#### Protecting Ascalon
+#### Protecting Ascalon (![](C:/Users/lloyd/dev/Project GW/Prophecies/Assets/Symbols/Monk.png))
+
+|       Given By        |  Given At   | Preceded By |      Followed By      |
+| :-------------------: | :---------: | :---------: | :-------------------: |
+| Grazden the Protector | Old Ascalon |             | `In Memory of Paulus` |
+
+
 
 -----------
 
 #### Rastin's Ritual
 
+|    Given By    |  Given At   | Preceded By | Followed By |
+| :------------: | :---------: | :---------: | :---------: |
+| Witness Rastin | Old Ascalon |             |             |
+
+
+
 -------------
 
 #### Recruits for Hollis
 
-**Preceded By:** `1.2 - Defend the Wall`
+|    Given By     |   Given At   |       Preceded By       | Followed By |
+| :-------------: | :----------: | :---------------------: | :---------: |
+| Warmaster Tydus | Ascalon City | `1.2 - Defend the Wall` |             |
 
 **Summary:** Warmaster Tydus needs the party to escort some army recruits to Hollis to defend the gate.
 
@@ -628,15 +702,29 @@ Upon exiting Ascalon City, the party may witness some dialogue between King Adel
 
 #### Regent Valley Defense
 
+|     Given By     |   Given At    | Preceded By | Followed By |
+| :--------------: | :-----------: | :---------: | :---------: |
+| Sergeant Brannen | Regent Valley |             |             |
+
+
+
 -------
 
-#### Replacement Healers
+#### Replacement Healers (![](C:/Users/lloyd/dev/Project GW/Prophecies/Assets/Symbols/Monk.png))
+
+|      Given By      |    Given At     | Preceded By | Followed By |
+| :----------------: | :-------------: | :---------: | :---------: |
+| Priestess Rashenna | Serenity Temple |             |             |
+
+
 
 -----------
 
 #### Scavengers in Old Ascalon
 
-**Preceded By:** `1.5 - Nolani Academy`
+|    Given By     |   Given At   |      Preceded By       | Followed By |
+| :-------------: | :----------: | :--------------------: | :---------: |
+| Warmaster Tydus | Ascalon City | `1.5 - Nolani Academy` |             |
 
 **Summary:** There are reports of scavengers in the ruins of the army citadel in Old Ascalon.
 
@@ -649,25 +737,51 @@ The party will meet a scavenger who goes by the name Thaddiel. He is very evasiv
 
 ------------
 
-#### Scorched Earth
+#### Scorched Earth (![](C:/Users/lloyd/dev/Project GW/Prophecies/Assets/Symbols/Elementalist.png))
+
+|      Given By       |  Given At   | Preceded By | Followed By |
+| :-----------------: | :---------: | :---------: | :---------: |
+| Elementalist Aziure | Old Ascalon |             |             |
+
+
 
 -----------
 
-#### Shalev's Task
+#### Shalev's Task (![](C:/Users/lloyd/dev/Project GW/Prophecies/Assets/Symbols/Elementalist.png))
+
+|     Given By      |  Given At   |      Preceded By      | Followed By |
+| :---------------: | :---------: | :-------------------: | :---------: |
+| Shalev the Hermit | Old Ascalon | `Elemental Knowledge` |             |
+
+
 
 ----------
 
-#### Sowing Seeds
+#### Sowing Seeds (![](C:/Users/lloyd/dev/Project GW/Prophecies/Assets/Symbols/Monk.png))
+
+|       Given By        |  Given At   | Preceded By | Followed By |
+| :-------------------: | :---------: | :---------: | :---------: |
+| Grazden the Protector | Old Ascalon |             |             |
+
+
 
 -------------
 
 #### Supplies for the Duke
 
+|     Given By      |  Given At   | Preceded By | Followed By |
+| :---------------: | :---------: | :---------: | :---------: |
+| Gate Guard Hollis | Old Ascalon |             |             |
+
+
+
 ------------
 
 #### Symon's History of Ascalon
 
-**Preceded by:** `Cities of Ascalon`
+|    Given By    |  Given At   |     Preceded By     | Followed By |
+| :------------: | :---------: | :-----------------: | :---------: |
+| Witness Rastin | Old Ascalon | `Cities of Ascalon` |             |
 
 **Summary:** Rastin approaches the party expressing interest in Symon's "History of Ascalon." He would be most appreciative if the party could get him some of the chapters.
 
@@ -685,9 +799,11 @@ The party will meet a scavenger who goes by the name Thaddiel. He is very evasiv
 
 #### The Ambassador's Quandary
 
-**Preceded By:** `1.1 - The Krytan Ambassador`
+|    Given By     |  Given At   |          Preceded By          | Followed By |
+| :-------------: | :---------: | :---------------------------: | :---------: |
+| Ambassador Zain | Old Ascalon | `1.1 - The Krytan Ambassador` |             |
 
-**Summary:** Zain is having a tough time keeping bandits out of his supplies, yet he cannot deal with the thief himself (being a Krytan in Ascalon). The goal is for the party to track down and kill the bandit ![](..\Assets\Symbols\Warrior.png)Torin and his friends. Along the way, the party may come across Charr or Devourers.
+**Summary:** Zain is having a tough time keeping bandits out of his supplies, yet he cannot deal with the thief himself (being a Krytan in Ascalon). The goal is for the party to track down and kill the bandit ![](C:/Users/lloyd/dev/Project GW/Prophecies/Assets/Symbols/Warrior.png)Torin and his friends. Along the way, the party may come across Charr or Devourers.
 
 | ![](..\Assets\Symbols\Monk.png) | Ambassador Zain                                              |
 | ------------------------------- | ------------------------------------------------------------ |
@@ -697,49 +813,121 @@ The party will meet a scavenger who goes by the name Thaddiel. He is very evasiv
 
 ------
 
-#### The Charr Patrol
+#### The Charr Patrol (![](C:/Users/lloyd/dev/Project GW/Prophecies/Assets/Symbols/Ranger.png))
+
+|      Given By       |  Given At   | Preceded By |       Followed By        |
+| :-----------------: | :---------: | :---------: | :----------------------: |
+| Master Ranger Nente | Old Ascalon |             | `The Charr Staging Area` |
+
+
 
 ----------
 
-#### The Charr Staging Area
+#### The Charr Staging Area (![](C:/Users/lloyd/dev/Project GW/Prophecies/Assets/Symbols/Ranger.png))
+
+|      Given By       |  Given At   |    Preceded By     | Followed By |
+| :-----------------: | :---------: | :----------------: | :---------: |
+| Master Ranger Nente | Old Ascalon | `The Charr Patrol` |             |
+
+
 
 ----------
 
 #### The Duke's Daughter
 
+| Given By |   Given At   | Preceded By | Followed By |
+| :------: | :----------: | :---------: | :---------: |
+|  Viggo   | Piken Square |             |             |
+
+**Summary:** The Duke's daughter, Prince Rurik's beloved, has gone missing. Rumor has it that she was taken by Charr.
+
+|      | Viggo                                                        |
+| ---- | ------------------------------------------------------------ |
+| Main | *"Rumor has it the reason we're out here is that the duke's daughter went missing. If the Charr have taken her, they'll be sorry. Althea is Prince Rurik's beloved, and if anything's happened to her, his wrath will be great. Look for any sign of her, and let me know if you find anything."* |
+
+The ghost of Althea can be found standing in the Diessa Lowlands (where at is up to the GM), surrounded by various Charr. Talking with her will give the party the explanation of what happened.
+
+| ![](..\Assets\Symbols\Mesmer.png) | Ghost of Althea                                              |
+| --------------------------------- | ------------------------------------------------------------ |
+| Inter                             | *"Do not be afraid. I mean you no harm.<br/><br />I am Lady Althea. Or at least I was before the Charr seized me. They took me to the Flame Temple Corridor and burned me alive, but I thought of my beloved Rurik and felt no pain."* |
+
+The party will then be able to report back to Barradin as of his daughter's fate. He will then ask for some time alone. Returning to him after a while, Barradin will have a favor to ask of the party: to venture to Flame Temple Corridor and retrieve the ashes of his daughter, so that he may give her a proper burial.
+
+| ![](..\Assets\Symbols\Warrior.png) | Duke Barradin                                                |
+| ---------------------------------- | ------------------------------------------------------------ |
+| Post                               | *"My poor Althea! I fear my heart will break... Thank you for telling me. I suppose I'm relieved to know the truth, however painful it may be. Please, leave me be for a while - I wish to further speak with you later though."* |
+| Main                               | *"I have been thinking about this story you told me of my daughter's ghost. I fear she cannot rest until her ashes are recovered and properly interred. Please go to the Flame Temple Corridor and gather Althea's ashes. Bring them back to me so I can lay her to rest. You'll have my gratitude."* |
+| Post                               | *"Althea's ashes... You have put this father's heart at ease. I thank you."* |
+
+
+
 ------------
 
-#### The Geomancer's Test
+#### The Geomancer's Test (![](C:/Users/lloyd/dev/Project GW/Prophecies/Assets/Symbols/Elementalist.png))
 
-------------
+|     Given By      |    Given At     |        Preceded By         | Followed By |
+| :---------------: | :-------------: | :------------------------: | :---------: |
+| Kendrick Redstaff | Serenity Temple | `The Way of the Geomancer` |             |
 
-#### The King's Message
+
 
 ----------
 
 #### The Last Day Dawns
 
+|    Given By     |    Given At     |       Preceded By        |    Followed By     |
+| :-------------: | :-------------: | :----------------------: | :----------------: |
+| Vision of Glint | Droknar's Forge | `Defend Droknar's Forge` | `The Titan Source` |
+
+
+
 ---------
 
 #### The Red-Cloaked Deserter
+
+|   Given By   |   Given At   | Preceded By | Followed By |
+| :----------: | :----------: | :---------: | :---------: |
+| Farrah Cappo | Piken Square |             |             |
+
+
 
 -----------
 
 #### The Siege of Piken Square
 
+|   Given By    |   Given At   | Preceded By |    Followed By     |
+| :-----------: | :----------: | :---------: | :----------------: |
+| Duke Barradin | Piken Square |             | `Hammer and Anvil` |
+
+
+
 --------------
 
-#### The Stolen Artifact
+#### The Stolen Artifact (![](C:/Users/lloyd/dev/Project GW/Prophecies/Assets/Symbols/Necromancer.png))
+
+|     Given By      |      Given At       | Preceded By | Followed By |
+| :---------------: | :-----------------: | :---------: | :---------: |
+| Necromancer Munne | Sardelac Sanitarium |             |             |
+
+
 
 ------------
 
 #### The Titan Source
 
+|    Given By     |    Given At     |   Preceded By    |          Followed By          |
+| :-------------: | :-------------: | :--------------: | :---------------------------: |
+| Vision of Glint | Droknar's Forge | `Defend Denravi` | `Defend North Krtya Province` |
+
+
+
 ----------
 
 #### The Troublesome Artifact
 
-**Preceded By:** `1.3 - Fort Ranik`
+|    Given By     |   Given At   |    Preceded By     | Followed By |
+| :-------------: | :----------: | :----------------: | :---------: |
+| Warmaster Tydus | Ascalon City | `1.3 - Fort Ranik` |             |
 
 **Summary:** Ambassador Zain has been giving artifacts to nearby merchants, and has arose Warmaster Tydus' suspicion.
 
@@ -754,21 +942,31 @@ The party will meet a scavenger who goes by the name Thaddiel. He is very evasiv
 
 -----------
 
-#### The Way of the Geomancer
+#### The Way of the Geomancer (![](C:/Users/lloyd/dev/Project GW/Prophecies/Assets/Symbols/Elementalist.png))
+
+|     Given By      |    Given At     | Preceded By |      Followed By       |
+| :---------------: | :-------------: | :---------: | :--------------------: |
+| Kendrick Redstaff | Serenity Temple |             | `The Geomancer's Test` |
+
+
 
 --------
 
-#### Trying Times
+#### Unnatural Creatures (![](C:/Users/lloyd/dev/Project GW/Prophecies/Assets/Symbols/Mesmer.png))
 
----------
+| Given By |    Given At     | Preceded By |      Followed By      |
+| :------: | :-------------: | :---------: | :-------------------: |
+| Erudine  | Serenity Temple |             | `Experimental Elixir` |
 
-#### Unnatural Creatures
+
 
 -----------
 
 #### Vanguard equipment
 
-**Preceded By:** `1.5 - Nolani Academy`
+|   Given By   |   Given At   |      Preceded By       | Followed By |
+| :----------: | :----------: | :--------------------: | :---------: |
+| Captain Arne | Ascalon City | `1.5 - Nolani Academy` |             |
 
 **Summary:** Captain Arne has been waiting in Fort Ranik for some goods - they were likely stolen.
 
@@ -793,46 +991,3 @@ a
 ### Notes
 
 a
-
------------
-
-## Act 2: From Citizens to Refugees
-
-### Story Arc
-
-#### 2.1 - The Way is Blocked
-
-INSERT MISSION DETAILS HERE
-
--------
-
-#### 2.2 - Borlis Pass
-
-INSERT MISSION DETAILS HERE
-
---------
-
-#### 2.3 - The Frost Gate
-
-INSERT MISSION DETAILS HERE
-
-------
-
-### Side Quests
-
-a
-
-------
-
-### Alternatives
-
-a
-
-------
-
-### Notes
-
-a
-
-
-
